@@ -1,0 +1,3438 @@
+localidad,anio,estacion,ciclo_hidrologico,hora_dia,primary_category,promedio_clips_hora
+12 DE ABRIL,2023,Spring,Creciente,0,Amphibian,19.8
+12 DE ABRIL,2023,Spring,Creciente,0,Anthropogenic,11.0
+12 DE ABRIL,2023,Spring,Creciente,0,Bird,0.8
+12 DE ABRIL,2023,Spring,Creciente,0,Insect,6.0
+12 DE ABRIL,2023,Spring,Creciente,1,Amphibian,5.4
+12 DE ABRIL,2023,Spring,Creciente,1,Anthropogenic,13.4
+12 DE ABRIL,2023,Spring,Creciente,1,Bird,0.8
+12 DE ABRIL,2023,Spring,Creciente,1,Insect,10.2
+12 DE ABRIL,2023,Spring,Creciente,2,Amphibian,1.0
+12 DE ABRIL,2023,Spring,Creciente,2,Anthropogenic,9.2
+12 DE ABRIL,2023,Spring,Creciente,2,Bird,0.4
+12 DE ABRIL,2023,Spring,Creciente,2,Insect,13.4
+12 DE ABRIL,2023,Spring,Creciente,3,Amphibian,0.8
+12 DE ABRIL,2023,Spring,Creciente,3,Anthropogenic,17.6
+12 DE ABRIL,2023,Spring,Creciente,3,Bird,1.6
+12 DE ABRIL,2023,Spring,Creciente,3,Insect,37.6
+12 DE ABRIL,2023,Spring,Creciente,4,Amphibian,1.6
+12 DE ABRIL,2023,Spring,Creciente,4,Anthropogenic,12.2
+12 DE ABRIL,2023,Spring,Creciente,4,Bird,0.2
+12 DE ABRIL,2023,Spring,Creciente,4,Insect,19.6
+12 DE ABRIL,2023,Spring,Creciente,5,Anthropogenic,14.0
+12 DE ABRIL,2023,Spring,Creciente,5,Bird,0.8
+12 DE ABRIL,2023,Spring,Creciente,5,Insect,17.2
+12 DE ABRIL,2023,Spring,Creciente,6,Amphibian,0.2
+12 DE ABRIL,2023,Spring,Creciente,6,Anthropogenic,13.6
+12 DE ABRIL,2023,Spring,Creciente,6,Bird,20.8
+12 DE ABRIL,2023,Spring,Creciente,6,Insect,45.0
+12 DE ABRIL,2023,Spring,Creciente,6,Mammal,1.4
+12 DE ABRIL,2023,Spring,Creciente,7,Anthropogenic,8.2
+12 DE ABRIL,2023,Spring,Creciente,7,Bird,18.4
+12 DE ABRIL,2023,Spring,Creciente,7,Insect,46.8
+12 DE ABRIL,2023,Spring,Creciente,7,Mammal,0.4
+12 DE ABRIL,2023,Spring,Creciente,8,Anthropogenic,0.2
+12 DE ABRIL,2023,Spring,Creciente,8,Bird,21.8
+12 DE ABRIL,2023,Spring,Creciente,8,Insect,11.8
+12 DE ABRIL,2023,Spring,Creciente,9,Anthropogenic,1.6
+12 DE ABRIL,2023,Spring,Creciente,9,Bird,30.2
+12 DE ABRIL,2023,Spring,Creciente,9,Insect,8.2
+12 DE ABRIL,2023,Spring,Creciente,9,Mammal,2.0
+12 DE ABRIL,2023,Spring,Creciente,10,Amphibian,0.2
+12 DE ABRIL,2023,Spring,Creciente,10,Anthropogenic,13.8
+12 DE ABRIL,2023,Spring,Creciente,10,Bird,44.0
+12 DE ABRIL,2023,Spring,Creciente,10,Insect,29.6
+12 DE ABRIL,2023,Spring,Creciente,10,Mammal,0.8
+12 DE ABRIL,2023,Spring,Creciente,11,Anthropogenic,23.4
+12 DE ABRIL,2023,Spring,Creciente,11,Bird,37.2
+12 DE ABRIL,2023,Spring,Creciente,11,Insect,36.6
+12 DE ABRIL,2023,Spring,Creciente,11,Mammal,1.0
+12 DE ABRIL,2023,Spring,Creciente,12,Anthropogenic,19.4
+12 DE ABRIL,2023,Spring,Creciente,12,Bird,46.2
+12 DE ABRIL,2023,Spring,Creciente,12,Insect,47.6
+12 DE ABRIL,2023,Spring,Creciente,12,Mammal,3.2
+12 DE ABRIL,2023,Spring,Creciente,13,Anthropogenic,25.0
+12 DE ABRIL,2023,Spring,Creciente,13,Bird,38.6
+12 DE ABRIL,2023,Spring,Creciente,13,Insect,27.8
+12 DE ABRIL,2023,Spring,Creciente,14,Anthropogenic,21.4
+12 DE ABRIL,2023,Spring,Creciente,14,Bird,44.8
+12 DE ABRIL,2023,Spring,Creciente,14,Insect,43.2
+12 DE ABRIL,2023,Spring,Creciente,14,Mammal,1.2
+12 DE ABRIL,2023,Spring,Creciente,15,Amphibian,0.8
+12 DE ABRIL,2023,Spring,Creciente,15,Anthropogenic,12.2
+12 DE ABRIL,2023,Spring,Creciente,15,Bird,36.2
+12 DE ABRIL,2023,Spring,Creciente,15,Insect,56.8
+12 DE ABRIL,2023,Spring,Creciente,15,Mammal,0.4
+12 DE ABRIL,2023,Spring,Creciente,16,Amphibian,2.6
+12 DE ABRIL,2023,Spring,Creciente,16,Anthropogenic,7.6
+12 DE ABRIL,2023,Spring,Creciente,16,Bird,60.0
+12 DE ABRIL,2023,Spring,Creciente,16,Insect,70.4
+12 DE ABRIL,2023,Spring,Creciente,16,Mammal,0.4
+12 DE ABRIL,2023,Spring,Creciente,17,Amphibian,2.0
+12 DE ABRIL,2023,Spring,Creciente,17,Anthropogenic,5.2
+12 DE ABRIL,2023,Spring,Creciente,17,Bird,38.2
+12 DE ABRIL,2023,Spring,Creciente,17,Insect,101.2
+12 DE ABRIL,2023,Spring,Creciente,17,Mammal,0.2
+12 DE ABRIL,2023,Spring,Creciente,18,Amphibian,6.4
+12 DE ABRIL,2023,Spring,Creciente,18,Anthropogenic,15.2
+12 DE ABRIL,2023,Spring,Creciente,18,Bird,12.2
+12 DE ABRIL,2023,Spring,Creciente,18,Insect,106.6
+12 DE ABRIL,2023,Spring,Creciente,19,Amphibian,8.0
+12 DE ABRIL,2023,Spring,Creciente,19,Anthropogenic,4.8
+12 DE ABRIL,2023,Spring,Creciente,19,Insect,143.0
+12 DE ABRIL,2023,Spring,Creciente,20,Amphibian,24.6
+12 DE ABRIL,2023,Spring,Creciente,20,Anthropogenic,15.4
+12 DE ABRIL,2023,Spring,Creciente,20,Bird,0.6
+12 DE ABRIL,2023,Spring,Creciente,20,Insect,75.6
+12 DE ABRIL,2023,Spring,Creciente,21,Amphibian,26.2
+12 DE ABRIL,2023,Spring,Creciente,21,Anthropogenic,14.0
+12 DE ABRIL,2023,Spring,Creciente,21,Bird,3.8
+12 DE ABRIL,2023,Spring,Creciente,21,Insect,79.8
+12 DE ABRIL,2023,Spring,Creciente,22,Amphibian,43.8
+12 DE ABRIL,2023,Spring,Creciente,22,Anthropogenic,23.0
+12 DE ABRIL,2023,Spring,Creciente,22,Bird,0.4
+12 DE ABRIL,2023,Spring,Creciente,22,Insect,49.2
+12 DE ABRIL,2023,Spring,Creciente,23,Amphibian,26.6
+12 DE ABRIL,2023,Spring,Creciente,23,Anthropogenic,12.2
+12 DE ABRIL,2023,Spring,Creciente,23,Bird,0.2
+12 DE ABRIL,2023,Spring,Creciente,23,Insect,50.2
+12 DE ABRIL,2023,Summer,Creciente,0,Amphibian,20.67
+12 DE ABRIL,2023,Summer,Creciente,0,Anthropogenic,44.5
+12 DE ABRIL,2023,Summer,Creciente,0,Bird,2.33
+12 DE ABRIL,2023,Summer,Creciente,0,Insect,78.5
+12 DE ABRIL,2023,Summer,Creciente,1,Amphibian,12.0
+12 DE ABRIL,2023,Summer,Creciente,1,Anthropogenic,38.5
+12 DE ABRIL,2023,Summer,Creciente,1,Bird,0.67
+12 DE ABRIL,2023,Summer,Creciente,1,Insect,58.67
+12 DE ABRIL,2023,Summer,Creciente,2,Amphibian,8.67
+12 DE ABRIL,2023,Summer,Creciente,2,Anthropogenic,41.33
+12 DE ABRIL,2023,Summer,Creciente,2,Bird,0.83
+12 DE ABRIL,2023,Summer,Creciente,2,Insect,54.17
+12 DE ABRIL,2023,Summer,Creciente,3,Amphibian,7.83
+12 DE ABRIL,2023,Summer,Creciente,3,Anthropogenic,31.5
+12 DE ABRIL,2023,Summer,Creciente,3,Bird,1.67
+12 DE ABRIL,2023,Summer,Creciente,3,Insect,50.83
+12 DE ABRIL,2023,Summer,Creciente,3,Mammal,0.17
+12 DE ABRIL,2023,Summer,Creciente,4,Amphibian,4.17
+12 DE ABRIL,2023,Summer,Creciente,4,Anthropogenic,49.33
+12 DE ABRIL,2023,Summer,Creciente,4,Bird,2.0
+12 DE ABRIL,2023,Summer,Creciente,4,Insect,58.33
+12 DE ABRIL,2023,Summer,Creciente,5,Amphibian,21.67
+12 DE ABRIL,2023,Summer,Creciente,5,Anthropogenic,43.17
+12 DE ABRIL,2023,Summer,Creciente,5,Bird,9.33
+12 DE ABRIL,2023,Summer,Creciente,5,Insect,86.0
+12 DE ABRIL,2023,Summer,Creciente,5,Mammal,0.33
+12 DE ABRIL,2023,Summer,Creciente,6,Amphibian,0.33
+12 DE ABRIL,2023,Summer,Creciente,6,Anthropogenic,8.83
+12 DE ABRIL,2023,Summer,Creciente,6,Bird,68.0
+12 DE ABRIL,2023,Summer,Creciente,6,Insect,85.5
+12 DE ABRIL,2023,Summer,Creciente,6,Mammal,0.5
+12 DE ABRIL,2023,Summer,Creciente,7,Amphibian,0.83
+12 DE ABRIL,2023,Summer,Creciente,7,Anthropogenic,19.67
+12 DE ABRIL,2023,Summer,Creciente,7,Bird,63.0
+12 DE ABRIL,2023,Summer,Creciente,7,Insect,98.17
+12 DE ABRIL,2023,Summer,Creciente,7,Mammal,1.33
+12 DE ABRIL,2023,Summer,Creciente,8,Amphibian,0.5
+12 DE ABRIL,2023,Summer,Creciente,8,Anthropogenic,24.83
+12 DE ABRIL,2023,Summer,Creciente,8,Bird,77.5
+12 DE ABRIL,2023,Summer,Creciente,8,Insect,80.0
+12 DE ABRIL,2023,Summer,Creciente,8,Mammal,0.5
+12 DE ABRIL,2023,Summer,Creciente,9,Amphibian,0.17
+12 DE ABRIL,2023,Summer,Creciente,9,Anthropogenic,22.5
+12 DE ABRIL,2023,Summer,Creciente,9,Bird,77.83
+12 DE ABRIL,2023,Summer,Creciente,9,Insect,39.5
+12 DE ABRIL,2023,Summer,Creciente,9,Mammal,1.17
+12 DE ABRIL,2023,Summer,Creciente,10,Amphibian,0.5
+12 DE ABRIL,2023,Summer,Creciente,10,Anthropogenic,26.83
+12 DE ABRIL,2023,Summer,Creciente,10,Bird,53.17
+12 DE ABRIL,2023,Summer,Creciente,10,Insect,29.67
+12 DE ABRIL,2023,Summer,Creciente,10,Mammal,0.33
+12 DE ABRIL,2023,Summer,Creciente,11,Amphibian,0.17
+12 DE ABRIL,2023,Summer,Creciente,11,Anthropogenic,19.17
+12 DE ABRIL,2023,Summer,Creciente,11,Bird,63.0
+12 DE ABRIL,2023,Summer,Creciente,11,Insect,38.5
+12 DE ABRIL,2023,Summer,Creciente,11,Mammal,0.5
+12 DE ABRIL,2023,Summer,Creciente,12,Amphibian,0.83
+12 DE ABRIL,2023,Summer,Creciente,12,Anthropogenic,18.83
+12 DE ABRIL,2023,Summer,Creciente,12,Bird,68.83
+12 DE ABRIL,2023,Summer,Creciente,12,Insect,38.5
+12 DE ABRIL,2023,Summer,Creciente,12,Mammal,0.33
+12 DE ABRIL,2023,Summer,Creciente,13,Anthropogenic,22.83
+12 DE ABRIL,2023,Summer,Creciente,13,Bird,53.17
+12 DE ABRIL,2023,Summer,Creciente,13,Insect,31.5
+12 DE ABRIL,2023,Summer,Creciente,13,Mammal,0.33
+12 DE ABRIL,2023,Summer,Creciente,14,Anthropogenic,20.17
+12 DE ABRIL,2023,Summer,Creciente,14,Bird,55.83
+12 DE ABRIL,2023,Summer,Creciente,14,Insect,42.83
+12 DE ABRIL,2023,Summer,Creciente,14,Mammal,0.17
+12 DE ABRIL,2023,Summer,Creciente,15,Amphibian,0.17
+12 DE ABRIL,2023,Summer,Creciente,15,Anthropogenic,22.0
+12 DE ABRIL,2023,Summer,Creciente,15,Bird,43.0
+12 DE ABRIL,2023,Summer,Creciente,15,Insect,56.33
+12 DE ABRIL,2023,Summer,Creciente,15,Mammal,0.33
+12 DE ABRIL,2023,Summer,Creciente,16,Amphibian,1.0
+12 DE ABRIL,2023,Summer,Creciente,16,Anthropogenic,19.67
+12 DE ABRIL,2023,Summer,Creciente,16,Bird,48.0
+12 DE ABRIL,2023,Summer,Creciente,16,Insect,71.5
+12 DE ABRIL,2023,Summer,Creciente,16,Mammal,0.17
+12 DE ABRIL,2023,Summer,Creciente,17,Amphibian,3.5
+12 DE ABRIL,2023,Summer,Creciente,17,Anthropogenic,27.17
+12 DE ABRIL,2023,Summer,Creciente,17,Bird,55.33
+12 DE ABRIL,2023,Summer,Creciente,17,Insect,67.17
+12 DE ABRIL,2023,Summer,Creciente,18,Amphibian,19.0
+12 DE ABRIL,2023,Summer,Creciente,18,Anthropogenic,26.83
+12 DE ABRIL,2023,Summer,Creciente,18,Bird,15.0
+12 DE ABRIL,2023,Summer,Creciente,18,Insect,97.67
+12 DE ABRIL,2023,Summer,Creciente,19,Amphibian,2.83
+12 DE ABRIL,2023,Summer,Creciente,19,Anthropogenic,8.67
+12 DE ABRIL,2023,Summer,Creciente,19,Bird,0.17
+12 DE ABRIL,2023,Summer,Creciente,19,Insect,134.33
+12 DE ABRIL,2023,Summer,Creciente,20,Amphibian,15.5
+12 DE ABRIL,2023,Summer,Creciente,20,Anthropogenic,32.67
+12 DE ABRIL,2023,Summer,Creciente,20,Bird,0.17
+12 DE ABRIL,2023,Summer,Creciente,20,Insect,94.33
+12 DE ABRIL,2023,Summer,Creciente,21,Amphibian,33.83
+12 DE ABRIL,2023,Summer,Creciente,21,Anthropogenic,32.0
+12 DE ABRIL,2023,Summer,Creciente,21,Bird,0.33
+12 DE ABRIL,2023,Summer,Creciente,21,Insect,72.83
+12 DE ABRIL,2023,Summer,Creciente,22,Amphibian,46.0
+12 DE ABRIL,2023,Summer,Creciente,22,Anthropogenic,25.17
+12 DE ABRIL,2023,Summer,Creciente,22,Bird,7.0
+12 DE ABRIL,2023,Summer,Creciente,22,Insect,53.5
+12 DE ABRIL,2023,Summer,Creciente,23,Amphibian,30.33
+12 DE ABRIL,2023,Summer,Creciente,23,Anthropogenic,32.83
+12 DE ABRIL,2023,Summer,Creciente,23,Bird,4.17
+12 DE ABRIL,2023,Summer,Creciente,23,Insect,51.67
+12 DE ABRIL,2023,Winter,Vaciante,0,Anthropogenic,92.86
+12 DE ABRIL,2023,Winter,Vaciante,0,Bird,3.86
+12 DE ABRIL,2023,Winter,Vaciante,0,Insect,165.0
+12 DE ABRIL,2023,Winter,Vaciante,0,Mammal,0.29
+12 DE ABRIL,2023,Winter,Vaciante,1,Amphibian,1.0
+12 DE ABRIL,2023,Winter,Vaciante,1,Anthropogenic,77.43
+12 DE ABRIL,2023,Winter,Vaciante,1,Bird,4.0
+12 DE ABRIL,2023,Winter,Vaciante,1,Insect,175.0
+12 DE ABRIL,2023,Winter,Vaciante,1,Mammal,1.0
+12 DE ABRIL,2023,Winter,Vaciante,2,Amphibian,1.14
+12 DE ABRIL,2023,Winter,Vaciante,2,Anthropogenic,59.43
+12 DE ABRIL,2023,Winter,Vaciante,2,Bird,3.57
+12 DE ABRIL,2023,Winter,Vaciante,2,Insect,169.29
+12 DE ABRIL,2023,Winter,Vaciante,3,Amphibian,0.71
+12 DE ABRIL,2023,Winter,Vaciante,3,Anthropogenic,72.71
+12 DE ABRIL,2023,Winter,Vaciante,3,Bird,1.86
+12 DE ABRIL,2023,Winter,Vaciante,3,Insect,164.86
+12 DE ABRIL,2023,Winter,Vaciante,4,Amphibian,4.0
+12 DE ABRIL,2023,Winter,Vaciante,4,Anthropogenic,65.71
+12 DE ABRIL,2023,Winter,Vaciante,4,Bird,8.86
+12 DE ABRIL,2023,Winter,Vaciante,4,Insect,182.29
+12 DE ABRIL,2023,Winter,Vaciante,4,Mammal,0.14
+12 DE ABRIL,2023,Winter,Vaciante,5,Amphibian,1.29
+12 DE ABRIL,2023,Winter,Vaciante,5,Anthropogenic,31.71
+12 DE ABRIL,2023,Winter,Vaciante,5,Bird,42.71
+12 DE ABRIL,2023,Winter,Vaciante,5,Insect,177.71
+12 DE ABRIL,2023,Winter,Vaciante,5,Mammal,0.71
+12 DE ABRIL,2023,Winter,Vaciante,6,Amphibian,2.0
+12 DE ABRIL,2023,Winter,Vaciante,6,Anthropogenic,34.43
+12 DE ABRIL,2023,Winter,Vaciante,6,Bird,75.29
+12 DE ABRIL,2023,Winter,Vaciante,6,Insect,153.86
+12 DE ABRIL,2023,Winter,Vaciante,6,Mammal,1.43
+12 DE ABRIL,2023,Winter,Vaciante,7,Amphibian,1.71
+12 DE ABRIL,2023,Winter,Vaciante,7,Anthropogenic,45.29
+12 DE ABRIL,2023,Winter,Vaciante,7,Bird,62.57
+12 DE ABRIL,2023,Winter,Vaciante,7,Insect,137.43
+12 DE ABRIL,2023,Winter,Vaciante,7,Mammal,0.14
+12 DE ABRIL,2023,Winter,Vaciante,8,Amphibian,0.86
+12 DE ABRIL,2023,Winter,Vaciante,8,Anthropogenic,48.29
+12 DE ABRIL,2023,Winter,Vaciante,8,Bird,60.71
+12 DE ABRIL,2023,Winter,Vaciante,8,Insect,133.14
+12 DE ABRIL,2023,Winter,Vaciante,8,Mammal,0.14
+12 DE ABRIL,2023,Winter,Vaciante,9,Amphibian,0.43
+12 DE ABRIL,2023,Winter,Vaciante,9,Anthropogenic,42.71
+12 DE ABRIL,2023,Winter,Vaciante,9,Bird,66.57
+12 DE ABRIL,2023,Winter,Vaciante,9,Insect,111.29
+12 DE ABRIL,2023,Winter,Vaciante,9,Mammal,0.43
+12 DE ABRIL,2023,Winter,Vaciante,10,Amphibian,0.14
+12 DE ABRIL,2023,Winter,Vaciante,10,Anthropogenic,45.43
+12 DE ABRIL,2023,Winter,Vaciante,10,Bird,83.0
+12 DE ABRIL,2023,Winter,Vaciante,10,Insect,98.86
+12 DE ABRIL,2023,Winter,Vaciante,10,Mammal,0.86
+12 DE ABRIL,2023,Winter,Vaciante,11,Amphibian,0.14
+12 DE ABRIL,2023,Winter,Vaciante,11,Anthropogenic,42.14
+12 DE ABRIL,2023,Winter,Vaciante,11,Bird,43.86
+12 DE ABRIL,2023,Winter,Vaciante,11,Insect,61.43
+12 DE ABRIL,2023,Winter,Vaciante,11,Mammal,0.86
+12 DE ABRIL,2023,Winter,Vaciante,12,Amphibian,0.43
+12 DE ABRIL,2023,Winter,Vaciante,12,Anthropogenic,42.43
+12 DE ABRIL,2023,Winter,Vaciante,12,Bird,35.43
+12 DE ABRIL,2023,Winter,Vaciante,12,Insect,37.0
+12 DE ABRIL,2023,Winter,Vaciante,12,Mammal,1.14
+12 DE ABRIL,2023,Winter,Vaciante,13,Amphibian,0.86
+12 DE ABRIL,2023,Winter,Vaciante,13,Anthropogenic,33.0
+12 DE ABRIL,2023,Winter,Vaciante,13,Bird,17.29
+12 DE ABRIL,2023,Winter,Vaciante,13,Insect,48.71
+12 DE ABRIL,2023,Winter,Vaciante,14,Amphibian,0.43
+12 DE ABRIL,2023,Winter,Vaciante,14,Anthropogenic,36.0
+12 DE ABRIL,2023,Winter,Vaciante,14,Bird,17.86
+12 DE ABRIL,2023,Winter,Vaciante,14,Insect,71.0
+12 DE ABRIL,2023,Winter,Vaciante,14,Mammal,0.14
+12 DE ABRIL,2023,Winter,Vaciante,15,Amphibian,0.57
+12 DE ABRIL,2023,Winter,Vaciante,15,Anthropogenic,49.57
+12 DE ABRIL,2023,Winter,Vaciante,15,Bird,20.86
+12 DE ABRIL,2023,Winter,Vaciante,15,Insect,106.71
+12 DE ABRIL,2023,Winter,Vaciante,16,Amphibian,3.14
+12 DE ABRIL,2023,Winter,Vaciante,16,Anthropogenic,46.0
+12 DE ABRIL,2023,Winter,Vaciante,16,Bird,21.43
+12 DE ABRIL,2023,Winter,Vaciante,16,Insect,138.86
+12 DE ABRIL,2023,Winter,Vaciante,16,Mammal,0.14
+12 DE ABRIL,2023,Winter,Vaciante,17,Amphibian,0.57
+12 DE ABRIL,2023,Winter,Vaciante,17,Anthropogenic,65.43
+12 DE ABRIL,2023,Winter,Vaciante,17,Bird,18.29
+12 DE ABRIL,2023,Winter,Vaciante,17,Insect,153.29
+12 DE ABRIL,2023,Winter,Vaciante,18,Amphibian,1.43
+12 DE ABRIL,2023,Winter,Vaciante,18,Anthropogenic,67.71
+12 DE ABRIL,2023,Winter,Vaciante,18,Bird,6.86
+12 DE ABRIL,2023,Winter,Vaciante,18,Insect,179.86
+12 DE ABRIL,2023,Winter,Vaciante,18,Mammal,0.43
+12 DE ABRIL,2023,Winter,Vaciante,19,Amphibian,1.14
+12 DE ABRIL,2023,Winter,Vaciante,19,Anthropogenic,85.29
+12 DE ABRIL,2023,Winter,Vaciante,19,Bird,1.14
+12 DE ABRIL,2023,Winter,Vaciante,19,Insect,195.29
+12 DE ABRIL,2023,Winter,Vaciante,20,Amphibian,2.43
+12 DE ABRIL,2023,Winter,Vaciante,20,Anthropogenic,120.0
+12 DE ABRIL,2023,Winter,Vaciante,20,Bird,2.43
+12 DE ABRIL,2023,Winter,Vaciante,20,Insect,160.14
+12 DE ABRIL,2023,Winter,Vaciante,20,Mammal,2.0
+12 DE ABRIL,2023,Winter,Vaciante,21,Amphibian,1.71
+12 DE ABRIL,2023,Winter,Vaciante,21,Anthropogenic,120.86
+12 DE ABRIL,2023,Winter,Vaciante,21,Bird,3.14
+12 DE ABRIL,2023,Winter,Vaciante,21,Insect,161.29
+12 DE ABRIL,2023,Winter,Vaciante,21,Mammal,2.57
+12 DE ABRIL,2023,Winter,Vaciante,22,Amphibian,1.14
+12 DE ABRIL,2023,Winter,Vaciante,22,Anthropogenic,99.43
+12 DE ABRIL,2023,Winter,Vaciante,22,Bird,3.14
+12 DE ABRIL,2023,Winter,Vaciante,22,Insect,152.29
+12 DE ABRIL,2023,Winter,Vaciante,22,Mammal,1.0
+12 DE ABRIL,2023,Winter,Vaciante,23,Amphibian,0.57
+12 DE ABRIL,2023,Winter,Vaciante,23,Anthropogenic,99.43
+12 DE ABRIL,2023,Winter,Vaciante,23,Bird,4.86
+12 DE ABRIL,2023,Winter,Vaciante,23,Insect,154.29
+12 DE ABRIL,2023,Winter,Vaciante,23,Mammal,1.29
+12 DE ABRIL,2024,Autumn,Creciente,0,Amphibian,0.22
+12 DE ABRIL,2024,Autumn,Creciente,0,Anthropogenic,1.0
+12 DE ABRIL,2024,Autumn,Creciente,0,Bird,0.11
+12 DE ABRIL,2024,Autumn,Creciente,0,Insect,84.0
+12 DE ABRIL,2024,Autumn,Creciente,1,Amphibian,0.22
+12 DE ABRIL,2024,Autumn,Creciente,1,Anthropogenic,4.22
+12 DE ABRIL,2024,Autumn,Creciente,1,Bird,0.22
+12 DE ABRIL,2024,Autumn,Creciente,1,Insect,72.33
+12 DE ABRIL,2024,Autumn,Creciente,2,Amphibian,1.22
+12 DE ABRIL,2024,Autumn,Creciente,2,Anthropogenic,0.89
+12 DE ABRIL,2024,Autumn,Creciente,2,Bird,0.22
+12 DE ABRIL,2024,Autumn,Creciente,2,Insect,68.44
+12 DE ABRIL,2024,Autumn,Creciente,3,Amphibian,0.22
+12 DE ABRIL,2024,Autumn,Creciente,3,Anthropogenic,2.78
+12 DE ABRIL,2024,Autumn,Creciente,3,Bird,0.56
+12 DE ABRIL,2024,Autumn,Creciente,3,Insect,72.67
+12 DE ABRIL,2024,Autumn,Creciente,4,Amphibian,0.44
+12 DE ABRIL,2024,Autumn,Creciente,4,Anthropogenic,0.11
+12 DE ABRIL,2024,Autumn,Creciente,4,Bird,4.11
+12 DE ABRIL,2024,Autumn,Creciente,4,Insect,65.67
+12 DE ABRIL,2024,Autumn,Creciente,5,Amphibian,1.89
+12 DE ABRIL,2024,Autumn,Creciente,5,Anthropogenic,6.67
+12 DE ABRIL,2024,Autumn,Creciente,5,Bird,1.22
+12 DE ABRIL,2024,Autumn,Creciente,5,Insect,66.56
+12 DE ABRIL,2024,Autumn,Creciente,6,Anthropogenic,3.22
+12 DE ABRIL,2024,Autumn,Creciente,6,Bird,8.89
+12 DE ABRIL,2024,Autumn,Creciente,6,Insect,77.11
+12 DE ABRIL,2024,Autumn,Creciente,7,Anthropogenic,2.78
+12 DE ABRIL,2024,Autumn,Creciente,7,Bird,3.67
+12 DE ABRIL,2024,Autumn,Creciente,7,Insect,85.78
+12 DE ABRIL,2024,Autumn,Creciente,8,Anthropogenic,1.44
+12 DE ABRIL,2024,Autumn,Creciente,8,Bird,9.78
+12 DE ABRIL,2024,Autumn,Creciente,8,Insect,71.33
+12 DE ABRIL,2024,Autumn,Creciente,9,Anthropogenic,4.44
+12 DE ABRIL,2024,Autumn,Creciente,9,Bird,7.67
+12 DE ABRIL,2024,Autumn,Creciente,9,Insect,63.11
+12 DE ABRIL,2024,Autumn,Creciente,10,Anthropogenic,4.44
+12 DE ABRIL,2024,Autumn,Creciente,10,Bird,3.89
+12 DE ABRIL,2024,Autumn,Creciente,10,Insect,67.22
+12 DE ABRIL,2024,Autumn,Creciente,10,Mammal,0.22
+12 DE ABRIL,2024,Autumn,Creciente,11,Anthropogenic,2.11
+12 DE ABRIL,2024,Autumn,Creciente,11,Bird,3.44
+12 DE ABRIL,2024,Autumn,Creciente,11,Insect,70.11
+12 DE ABRIL,2024,Autumn,Creciente,11,Mammal,0.33
+12 DE ABRIL,2024,Autumn,Creciente,12,Anthropogenic,4.33
+12 DE ABRIL,2024,Autumn,Creciente,12,Bird,7.11
+12 DE ABRIL,2024,Autumn,Creciente,12,Insect,59.0
+12 DE ABRIL,2024,Autumn,Creciente,12,Mammal,0.11
+12 DE ABRIL,2024,Autumn,Creciente,13,Anthropogenic,6.89
+12 DE ABRIL,2024,Autumn,Creciente,13,Bird,8.89
+12 DE ABRIL,2024,Autumn,Creciente,13,Insect,71.56
+12 DE ABRIL,2024,Autumn,Creciente,14,Anthropogenic,10.33
+12 DE ABRIL,2024,Autumn,Creciente,14,Bird,9.56
+12 DE ABRIL,2024,Autumn,Creciente,14,Insect,60.0
+12 DE ABRIL,2024,Autumn,Creciente,14,Mammal,0.56
+12 DE ABRIL,2024,Autumn,Creciente,15,Amphibian,0.11
+12 DE ABRIL,2024,Autumn,Creciente,15,Anthropogenic,10.11
+12 DE ABRIL,2024,Autumn,Creciente,15,Bird,9.67
+12 DE ABRIL,2024,Autumn,Creciente,15,Insect,85.56
+12 DE ABRIL,2024,Autumn,Creciente,15,Mammal,0.33
+12 DE ABRIL,2024,Autumn,Creciente,16,Amphibian,4.56
+12 DE ABRIL,2024,Autumn,Creciente,16,Anthropogenic,5.0
+12 DE ABRIL,2024,Autumn,Creciente,16,Bird,5.56
+12 DE ABRIL,2024,Autumn,Creciente,16,Insect,82.0
+12 DE ABRIL,2024,Autumn,Creciente,16,Mammal,0.11
+12 DE ABRIL,2024,Autumn,Creciente,17,Amphibian,7.67
+12 DE ABRIL,2024,Autumn,Creciente,17,Anthropogenic,6.22
+12 DE ABRIL,2024,Autumn,Creciente,17,Bird,4.56
+12 DE ABRIL,2024,Autumn,Creciente,17,Insect,78.44
+12 DE ABRIL,2024,Autumn,Creciente,18,Amphibian,6.67
+12 DE ABRIL,2024,Autumn,Creciente,18,Anthropogenic,11.78
+12 DE ABRIL,2024,Autumn,Creciente,18,Bird,0.56
+12 DE ABRIL,2024,Autumn,Creciente,18,Insect,83.22
+12 DE ABRIL,2024,Autumn,Creciente,19,Amphibian,0.78
+12 DE ABRIL,2024,Autumn,Creciente,19,Anthropogenic,4.33
+12 DE ABRIL,2024,Autumn,Creciente,19,Bird,4.78
+12 DE ABRIL,2024,Autumn,Creciente,19,Insect,107.0
+12 DE ABRIL,2024,Autumn,Creciente,20,Amphibian,2.89
+12 DE ABRIL,2024,Autumn,Creciente,20,Anthropogenic,0.56
+12 DE ABRIL,2024,Autumn,Creciente,20,Bird,0.56
+12 DE ABRIL,2024,Autumn,Creciente,20,Insect,109.44
+12 DE ABRIL,2024,Autumn,Creciente,21,Amphibian,0.33
+12 DE ABRIL,2024,Autumn,Creciente,21,Anthropogenic,6.11
+12 DE ABRIL,2024,Autumn,Creciente,21,Insect,93.89
+12 DE ABRIL,2024,Autumn,Creciente,22,Amphibian,0.33
+12 DE ABRIL,2024,Autumn,Creciente,22,Anthropogenic,7.56
+12 DE ABRIL,2024,Autumn,Creciente,22,Bird,0.11
+12 DE ABRIL,2024,Autumn,Creciente,22,Insect,88.11
+12 DE ABRIL,2024,Autumn,Creciente,23,Amphibian,0.11
+12 DE ABRIL,2024,Autumn,Creciente,23,Anthropogenic,3.22
+12 DE ABRIL,2024,Autumn,Creciente,23,Bird,0.56
+12 DE ABRIL,2024,Autumn,Creciente,23,Insect,92.89
+12 DE ABRIL,2024,Spring,Creciente,10,Amphibian,1.0
+12 DE ABRIL,2024,Spring,Creciente,10,Anthropogenic,79.0
+12 DE ABRIL,2024,Spring,Creciente,10,Bird,382.0
+12 DE ABRIL,2024,Spring,Creciente,10,Insect,576.0
+12 DE ABRIL,2024,Spring,Creciente,10,Mammal,2.0
+12 DE ABRIL,2024,Spring,Creciente,11,Amphibian,3.0
+12 DE ABRIL,2024,Spring,Creciente,11,Anthropogenic,80.0
+12 DE ABRIL,2024,Spring,Creciente,11,Bird,177.0
+12 DE ABRIL,2024,Spring,Creciente,11,Insect,424.0
+12 DE ABRIL,2024,Spring,Creciente,11,Mammal,5.0
+12 DE ABRIL,2024,Spring,Creciente,12,Amphibian,2.0
+12 DE ABRIL,2024,Spring,Creciente,12,Anthropogenic,213.0
+12 DE ABRIL,2024,Spring,Creciente,12,Bird,10.0
+12 DE ABRIL,2024,Spring,Creciente,12,Insect,219.0
+12 DE ABRIL,2024,Spring,Creciente,12,Mammal,1.0
+12 DE ABRIL,2024,Spring,Creciente,13,Amphibian,2.0
+12 DE ABRIL,2024,Spring,Creciente,13,Bird,8.0
+12 DE ABRIL,2024,Spring,Creciente,13,Insect,120.0
+12 DE ABRIL,2024,Spring,Creciente,14,Anthropogenic,2.0
+12 DE ABRIL,2024,Spring,Creciente,14,Bird,1.0
+12 DE ABRIL,2024,Spring,Creciente,14,Insect,3.0
+12 DE ABRIL,2024,Spring,Creciente,14,Mammal,2.0
+12 DE ABRIL,2024,Spring,Creciente,15,Amphibian,1.0
+12 DE ABRIL,2024,Spring,Creciente,15,Anthropogenic,12.0
+12 DE ABRIL,2024,Spring,Creciente,15,Bird,2.0
+12 DE ABRIL,2024,Spring,Creciente,15,Insect,21.0
+12 DE ABRIL,2024,Spring,Creciente,16,Amphibian,3.0
+12 DE ABRIL,2024,Spring,Creciente,16,Anthropogenic,100.0
+12 DE ABRIL,2024,Spring,Creciente,16,Insect,87.0
+12 DE ABRIL,2024,Spring,Creciente,17,Amphibian,2.0
+12 DE ABRIL,2024,Spring,Creciente,17,Anthropogenic,79.0
+12 DE ABRIL,2024,Spring,Creciente,17,Insect,15.0
+12 DE ABRIL,2024,Spring,Creciente,18,Amphibian,2.0
+12 DE ABRIL,2024,Spring,Creciente,18,Anthropogenic,213.0
+12 DE ABRIL,2024,Spring,Creciente,19,Amphibian,1.0
+12 DE ABRIL,2024,Spring,Creciente,19,Anthropogenic,655.0
+12 DE ABRIL,2024,Spring,Creciente,19,Bird,2.0
+12 DE ABRIL,2024,Spring,Creciente,19,Insect,2.0
+12 DE ABRIL,2024,Spring,Creciente,20,Anthropogenic,653.0
+12 DE ABRIL,2024,Spring,Creciente,20,Bird,1.0
+12 DE ABRIL,2024,Spring,Creciente,20,Insect,5.0
+12 DE ABRIL,2024,Spring,Creciente,21,Anthropogenic,642.0
+12 DE ABRIL,2024,Spring,Creciente,22,Anthropogenic,632.0
+12 DE ABRIL,2024,Spring,Creciente,23,Anthropogenic,642.0
+12 DE ABRIL,2024,Summer,Creciente,0,Amphibian,0.14
+12 DE ABRIL,2024,Summer,Creciente,0,Anthropogenic,92.43
+12 DE ABRIL,2024,Summer,Creciente,0,Bird,1.71
+12 DE ABRIL,2024,Summer,Creciente,0,Insect,12.14
+12 DE ABRIL,2024,Summer,Creciente,0,Mammal,0.29
+12 DE ABRIL,2024,Summer,Creciente,1,Anthropogenic,59.43
+12 DE ABRIL,2024,Summer,Creciente,1,Bird,0.71
+12 DE ABRIL,2024,Summer,Creciente,1,Insect,0.43
+12 DE ABRIL,2024,Summer,Creciente,1,Mammal,0.29
+12 DE ABRIL,2024,Summer,Creciente,2,Anthropogenic,58.14
+12 DE ABRIL,2024,Summer,Creciente,2,Insect,0.57
+12 DE ABRIL,2024,Summer,Creciente,3,Amphibian,0.14
+12 DE ABRIL,2024,Summer,Creciente,3,Anthropogenic,5.43
+12 DE ABRIL,2024,Summer,Creciente,3,Bird,0.43
+12 DE ABRIL,2024,Summer,Creciente,4,Amphibian,0.43
+12 DE ABRIL,2024,Summer,Creciente,4,Bird,5.57
+12 DE ABRIL,2024,Summer,Creciente,4,Insect,1.57
+12 DE ABRIL,2024,Summer,Creciente,5,Amphibian,0.43
+12 DE ABRIL,2024,Summer,Creciente,5,Anthropogenic,0.71
+12 DE ABRIL,2024,Summer,Creciente,5,Bird,0.43
+12 DE ABRIL,2024,Summer,Creciente,5,Insect,0.29
+12 DE ABRIL,2024,Summer,Creciente,6,Anthropogenic,0.14
+12 DE ABRIL,2024,Summer,Creciente,6,Bird,0.29
+12 DE ABRIL,2024,Summer,Creciente,7,Amphibian,0.14
+12 DE ABRIL,2024,Summer,Creciente,7,Anthropogenic,7.57
+12 DE ABRIL,2024,Summer,Creciente,7,Bird,0.57
+12 DE ABRIL,2024,Summer,Creciente,7,Insect,0.57
+12 DE ABRIL,2024,Summer,Creciente,8,Amphibian,1.14
+12 DE ABRIL,2024,Summer,Creciente,8,Anthropogenic,0.57
+12 DE ABRIL,2024,Summer,Creciente,8,Bird,9.29
+12 DE ABRIL,2024,Summer,Creciente,8,Insect,23.86
+12 DE ABRIL,2024,Summer,Creciente,9,Amphibian,0.71
+12 DE ABRIL,2024,Summer,Creciente,9,Anthropogenic,1.14
+12 DE ABRIL,2024,Summer,Creciente,9,Bird,1.0
+12 DE ABRIL,2024,Summer,Creciente,9,Insect,1.0
+12 DE ABRIL,2024,Summer,Creciente,10,Amphibian,1.14
+12 DE ABRIL,2024,Summer,Creciente,10,Anthropogenic,3.57
+12 DE ABRIL,2024,Summer,Creciente,10,Bird,2.57
+12 DE ABRIL,2024,Summer,Creciente,10,Insect,2.86
+12 DE ABRIL,2024,Summer,Creciente,10,Mammal,0.71
+12 DE ABRIL,2024,Summer,Creciente,11,Amphibian,1.14
+12 DE ABRIL,2024,Summer,Creciente,11,Anthropogenic,18.29
+12 DE ABRIL,2024,Summer,Creciente,11,Bird,9.0
+12 DE ABRIL,2024,Summer,Creciente,11,Insect,67.43
+12 DE ABRIL,2024,Summer,Creciente,12,Amphibian,0.57
+12 DE ABRIL,2024,Summer,Creciente,12,Anthropogenic,6.0
+12 DE ABRIL,2024,Summer,Creciente,12,Bird,8.14
+12 DE ABRIL,2024,Summer,Creciente,12,Insect,19.71
+12 DE ABRIL,2024,Summer,Creciente,13,Amphibian,1.43
+12 DE ABRIL,2024,Summer,Creciente,13,Anthropogenic,11.57
+12 DE ABRIL,2024,Summer,Creciente,13,Bird,11.71
+12 DE ABRIL,2024,Summer,Creciente,13,Insect,110.57
+12 DE ABRIL,2024,Summer,Creciente,14,Amphibian,1.86
+12 DE ABRIL,2024,Summer,Creciente,14,Anthropogenic,35.43
+12 DE ABRIL,2024,Summer,Creciente,14,Bird,17.71
+12 DE ABRIL,2024,Summer,Creciente,14,Insect,82.0
+12 DE ABRIL,2024,Summer,Creciente,14,Mammal,0.29
+12 DE ABRIL,2024,Summer,Creciente,15,Amphibian,2.86
+12 DE ABRIL,2024,Summer,Creciente,15,Anthropogenic,4.43
+12 DE ABRIL,2024,Summer,Creciente,15,Bird,5.0
+12 DE ABRIL,2024,Summer,Creciente,15,Insect,123.0
+12 DE ABRIL,2024,Summer,Creciente,16,Amphibian,0.86
+12 DE ABRIL,2024,Summer,Creciente,16,Anthropogenic,3.43
+12 DE ABRIL,2024,Summer,Creciente,16,Insect,60.86
+12 DE ABRIL,2024,Summer,Creciente,17,Amphibian,0.14
+12 DE ABRIL,2024,Summer,Creciente,17,Anthropogenic,64.71
+12 DE ABRIL,2024,Summer,Creciente,17,Insect,57.0
+12 DE ABRIL,2024,Summer,Creciente,18,Amphibian,0.14
+12 DE ABRIL,2024,Summer,Creciente,18,Anthropogenic,62.86
+12 DE ABRIL,2024,Summer,Creciente,18,Insect,83.0
+12 DE ABRIL,2024,Summer,Creciente,19,Amphibian,0.43
+12 DE ABRIL,2024,Summer,Creciente,19,Anthropogenic,51.0
+12 DE ABRIL,2024,Summer,Creciente,19,Bird,0.14
+12 DE ABRIL,2024,Summer,Creciente,19,Insect,8.0
+12 DE ABRIL,2024,Summer,Creciente,20,Anthropogenic,48.0
+12 DE ABRIL,2024,Summer,Creciente,20,Insect,7.86
+12 DE ABRIL,2024,Summer,Creciente,21,Anthropogenic,49.43
+12 DE ABRIL,2024,Summer,Creciente,21,Insect,7.29
+12 DE ABRIL,2024,Summer,Creciente,22,Anthropogenic,41.29
+12 DE ABRIL,2024,Summer,Creciente,22,Insect,3.14
+12 DE ABRIL,2024,Summer,Creciente,23,Anthropogenic,11.0
+12 DE ABRIL,2024,Summer,Creciente,23,Insect,0.29
+12 DE ABRIL,2024,Winter,Vaciante,0,Amphibian,14.88
+12 DE ABRIL,2024,Winter,Vaciante,0,Anthropogenic,0.88
+12 DE ABRIL,2024,Winter,Vaciante,0,Bird,0.13
+12 DE ABRIL,2024,Winter,Vaciante,0,Insect,91.25
+12 DE ABRIL,2024,Winter,Vaciante,1,Amphibian,11.13
+12 DE ABRIL,2024,Winter,Vaciante,1,Anthropogenic,8.0
+12 DE ABRIL,2024,Winter,Vaciante,1,Bird,0.88
+12 DE ABRIL,2024,Winter,Vaciante,1,Insect,75.38
+12 DE ABRIL,2024,Winter,Vaciante,1,Mammal,5.13
+12 DE ABRIL,2024,Winter,Vaciante,2,Amphibian,8.63
+12 DE ABRIL,2024,Winter,Vaciante,2,Anthropogenic,11.88
+12 DE ABRIL,2024,Winter,Vaciante,2,Bird,0.63
+12 DE ABRIL,2024,Winter,Vaciante,2,Insect,71.88
+12 DE ABRIL,2024,Winter,Vaciante,2,Mammal,0.13
+12 DE ABRIL,2024,Winter,Vaciante,3,Amphibian,13.38
+12 DE ABRIL,2024,Winter,Vaciante,3,Anthropogenic,17.63
+12 DE ABRIL,2024,Winter,Vaciante,3,Bird,1.25
+12 DE ABRIL,2024,Winter,Vaciante,3,Insect,71.5
+12 DE ABRIL,2024,Winter,Vaciante,3,Mammal,0.75
+12 DE ABRIL,2024,Winter,Vaciante,4,Amphibian,17.0
+12 DE ABRIL,2024,Winter,Vaciante,4,Anthropogenic,17.75
+12 DE ABRIL,2024,Winter,Vaciante,4,Bird,1.0
+12 DE ABRIL,2024,Winter,Vaciante,4,Insect,59.38
+12 DE ABRIL,2024,Winter,Vaciante,4,Mammal,1.25
+12 DE ABRIL,2024,Winter,Vaciante,5,Amphibian,11.38
+12 DE ABRIL,2024,Winter,Vaciante,5,Anthropogenic,19.75
+12 DE ABRIL,2024,Winter,Vaciante,5,Bird,1.38
+12 DE ABRIL,2024,Winter,Vaciante,5,Insect,57.0
+12 DE ABRIL,2024,Winter,Vaciante,5,Mammal,0.13
+12 DE ABRIL,2024,Winter,Vaciante,6,Anthropogenic,1.0
+12 DE ABRIL,2024,Winter,Vaciante,6,Bird,74.63
+12 DE ABRIL,2024,Winter,Vaciante,6,Insect,18.13
+12 DE ABRIL,2024,Winter,Vaciante,6,Mammal,5.13
+12 DE ABRIL,2024,Winter,Vaciante,7,Amphibian,0.38
+12 DE ABRIL,2024,Winter,Vaciante,7,Anthropogenic,21.88
+12 DE ABRIL,2024,Winter,Vaciante,7,Bird,26.88
+12 DE ABRIL,2024,Winter,Vaciante,7,Insect,38.88
+12 DE ABRIL,2024,Winter,Vaciante,7,Mammal,4.25
+12 DE ABRIL,2024,Winter,Vaciante,8,Anthropogenic,12.63
+12 DE ABRIL,2024,Winter,Vaciante,8,Bird,15.5
+12 DE ABRIL,2024,Winter,Vaciante,8,Insect,53.38
+12 DE ABRIL,2024,Winter,Vaciante,8,Mammal,7.88
+12 DE ABRIL,2024,Winter,Vaciante,9,Anthropogenic,22.13
+12 DE ABRIL,2024,Winter,Vaciante,9,Bird,27.0
+12 DE ABRIL,2024,Winter,Vaciante,9,Insect,21.88
+12 DE ABRIL,2024,Winter,Vaciante,9,Mammal,4.25
+12 DE ABRIL,2024,Winter,Vaciante,10,Anthropogenic,16.38
+12 DE ABRIL,2024,Winter,Vaciante,10,Bird,29.38
+12 DE ABRIL,2024,Winter,Vaciante,10,Insect,25.38
+12 DE ABRIL,2024,Winter,Vaciante,10,Mammal,2.88
+12 DE ABRIL,2024,Winter,Vaciante,11,Anthropogenic,18.63
+12 DE ABRIL,2024,Winter,Vaciante,11,Bird,21.5
+12 DE ABRIL,2024,Winter,Vaciante,11,Insect,30.75
+12 DE ABRIL,2024,Winter,Vaciante,11,Mammal,2.63
+12 DE ABRIL,2024,Winter,Vaciante,12,Amphibian,0.25
+12 DE ABRIL,2024,Winter,Vaciante,12,Anthropogenic,17.13
+12 DE ABRIL,2024,Winter,Vaciante,12,Bird,22.25
+12 DE ABRIL,2024,Winter,Vaciante,12,Insect,47.13
+12 DE ABRIL,2024,Winter,Vaciante,12,Mammal,9.88
+12 DE ABRIL,2024,Winter,Vaciante,13,Anthropogenic,12.0
+12 DE ABRIL,2024,Winter,Vaciante,13,Bird,16.38
+12 DE ABRIL,2024,Winter,Vaciante,13,Insect,28.75
+12 DE ABRIL,2024,Winter,Vaciante,13,Mammal,4.13
+12 DE ABRIL,2024,Winter,Vaciante,14,Amphibian,1.0
+12 DE ABRIL,2024,Winter,Vaciante,14,Anthropogenic,20.13
+12 DE ABRIL,2024,Winter,Vaciante,14,Bird,19.63
+12 DE ABRIL,2024,Winter,Vaciante,14,Insect,47.0
+12 DE ABRIL,2024,Winter,Vaciante,14,Mammal,7.13
+12 DE ABRIL,2024,Winter,Vaciante,15,Amphibian,0.13
+12 DE ABRIL,2024,Winter,Vaciante,15,Anthropogenic,13.88
+12 DE ABRIL,2024,Winter,Vaciante,15,Bird,10.88
+12 DE ABRIL,2024,Winter,Vaciante,15,Insect,39.88
+12 DE ABRIL,2024,Winter,Vaciante,15,Mammal,7.25
+12 DE ABRIL,2024,Winter,Vaciante,16,Amphibian,5.38
+12 DE ABRIL,2024,Winter,Vaciante,16,Anthropogenic,18.38
+12 DE ABRIL,2024,Winter,Vaciante,16,Bird,27.5
+12 DE ABRIL,2024,Winter,Vaciante,16,Insect,75.13
+12 DE ABRIL,2024,Winter,Vaciante,16,Mammal,0.63
+12 DE ABRIL,2024,Winter,Vaciante,17,Amphibian,3.0
+12 DE ABRIL,2024,Winter,Vaciante,17,Anthropogenic,14.13
+12 DE ABRIL,2024,Winter,Vaciante,17,Bird,23.88
+12 DE ABRIL,2024,Winter,Vaciante,17,Insect,88.38
+12 DE ABRIL,2024,Winter,Vaciante,17,Mammal,1.25
+12 DE ABRIL,2024,Winter,Vaciante,18,Amphibian,10.5
+12 DE ABRIL,2024,Winter,Vaciante,18,Anthropogenic,11.63
+12 DE ABRIL,2024,Winter,Vaciante,18,Bird,7.0
+12 DE ABRIL,2024,Winter,Vaciante,18,Insect,106.5
+12 DE ABRIL,2024,Winter,Vaciante,19,Amphibian,1.88
+12 DE ABRIL,2024,Winter,Vaciante,19,Anthropogenic,6.5
+12 DE ABRIL,2024,Winter,Vaciante,19,Bird,0.25
+12 DE ABRIL,2024,Winter,Vaciante,19,Insect,118.38
+12 DE ABRIL,2024,Winter,Vaciante,20,Amphibian,11.0
+12 DE ABRIL,2024,Winter,Vaciante,20,Anthropogenic,4.0
+12 DE ABRIL,2024,Winter,Vaciante,20,Bird,2.88
+12 DE ABRIL,2024,Winter,Vaciante,20,Insect,107.25
+12 DE ABRIL,2024,Winter,Vaciante,21,Amphibian,24.0
+12 DE ABRIL,2024,Winter,Vaciante,21,Anthropogenic,8.38
+12 DE ABRIL,2024,Winter,Vaciante,21,Bird,1.88
+12 DE ABRIL,2024,Winter,Vaciante,21,Insect,90.75
+12 DE ABRIL,2024,Winter,Vaciante,22,Amphibian,27.88
+12 DE ABRIL,2024,Winter,Vaciante,22,Anthropogenic,6.0
+12 DE ABRIL,2024,Winter,Vaciante,22,Bird,0.5
+12 DE ABRIL,2024,Winter,Vaciante,22,Insect,89.75
+12 DE ABRIL,2024,Winter,Vaciante,23,Amphibian,17.38
+12 DE ABRIL,2024,Winter,Vaciante,23,Anthropogenic,7.0
+12 DE ABRIL,2024,Winter,Vaciante,23,Bird,1.0
+12 DE ABRIL,2024,Winter,Vaciante,23,Insect,72.5
+12 DE ABRIL,2025,Autumn,Creciente,0,Amphibian,4.14
+12 DE ABRIL,2025,Autumn,Creciente,0,Anthropogenic,2.0
+12 DE ABRIL,2025,Autumn,Creciente,0,Insect,16.14
+12 DE ABRIL,2025,Autumn,Creciente,0,Mammal,0.14
+12 DE ABRIL,2025,Autumn,Creciente,1,Amphibian,0.29
+12 DE ABRIL,2025,Autumn,Creciente,1,Anthropogenic,6.14
+12 DE ABRIL,2025,Autumn,Creciente,1,Bird,0.71
+12 DE ABRIL,2025,Autumn,Creciente,1,Insect,15.29
+12 DE ABRIL,2025,Autumn,Creciente,1,Mammal,0.29
+12 DE ABRIL,2025,Autumn,Creciente,2,Amphibian,0.57
+12 DE ABRIL,2025,Autumn,Creciente,2,Anthropogenic,1.14
+12 DE ABRIL,2025,Autumn,Creciente,2,Bird,0.57
+12 DE ABRIL,2025,Autumn,Creciente,2,Insect,26.29
+12 DE ABRIL,2025,Autumn,Creciente,2,Mammal,0.57
+12 DE ABRIL,2025,Autumn,Creciente,3,Amphibian,6.0
+12 DE ABRIL,2025,Autumn,Creciente,3,Anthropogenic,2.14
+12 DE ABRIL,2025,Autumn,Creciente,3,Bird,0.14
+12 DE ABRIL,2025,Autumn,Creciente,3,Insect,6.14
+12 DE ABRIL,2025,Autumn,Creciente,4,Amphibian,2.71
+12 DE ABRIL,2025,Autumn,Creciente,4,Anthropogenic,1.86
+12 DE ABRIL,2025,Autumn,Creciente,4,Bird,0.43
+12 DE ABRIL,2025,Autumn,Creciente,4,Insect,8.14
+12 DE ABRIL,2025,Autumn,Creciente,4,Mammal,0.14
+12 DE ABRIL,2025,Autumn,Creciente,5,Amphibian,0.14
+12 DE ABRIL,2025,Autumn,Creciente,5,Anthropogenic,2.43
+12 DE ABRIL,2025,Autumn,Creciente,5,Bird,1.0
+12 DE ABRIL,2025,Autumn,Creciente,5,Insect,17.86
+12 DE ABRIL,2025,Autumn,Creciente,6,Amphibian,0.14
+12 DE ABRIL,2025,Autumn,Creciente,6,Anthropogenic,2.43
+12 DE ABRIL,2025,Autumn,Creciente,6,Bird,14.86
+12 DE ABRIL,2025,Autumn,Creciente,6,Insect,9.57
+12 DE ABRIL,2025,Autumn,Creciente,6,Mammal,0.14
+12 DE ABRIL,2025,Autumn,Creciente,7,Anthropogenic,6.29
+12 DE ABRIL,2025,Autumn,Creciente,7,Bird,14.86
+12 DE ABRIL,2025,Autumn,Creciente,7,Insect,9.14
+12 DE ABRIL,2025,Autumn,Creciente,7,Mammal,0.29
+12 DE ABRIL,2025,Autumn,Creciente,8,Anthropogenic,0.14
+12 DE ABRIL,2025,Autumn,Creciente,8,Bird,8.86
+12 DE ABRIL,2025,Autumn,Creciente,8,Insect,5.29
+12 DE ABRIL,2025,Autumn,Creciente,9,Anthropogenic,7.29
+12 DE ABRIL,2025,Autumn,Creciente,9,Bird,9.14
+12 DE ABRIL,2025,Autumn,Creciente,9,Insect,9.43
+12 DE ABRIL,2025,Autumn,Creciente,9,Mammal,0.14
+12 DE ABRIL,2025,Autumn,Creciente,10,Amphibian,0.29
+12 DE ABRIL,2025,Autumn,Creciente,10,Anthropogenic,4.0
+12 DE ABRIL,2025,Autumn,Creciente,10,Bird,12.43
+12 DE ABRIL,2025,Autumn,Creciente,10,Insect,7.29
+12 DE ABRIL,2025,Autumn,Creciente,11,Anthropogenic,1.43
+12 DE ABRIL,2025,Autumn,Creciente,11,Bird,9.57
+12 DE ABRIL,2025,Autumn,Creciente,11,Insect,8.14
+12 DE ABRIL,2025,Autumn,Creciente,12,Amphibian,0.29
+12 DE ABRIL,2025,Autumn,Creciente,12,Anthropogenic,0.14
+12 DE ABRIL,2025,Autumn,Creciente,12,Bird,13.43
+12 DE ABRIL,2025,Autumn,Creciente,12,Insect,10.57
+12 DE ABRIL,2025,Autumn,Creciente,12,Mammal,0.14
+12 DE ABRIL,2025,Autumn,Creciente,13,Anthropogenic,1.71
+12 DE ABRIL,2025,Autumn,Creciente,13,Bird,2.29
+12 DE ABRIL,2025,Autumn,Creciente,13,Insect,14.14
+12 DE ABRIL,2025,Autumn,Creciente,14,Anthropogenic,4.43
+12 DE ABRIL,2025,Autumn,Creciente,14,Bird,10.43
+12 DE ABRIL,2025,Autumn,Creciente,14,Insect,17.86
+12 DE ABRIL,2025,Autumn,Creciente,14,Mammal,0.14
+12 DE ABRIL,2025,Autumn,Creciente,15,Anthropogenic,1.29
+12 DE ABRIL,2025,Autumn,Creciente,15,Bird,10.57
+12 DE ABRIL,2025,Autumn,Creciente,15,Insect,13.0
+12 DE ABRIL,2025,Autumn,Creciente,16,Amphibian,0.71
+12 DE ABRIL,2025,Autumn,Creciente,16,Anthropogenic,0.29
+12 DE ABRIL,2025,Autumn,Creciente,16,Bird,4.86
+12 DE ABRIL,2025,Autumn,Creciente,16,Insect,16.0
+12 DE ABRIL,2025,Autumn,Creciente,16,Mammal,0.14
+12 DE ABRIL,2025,Autumn,Creciente,17,Amphibian,1.0
+12 DE ABRIL,2025,Autumn,Creciente,17,Anthropogenic,1.86
+12 DE ABRIL,2025,Autumn,Creciente,17,Bird,10.86
+12 DE ABRIL,2025,Autumn,Creciente,17,Insect,10.86
+12 DE ABRIL,2025,Autumn,Creciente,17,Mammal,0.14
+12 DE ABRIL,2025,Autumn,Creciente,18,Bird,3.57
+12 DE ABRIL,2025,Autumn,Creciente,18,Insect,16.0
+12 DE ABRIL,2025,Autumn,Creciente,19,Amphibian,0.43
+12 DE ABRIL,2025,Autumn,Creciente,19,Anthropogenic,0.86
+12 DE ABRIL,2025,Autumn,Creciente,19,Insect,25.0
+12 DE ABRIL,2025,Autumn,Creciente,19,Mammal,0.14
+12 DE ABRIL,2025,Autumn,Creciente,20,Amphibian,4.57
+12 DE ABRIL,2025,Autumn,Creciente,20,Anthropogenic,1.43
+12 DE ABRIL,2025,Autumn,Creciente,20,Bird,0.43
+12 DE ABRIL,2025,Autumn,Creciente,20,Insect,20.57
+12 DE ABRIL,2025,Autumn,Creciente,21,Amphibian,5.14
+12 DE ABRIL,2025,Autumn,Creciente,21,Anthropogenic,1.57
+12 DE ABRIL,2025,Autumn,Creciente,21,Bird,0.29
+12 DE ABRIL,2025,Autumn,Creciente,21,Insect,18.57
+12 DE ABRIL,2025,Autumn,Creciente,21,Mammal,0.43
+12 DE ABRIL,2025,Autumn,Creciente,22,Amphibian,6.86
+12 DE ABRIL,2025,Autumn,Creciente,22,Anthropogenic,1.29
+12 DE ABRIL,2025,Autumn,Creciente,22,Bird,0.14
+12 DE ABRIL,2025,Autumn,Creciente,22,Insect,16.0
+12 DE ABRIL,2025,Autumn,Creciente,23,Amphibian,5.57
+12 DE ABRIL,2025,Autumn,Creciente,23,Anthropogenic,7.29
+12 DE ABRIL,2025,Autumn,Creciente,23,Bird,0.43
+12 DE ABRIL,2025,Autumn,Creciente,23,Insect,16.57
+12 DE ABRIL,2025,Autumn,Creciente,23,Mammal,0.14
+12 DE ABRIL,2025,Spring,Vaciante,0,Amphibian,35.5
+12 DE ABRIL,2025,Spring,Vaciante,0,Anthropogenic,61.5
+12 DE ABRIL,2025,Spring,Vaciante,0,Bird,3.5
+12 DE ABRIL,2025,Spring,Vaciante,0,Insect,230.5
+12 DE ABRIL,2025,Spring,Vaciante,0,Mammal,2.0
+12 DE ABRIL,2025,Spring,Vaciante,1,Amphibian,25.5
+12 DE ABRIL,2025,Spring,Vaciante,1,Anthropogenic,71.5
+12 DE ABRIL,2025,Spring,Vaciante,1,Bird,6.0
+12 DE ABRIL,2025,Spring,Vaciante,1,Insect,209.0
+12 DE ABRIL,2025,Spring,Vaciante,2,Amphibian,29.0
+12 DE ABRIL,2025,Spring,Vaciante,2,Anthropogenic,49.0
+12 DE ABRIL,2025,Spring,Vaciante,2,Bird,26.0
+12 DE ABRIL,2025,Spring,Vaciante,2,Insect,202.5
+12 DE ABRIL,2025,Spring,Vaciante,2,Mammal,2.0
+12 DE ABRIL,2025,Spring,Vaciante,3,Amphibian,31.0
+12 DE ABRIL,2025,Spring,Vaciante,3,Anthropogenic,54.0
+12 DE ABRIL,2025,Spring,Vaciante,3,Bird,7.0
+12 DE ABRIL,2025,Spring,Vaciante,3,Insect,212.5
+12 DE ABRIL,2025,Spring,Vaciante,4,Amphibian,6.5
+12 DE ABRIL,2025,Spring,Vaciante,4,Anthropogenic,86.0
+12 DE ABRIL,2025,Spring,Vaciante,4,Bird,10.0
+12 DE ABRIL,2025,Spring,Vaciante,4,Insect,218.5
+12 DE ABRIL,2025,Spring,Vaciante,4,Mammal,4.0
+12 DE ABRIL,2025,Spring,Vaciante,5,Amphibian,11.5
+12 DE ABRIL,2025,Spring,Vaciante,5,Anthropogenic,48.5
+12 DE ABRIL,2025,Spring,Vaciante,5,Bird,46.0
+12 DE ABRIL,2025,Spring,Vaciante,5,Insect,303.5
+12 DE ABRIL,2025,Spring,Vaciante,5,Mammal,5.5
+12 DE ABRIL,2025,Spring,Vaciante,6,Amphibian,5.0
+12 DE ABRIL,2025,Spring,Vaciante,6,Anthropogenic,8.5
+12 DE ABRIL,2025,Spring,Vaciante,6,Bird,126.0
+12 DE ABRIL,2025,Spring,Vaciante,6,Insect,273.5
+12 DE ABRIL,2025,Spring,Vaciante,7,Amphibian,3.0
+12 DE ABRIL,2025,Spring,Vaciante,7,Anthropogenic,25.5
+12 DE ABRIL,2025,Spring,Vaciante,7,Bird,100.5
+12 DE ABRIL,2025,Spring,Vaciante,7,Insect,271.5
+12 DE ABRIL,2025,Spring,Vaciante,8,Amphibian,0.5
+12 DE ABRIL,2025,Spring,Vaciante,8,Anthropogenic,74.0
+12 DE ABRIL,2025,Spring,Vaciante,8,Bird,136.5
+12 DE ABRIL,2025,Spring,Vaciante,8,Insect,162.5
+12 DE ABRIL,2025,Spring,Vaciante,8,Mammal,0.5
+12 DE ABRIL,2025,Spring,Vaciante,9,Amphibian,0.5
+12 DE ABRIL,2025,Spring,Vaciante,9,Anthropogenic,102.0
+12 DE ABRIL,2025,Spring,Vaciante,9,Bird,97.0
+12 DE ABRIL,2025,Spring,Vaciante,9,Insect,124.5
+12 DE ABRIL,2025,Spring,Vaciante,9,Mammal,0.5
+12 DE ABRIL,2025,Spring,Vaciante,10,Amphibian,1.0
+12 DE ABRIL,2025,Spring,Vaciante,10,Anthropogenic,80.5
+12 DE ABRIL,2025,Spring,Vaciante,10,Bird,82.5
+12 DE ABRIL,2025,Spring,Vaciante,10,Insect,127.5
+12 DE ABRIL,2025,Spring,Vaciante,10,Mammal,2.5
+12 DE ABRIL,2025,Spring,Vaciante,11,Anthropogenic,50.5
+12 DE ABRIL,2025,Spring,Vaciante,11,Bird,62.0
+12 DE ABRIL,2025,Spring,Vaciante,11,Insect,110.0
+12 DE ABRIL,2025,Spring,Vaciante,11,Mammal,0.5
+12 DE ABRIL,2025,Spring,Vaciante,12,Anthropogenic,82.5
+12 DE ABRIL,2025,Spring,Vaciante,12,Bird,55.5
+12 DE ABRIL,2025,Spring,Vaciante,12,Insect,102.0
+12 DE ABRIL,2025,Spring,Vaciante,12,Mammal,0.5
+12 DE ABRIL,2025,Spring,Vaciante,13,Amphibian,0.5
+12 DE ABRIL,2025,Spring,Vaciante,13,Anthropogenic,63.5
+12 DE ABRIL,2025,Spring,Vaciante,13,Bird,35.0
+12 DE ABRIL,2025,Spring,Vaciante,13,Insect,94.5
+12 DE ABRIL,2025,Spring,Vaciante,14,Amphibian,1.5
+12 DE ABRIL,2025,Spring,Vaciante,14,Anthropogenic,76.0
+12 DE ABRIL,2025,Spring,Vaciante,14,Bird,36.5
+12 DE ABRIL,2025,Spring,Vaciante,14,Insect,172.5
+12 DE ABRIL,2025,Spring,Vaciante,14,Mammal,1.0
+12 DE ABRIL,2025,Spring,Vaciante,15,Amphibian,2.5
+12 DE ABRIL,2025,Spring,Vaciante,15,Anthropogenic,65.0
+12 DE ABRIL,2025,Spring,Vaciante,15,Bird,55.5
+12 DE ABRIL,2025,Spring,Vaciante,15,Insect,201.5
+12 DE ABRIL,2025,Spring,Vaciante,16,Amphibian,12.0
+12 DE ABRIL,2025,Spring,Vaciante,16,Anthropogenic,69.0
+12 DE ABRIL,2025,Spring,Vaciante,16,Bird,65.5
+12 DE ABRIL,2025,Spring,Vaciante,16,Insect,230.0
+12 DE ABRIL,2025,Spring,Vaciante,17,Amphibian,17.5
+12 DE ABRIL,2025,Spring,Vaciante,17,Anthropogenic,87.0
+12 DE ABRIL,2025,Spring,Vaciante,17,Bird,54.5
+12 DE ABRIL,2025,Spring,Vaciante,17,Insect,251.0
+12 DE ABRIL,2025,Spring,Vaciante,18,Amphibian,3.5
+12 DE ABRIL,2025,Spring,Vaciante,18,Anthropogenic,188.5
+12 DE ABRIL,2025,Spring,Vaciante,18,Bird,3.5
+12 DE ABRIL,2025,Spring,Vaciante,18,Insect,305.0
+12 DE ABRIL,2025,Spring,Vaciante,19,Amphibian,77.5
+12 DE ABRIL,2025,Spring,Vaciante,19,Anthropogenic,91.5
+12 DE ABRIL,2025,Spring,Vaciante,19,Bird,1.0
+12 DE ABRIL,2025,Spring,Vaciante,19,Insect,261.5
+12 DE ABRIL,2025,Spring,Vaciante,20,Amphibian,87.0
+12 DE ABRIL,2025,Spring,Vaciante,20,Anthropogenic,73.0
+12 DE ABRIL,2025,Spring,Vaciante,20,Bird,1.5
+12 DE ABRIL,2025,Spring,Vaciante,20,Insect,195.5
+12 DE ABRIL,2025,Spring,Vaciante,21,Amphibian,107.0
+12 DE ABRIL,2025,Spring,Vaciante,21,Anthropogenic,85.0
+12 DE ABRIL,2025,Spring,Vaciante,21,Bird,3.0
+12 DE ABRIL,2025,Spring,Vaciante,21,Insect,154.5
+12 DE ABRIL,2025,Spring,Vaciante,22,Amphibian,93.5
+12 DE ABRIL,2025,Spring,Vaciante,22,Anthropogenic,88.5
+12 DE ABRIL,2025,Spring,Vaciante,22,Bird,6.0
+12 DE ABRIL,2025,Spring,Vaciante,22,Insect,174.0
+12 DE ABRIL,2025,Spring,Vaciante,23,Amphibian,77.5
+12 DE ABRIL,2025,Spring,Vaciante,23,Anthropogenic,96.0
+12 DE ABRIL,2025,Spring,Vaciante,23,Bird,5.5
+12 DE ABRIL,2025,Spring,Vaciante,23,Insect,195.5
+PAUJIL,2023,Spring,Creciente,0,Amphibian,22.22
+PAUJIL,2023,Spring,Creciente,0,Anthropogenic,21.11
+PAUJIL,2023,Spring,Creciente,0,Bird,15.11
+PAUJIL,2023,Spring,Creciente,0,Insect,120.22
+PAUJIL,2023,Spring,Creciente,1,Amphibian,11.67
+PAUJIL,2023,Spring,Creciente,1,Anthropogenic,15.0
+PAUJIL,2023,Spring,Creciente,1,Bird,7.33
+PAUJIL,2023,Spring,Creciente,1,Insect,131.33
+PAUJIL,2023,Spring,Creciente,2,Amphibian,9.0
+PAUJIL,2023,Spring,Creciente,2,Anthropogenic,18.0
+PAUJIL,2023,Spring,Creciente,2,Bird,3.67
+PAUJIL,2023,Spring,Creciente,2,Insect,138.89
+PAUJIL,2023,Spring,Creciente,3,Amphibian,14.33
+PAUJIL,2023,Spring,Creciente,3,Anthropogenic,31.11
+PAUJIL,2023,Spring,Creciente,3,Bird,8.11
+PAUJIL,2023,Spring,Creciente,3,Insect,125.44
+PAUJIL,2023,Spring,Creciente,4,Amphibian,16.67
+PAUJIL,2023,Spring,Creciente,4,Anthropogenic,40.22
+PAUJIL,2023,Spring,Creciente,4,Bird,5.33
+PAUJIL,2023,Spring,Creciente,4,Insect,121.0
+PAUJIL,2023,Spring,Creciente,5,Amphibian,12.67
+PAUJIL,2023,Spring,Creciente,5,Anthropogenic,23.0
+PAUJIL,2023,Spring,Creciente,5,Bird,28.67
+PAUJIL,2023,Spring,Creciente,5,Insect,90.56
+PAUJIL,2023,Spring,Creciente,5,Mammal,0.33
+PAUJIL,2023,Spring,Creciente,6,Amphibian,6.11
+PAUJIL,2023,Spring,Creciente,6,Anthropogenic,6.11
+PAUJIL,2023,Spring,Creciente,6,Bird,57.67
+PAUJIL,2023,Spring,Creciente,6,Insect,110.11
+PAUJIL,2023,Spring,Creciente,7,Amphibian,8.33
+PAUJIL,2023,Spring,Creciente,7,Anthropogenic,6.44
+PAUJIL,2023,Spring,Creciente,7,Bird,54.67
+PAUJIL,2023,Spring,Creciente,7,Insect,117.22
+PAUJIL,2023,Spring,Creciente,8,Amphibian,4.33
+PAUJIL,2023,Spring,Creciente,8,Anthropogenic,10.44
+PAUJIL,2023,Spring,Creciente,8,Bird,72.56
+PAUJIL,2023,Spring,Creciente,8,Insect,84.11
+PAUJIL,2023,Spring,Creciente,9,Amphibian,2.78
+PAUJIL,2023,Spring,Creciente,9,Anthropogenic,19.33
+PAUJIL,2023,Spring,Creciente,9,Bird,65.22
+PAUJIL,2023,Spring,Creciente,9,Insect,84.44
+PAUJIL,2023,Spring,Creciente,9,Mammal,1.67
+PAUJIL,2023,Spring,Creciente,10,Amphibian,19.33
+PAUJIL,2023,Spring,Creciente,10,Anthropogenic,15.56
+PAUJIL,2023,Spring,Creciente,10,Bird,73.89
+PAUJIL,2023,Spring,Creciente,10,Insect,74.67
+PAUJIL,2023,Spring,Creciente,10,Mammal,0.11
+PAUJIL,2023,Spring,Creciente,11,Amphibian,0.11
+PAUJIL,2023,Spring,Creciente,11,Anthropogenic,14.67
+PAUJIL,2023,Spring,Creciente,11,Bird,110.67
+PAUJIL,2023,Spring,Creciente,11,Insect,35.11
+PAUJIL,2023,Spring,Creciente,11,Mammal,0.33
+PAUJIL,2023,Spring,Creciente,12,Amphibian,0.22
+PAUJIL,2023,Spring,Creciente,12,Anthropogenic,21.0
+PAUJIL,2023,Spring,Creciente,12,Bird,87.78
+PAUJIL,2023,Spring,Creciente,12,Insect,59.0
+PAUJIL,2023,Spring,Creciente,12,Mammal,0.67
+PAUJIL,2023,Spring,Creciente,13,Amphibian,0.22
+PAUJIL,2023,Spring,Creciente,13,Anthropogenic,27.22
+PAUJIL,2023,Spring,Creciente,13,Bird,69.22
+PAUJIL,2023,Spring,Creciente,13,Insect,50.33
+PAUJIL,2023,Spring,Creciente,13,Mammal,1.33
+PAUJIL,2023,Spring,Creciente,14,Amphibian,0.56
+PAUJIL,2023,Spring,Creciente,14,Anthropogenic,21.33
+PAUJIL,2023,Spring,Creciente,14,Bird,55.78
+PAUJIL,2023,Spring,Creciente,14,Insect,56.56
+PAUJIL,2023,Spring,Creciente,14,Mammal,0.33
+PAUJIL,2023,Spring,Creciente,15,Amphibian,0.56
+PAUJIL,2023,Spring,Creciente,15,Anthropogenic,24.44
+PAUJIL,2023,Spring,Creciente,15,Bird,60.33
+PAUJIL,2023,Spring,Creciente,15,Insect,65.67
+PAUJIL,2023,Spring,Creciente,15,Mammal,0.22
+PAUJIL,2023,Spring,Creciente,16,Amphibian,1.56
+PAUJIL,2023,Spring,Creciente,16,Anthropogenic,24.0
+PAUJIL,2023,Spring,Creciente,16,Bird,77.33
+PAUJIL,2023,Spring,Creciente,16,Insect,86.44
+PAUJIL,2023,Spring,Creciente,16,Mammal,0.89
+PAUJIL,2023,Spring,Creciente,17,Amphibian,5.0
+PAUJIL,2023,Spring,Creciente,17,Anthropogenic,23.11
+PAUJIL,2023,Spring,Creciente,17,Bird,52.56
+PAUJIL,2023,Spring,Creciente,17,Insect,66.11
+PAUJIL,2023,Spring,Creciente,17,Mammal,1.11
+PAUJIL,2023,Spring,Creciente,18,Amphibian,10.22
+PAUJIL,2023,Spring,Creciente,18,Anthropogenic,25.56
+PAUJIL,2023,Spring,Creciente,18,Bird,18.89
+PAUJIL,2023,Spring,Creciente,18,Insect,85.0
+PAUJIL,2023,Spring,Creciente,18,Mammal,0.33
+PAUJIL,2023,Spring,Creciente,19,Amphibian,9.56
+PAUJIL,2023,Spring,Creciente,19,Anthropogenic,24.11
+PAUJIL,2023,Spring,Creciente,19,Bird,8.11
+PAUJIL,2023,Spring,Creciente,19,Insect,149.78
+PAUJIL,2023,Spring,Creciente,20,Amphibian,21.22
+PAUJIL,2023,Spring,Creciente,20,Anthropogenic,27.67
+PAUJIL,2023,Spring,Creciente,20,Bird,6.78
+PAUJIL,2023,Spring,Creciente,20,Insect,106.67
+PAUJIL,2023,Spring,Creciente,21,Amphibian,30.78
+PAUJIL,2023,Spring,Creciente,21,Anthropogenic,33.44
+PAUJIL,2023,Spring,Creciente,21,Bird,15.44
+PAUJIL,2023,Spring,Creciente,21,Insect,103.78
+PAUJIL,2023,Spring,Creciente,21,Mammal,0.67
+PAUJIL,2023,Spring,Creciente,22,Amphibian,39.0
+PAUJIL,2023,Spring,Creciente,22,Anthropogenic,45.33
+PAUJIL,2023,Spring,Creciente,22,Bird,5.0
+PAUJIL,2023,Spring,Creciente,22,Insect,101.33
+PAUJIL,2023,Spring,Creciente,22,Mammal,0.67
+PAUJIL,2023,Spring,Creciente,23,Amphibian,28.44
+PAUJIL,2023,Spring,Creciente,23,Anthropogenic,41.11
+PAUJIL,2023,Spring,Creciente,23,Bird,4.11
+PAUJIL,2023,Spring,Creciente,23,Insect,107.44
+PAUJIL,2023,Spring,Creciente,23,Mammal,0.22
+PAUJIL,2023,Winter,Vaciante,0,Amphibian,7.14
+PAUJIL,2023,Winter,Vaciante,0,Anthropogenic,24.57
+PAUJIL,2023,Winter,Vaciante,0,Bird,4.86
+PAUJIL,2023,Winter,Vaciante,0,Insect,203.43
+PAUJIL,2023,Winter,Vaciante,1,Amphibian,3.86
+PAUJIL,2023,Winter,Vaciante,1,Anthropogenic,4.71
+PAUJIL,2023,Winter,Vaciante,1,Bird,1.71
+PAUJIL,2023,Winter,Vaciante,1,Insect,210.86
+PAUJIL,2023,Winter,Vaciante,1,Mammal,0.57
+PAUJIL,2023,Winter,Vaciante,2,Amphibian,2.0
+PAUJIL,2023,Winter,Vaciante,2,Anthropogenic,7.71
+PAUJIL,2023,Winter,Vaciante,2,Bird,2.86
+PAUJIL,2023,Winter,Vaciante,2,Insect,194.14
+PAUJIL,2023,Winter,Vaciante,2,Mammal,0.29
+PAUJIL,2023,Winter,Vaciante,3,Amphibian,1.43
+PAUJIL,2023,Winter,Vaciante,3,Anthropogenic,15.71
+PAUJIL,2023,Winter,Vaciante,3,Bird,2.0
+PAUJIL,2023,Winter,Vaciante,3,Insect,172.57
+PAUJIL,2023,Winter,Vaciante,4,Amphibian,3.86
+PAUJIL,2023,Winter,Vaciante,4,Anthropogenic,32.14
+PAUJIL,2023,Winter,Vaciante,4,Bird,2.43
+PAUJIL,2023,Winter,Vaciante,4,Insect,148.43
+PAUJIL,2023,Winter,Vaciante,5,Amphibian,2.57
+PAUJIL,2023,Winter,Vaciante,5,Anthropogenic,44.57
+PAUJIL,2023,Winter,Vaciante,5,Bird,29.29
+PAUJIL,2023,Winter,Vaciante,5,Insect,107.29
+PAUJIL,2023,Winter,Vaciante,6,Amphibian,2.86
+PAUJIL,2023,Winter,Vaciante,6,Anthropogenic,19.0
+PAUJIL,2023,Winter,Vaciante,6,Bird,87.71
+PAUJIL,2023,Winter,Vaciante,6,Insect,120.0
+PAUJIL,2023,Winter,Vaciante,6,Mammal,0.14
+PAUJIL,2023,Winter,Vaciante,7,Amphibian,2.57
+PAUJIL,2023,Winter,Vaciante,7,Anthropogenic,32.29
+PAUJIL,2023,Winter,Vaciante,7,Bird,55.0
+PAUJIL,2023,Winter,Vaciante,7,Insect,128.0
+PAUJIL,2023,Winter,Vaciante,7,Mammal,0.29
+PAUJIL,2023,Winter,Vaciante,8,Amphibian,2.0
+PAUJIL,2023,Winter,Vaciante,8,Anthropogenic,23.71
+PAUJIL,2023,Winter,Vaciante,8,Bird,97.71
+PAUJIL,2023,Winter,Vaciante,8,Insect,83.43
+PAUJIL,2023,Winter,Vaciante,9,Amphibian,1.14
+PAUJIL,2023,Winter,Vaciante,9,Anthropogenic,42.0
+PAUJIL,2023,Winter,Vaciante,9,Bird,71.29
+PAUJIL,2023,Winter,Vaciante,9,Insect,64.86
+PAUJIL,2023,Winter,Vaciante,9,Mammal,1.0
+PAUJIL,2023,Winter,Vaciante,10,Amphibian,0.43
+PAUJIL,2023,Winter,Vaciante,10,Anthropogenic,38.14
+PAUJIL,2023,Winter,Vaciante,10,Bird,93.71
+PAUJIL,2023,Winter,Vaciante,10,Insect,44.0
+PAUJIL,2023,Winter,Vaciante,10,Mammal,0.29
+PAUJIL,2023,Winter,Vaciante,11,Amphibian,0.57
+PAUJIL,2023,Winter,Vaciante,11,Anthropogenic,56.29
+PAUJIL,2023,Winter,Vaciante,11,Bird,54.57
+PAUJIL,2023,Winter,Vaciante,11,Insect,39.43
+PAUJIL,2023,Winter,Vaciante,11,Mammal,2.0
+PAUJIL,2023,Winter,Vaciante,12,Amphibian,2.0
+PAUJIL,2023,Winter,Vaciante,12,Anthropogenic,50.57
+PAUJIL,2023,Winter,Vaciante,12,Bird,67.14
+PAUJIL,2023,Winter,Vaciante,12,Insect,45.86
+PAUJIL,2023,Winter,Vaciante,12,Mammal,1.14
+PAUJIL,2023,Winter,Vaciante,13,Amphibian,2.86
+PAUJIL,2023,Winter,Vaciante,13,Anthropogenic,60.57
+PAUJIL,2023,Winter,Vaciante,13,Bird,51.14
+PAUJIL,2023,Winter,Vaciante,13,Insect,54.0
+PAUJIL,2023,Winter,Vaciante,13,Mammal,0.29
+PAUJIL,2023,Winter,Vaciante,14,Amphibian,2.14
+PAUJIL,2023,Winter,Vaciante,14,Anthropogenic,53.71
+PAUJIL,2023,Winter,Vaciante,14,Bird,55.57
+PAUJIL,2023,Winter,Vaciante,14,Insect,55.14
+PAUJIL,2023,Winter,Vaciante,14,Mammal,0.14
+PAUJIL,2023,Winter,Vaciante,15,Amphibian,3.71
+PAUJIL,2023,Winter,Vaciante,15,Anthropogenic,62.29
+PAUJIL,2023,Winter,Vaciante,15,Bird,55.57
+PAUJIL,2023,Winter,Vaciante,15,Insect,85.71
+PAUJIL,2023,Winter,Vaciante,15,Mammal,1.0
+PAUJIL,2023,Winter,Vaciante,16,Amphibian,9.57
+PAUJIL,2023,Winter,Vaciante,16,Anthropogenic,59.71
+PAUJIL,2023,Winter,Vaciante,16,Bird,59.14
+PAUJIL,2023,Winter,Vaciante,16,Insect,100.43
+PAUJIL,2023,Winter,Vaciante,17,Amphibian,15.29
+PAUJIL,2023,Winter,Vaciante,17,Anthropogenic,64.29
+PAUJIL,2023,Winter,Vaciante,17,Bird,27.0
+PAUJIL,2023,Winter,Vaciante,17,Insect,107.86
+PAUJIL,2023,Winter,Vaciante,17,Mammal,1.0
+PAUJIL,2023,Winter,Vaciante,18,Amphibian,14.14
+PAUJIL,2023,Winter,Vaciante,18,Anthropogenic,31.43
+PAUJIL,2023,Winter,Vaciante,18,Bird,3.43
+PAUJIL,2023,Winter,Vaciante,18,Insect,180.0
+PAUJIL,2023,Winter,Vaciante,19,Amphibian,7.57
+PAUJIL,2023,Winter,Vaciante,19,Anthropogenic,19.14
+PAUJIL,2023,Winter,Vaciante,19,Insect,206.0
+PAUJIL,2023,Winter,Vaciante,20,Amphibian,20.14
+PAUJIL,2023,Winter,Vaciante,20,Anthropogenic,25.71
+PAUJIL,2023,Winter,Vaciante,20,Bird,0.14
+PAUJIL,2023,Winter,Vaciante,20,Insect,173.86
+PAUJIL,2023,Winter,Vaciante,20,Mammal,0.29
+PAUJIL,2023,Winter,Vaciante,21,Amphibian,30.43
+PAUJIL,2023,Winter,Vaciante,21,Anthropogenic,38.57
+PAUJIL,2023,Winter,Vaciante,21,Bird,0.43
+PAUJIL,2023,Winter,Vaciante,21,Insect,157.86
+PAUJIL,2023,Winter,Vaciante,22,Amphibian,27.57
+PAUJIL,2023,Winter,Vaciante,22,Anthropogenic,53.57
+PAUJIL,2023,Winter,Vaciante,22,Bird,1.43
+PAUJIL,2023,Winter,Vaciante,22,Insect,157.29
+PAUJIL,2023,Winter,Vaciante,23,Amphibian,25.14
+PAUJIL,2023,Winter,Vaciante,23,Anthropogenic,47.43
+PAUJIL,2023,Winter,Vaciante,23,Bird,0.86
+PAUJIL,2023,Winter,Vaciante,23,Insect,161.0
+PAUJIL,2023,Winter,Vaciante,23,Mammal,0.57
+PAUJIL,2024,Autumn,Creciente,0,Amphibian,0.33
+PAUJIL,2024,Autumn,Creciente,0,Anthropogenic,25.11
+PAUJIL,2024,Autumn,Creciente,0,Bird,1.44
+PAUJIL,2024,Autumn,Creciente,0,Insect,56.33
+PAUJIL,2024,Autumn,Creciente,0,Mammal,0.11
+PAUJIL,2024,Autumn,Creciente,1,Amphibian,0.22
+PAUJIL,2024,Autumn,Creciente,1,Anthropogenic,12.56
+PAUJIL,2024,Autumn,Creciente,1,Bird,4.44
+PAUJIL,2024,Autumn,Creciente,1,Insect,55.0
+PAUJIL,2024,Autumn,Creciente,2,Amphibian,0.33
+PAUJIL,2024,Autumn,Creciente,2,Anthropogenic,14.0
+PAUJIL,2024,Autumn,Creciente,2,Bird,1.0
+PAUJIL,2024,Autumn,Creciente,2,Insect,70.89
+PAUJIL,2024,Autumn,Creciente,2,Mammal,0.56
+PAUJIL,2024,Autumn,Creciente,3,Amphibian,7.22
+PAUJIL,2024,Autumn,Creciente,3,Anthropogenic,13.33
+PAUJIL,2024,Autumn,Creciente,3,Bird,3.33
+PAUJIL,2024,Autumn,Creciente,3,Insect,48.22
+PAUJIL,2024,Autumn,Creciente,4,Anthropogenic,1.78
+PAUJIL,2024,Autumn,Creciente,4,Bird,2.0
+PAUJIL,2024,Autumn,Creciente,4,Insect,68.67
+PAUJIL,2024,Autumn,Creciente,5,Amphibian,1.11
+PAUJIL,2024,Autumn,Creciente,5,Anthropogenic,5.78
+PAUJIL,2024,Autumn,Creciente,5,Bird,3.78
+PAUJIL,2024,Autumn,Creciente,5,Insect,51.33
+PAUJIL,2024,Autumn,Creciente,5,Mammal,0.11
+PAUJIL,2024,Autumn,Creciente,6,Amphibian,0.22
+PAUJIL,2024,Autumn,Creciente,6,Anthropogenic,6.11
+PAUJIL,2024,Autumn,Creciente,6,Bird,19.0
+PAUJIL,2024,Autumn,Creciente,6,Insect,44.22
+PAUJIL,2024,Autumn,Creciente,6,Mammal,0.56
+PAUJIL,2024,Autumn,Creciente,7,Amphibian,0.11
+PAUJIL,2024,Autumn,Creciente,7,Anthropogenic,13.89
+PAUJIL,2024,Autumn,Creciente,7,Bird,12.67
+PAUJIL,2024,Autumn,Creciente,7,Insect,44.56
+PAUJIL,2024,Autumn,Creciente,8,Amphibian,0.11
+PAUJIL,2024,Autumn,Creciente,8,Anthropogenic,13.22
+PAUJIL,2024,Autumn,Creciente,8,Bird,13.11
+PAUJIL,2024,Autumn,Creciente,8,Insect,32.56
+PAUJIL,2024,Autumn,Creciente,9,Amphibian,0.33
+PAUJIL,2024,Autumn,Creciente,9,Anthropogenic,12.56
+PAUJIL,2024,Autumn,Creciente,9,Bird,20.11
+PAUJIL,2024,Autumn,Creciente,9,Insect,26.33
+PAUJIL,2024,Autumn,Creciente,9,Mammal,1.11
+PAUJIL,2024,Autumn,Creciente,10,Amphibian,0.11
+PAUJIL,2024,Autumn,Creciente,10,Anthropogenic,15.22
+PAUJIL,2024,Autumn,Creciente,10,Bird,16.78
+PAUJIL,2024,Autumn,Creciente,10,Insect,21.33
+PAUJIL,2024,Autumn,Creciente,10,Mammal,0.11
+PAUJIL,2024,Autumn,Creciente,11,Anthropogenic,5.78
+PAUJIL,2024,Autumn,Creciente,11,Bird,20.22
+PAUJIL,2024,Autumn,Creciente,11,Insect,22.67
+PAUJIL,2024,Autumn,Creciente,12,Amphibian,0.22
+PAUJIL,2024,Autumn,Creciente,12,Anthropogenic,23.0
+PAUJIL,2024,Autumn,Creciente,12,Bird,22.11
+PAUJIL,2024,Autumn,Creciente,12,Insect,19.89
+PAUJIL,2024,Autumn,Creciente,12,Mammal,0.11
+PAUJIL,2024,Autumn,Creciente,13,Amphibian,0.22
+PAUJIL,2024,Autumn,Creciente,13,Anthropogenic,19.11
+PAUJIL,2024,Autumn,Creciente,13,Bird,17.22
+PAUJIL,2024,Autumn,Creciente,13,Insect,16.22
+PAUJIL,2024,Autumn,Creciente,13,Mammal,0.22
+PAUJIL,2024,Autumn,Creciente,14,Anthropogenic,15.11
+PAUJIL,2024,Autumn,Creciente,14,Bird,16.22
+PAUJIL,2024,Autumn,Creciente,14,Insect,46.89
+PAUJIL,2024,Autumn,Creciente,14,Mammal,1.89
+PAUJIL,2024,Autumn,Creciente,15,Amphibian,2.44
+PAUJIL,2024,Autumn,Creciente,15,Anthropogenic,28.89
+PAUJIL,2024,Autumn,Creciente,15,Bird,13.44
+PAUJIL,2024,Autumn,Creciente,15,Insect,45.22
+PAUJIL,2024,Autumn,Creciente,15,Mammal,0.33
+PAUJIL,2024,Autumn,Creciente,16,Amphibian,3.89
+PAUJIL,2024,Autumn,Creciente,16,Anthropogenic,35.56
+PAUJIL,2024,Autumn,Creciente,16,Bird,4.89
+PAUJIL,2024,Autumn,Creciente,16,Insect,38.89
+PAUJIL,2024,Autumn,Creciente,16,Mammal,0.22
+PAUJIL,2024,Autumn,Creciente,17,Amphibian,1.11
+PAUJIL,2024,Autumn,Creciente,17,Anthropogenic,38.0
+PAUJIL,2024,Autumn,Creciente,17,Bird,6.22
+PAUJIL,2024,Autumn,Creciente,17,Insect,59.11
+PAUJIL,2024,Autumn,Creciente,17,Mammal,0.11
+PAUJIL,2024,Autumn,Creciente,18,Amphibian,1.0
+PAUJIL,2024,Autumn,Creciente,18,Anthropogenic,19.22
+PAUJIL,2024,Autumn,Creciente,18,Bird,2.11
+PAUJIL,2024,Autumn,Creciente,18,Insect,74.44
+PAUJIL,2024,Autumn,Creciente,18,Mammal,0.11
+PAUJIL,2024,Autumn,Creciente,19,Amphibian,1.78
+PAUJIL,2024,Autumn,Creciente,19,Anthropogenic,32.56
+PAUJIL,2024,Autumn,Creciente,19,Bird,1.89
+PAUJIL,2024,Autumn,Creciente,19,Insect,82.33
+PAUJIL,2024,Autumn,Creciente,19,Mammal,0.44
+PAUJIL,2024,Autumn,Creciente,20,Amphibian,6.44
+PAUJIL,2024,Autumn,Creciente,20,Anthropogenic,49.89
+PAUJIL,2024,Autumn,Creciente,20,Bird,0.22
+PAUJIL,2024,Autumn,Creciente,20,Insect,83.89
+PAUJIL,2024,Autumn,Creciente,20,Mammal,0.22
+PAUJIL,2024,Autumn,Creciente,21,Amphibian,4.89
+PAUJIL,2024,Autumn,Creciente,21,Anthropogenic,36.78
+PAUJIL,2024,Autumn,Creciente,21,Bird,2.22
+PAUJIL,2024,Autumn,Creciente,21,Insect,89.33
+PAUJIL,2024,Autumn,Creciente,21,Mammal,0.67
+PAUJIL,2024,Autumn,Creciente,22,Amphibian,6.67
+PAUJIL,2024,Autumn,Creciente,22,Anthropogenic,33.11
+PAUJIL,2024,Autumn,Creciente,22,Bird,1.89
+PAUJIL,2024,Autumn,Creciente,22,Insect,87.89
+PAUJIL,2024,Autumn,Creciente,22,Mammal,1.56
+PAUJIL,2024,Autumn,Creciente,23,Amphibian,2.11
+PAUJIL,2024,Autumn,Creciente,23,Anthropogenic,23.67
+PAUJIL,2024,Autumn,Creciente,23,Bird,2.44
+PAUJIL,2024,Autumn,Creciente,23,Insect,77.56
+PAUJIL,2024,Autumn,Creciente,23,Mammal,0.22
+PAUJIL,2024,Summer,Creciente,0,Amphibian,1.71
+PAUJIL,2024,Summer,Creciente,0,Anthropogenic,11.29
+PAUJIL,2024,Summer,Creciente,0,Bird,0.14
+PAUJIL,2024,Summer,Creciente,0,Insect,341.0
+PAUJIL,2024,Summer,Creciente,1,Amphibian,12.57
+PAUJIL,2024,Summer,Creciente,1,Anthropogenic,18.14
+PAUJIL,2024,Summer,Creciente,1,Bird,2.0
+PAUJIL,2024,Summer,Creciente,1,Insect,258.86
+PAUJIL,2024,Summer,Creciente,2,Amphibian,14.86
+PAUJIL,2024,Summer,Creciente,2,Anthropogenic,42.86
+PAUJIL,2024,Summer,Creciente,2,Bird,17.43
+PAUJIL,2024,Summer,Creciente,2,Insect,248.71
+PAUJIL,2024,Summer,Creciente,3,Amphibian,11.14
+PAUJIL,2024,Summer,Creciente,3,Anthropogenic,1.71
+PAUJIL,2024,Summer,Creciente,3,Bird,172.71
+PAUJIL,2024,Summer,Creciente,3,Insect,180.43
+PAUJIL,2024,Summer,Creciente,4,Amphibian,0.14
+PAUJIL,2024,Summer,Creciente,4,Anthropogenic,4.43
+PAUJIL,2024,Summer,Creciente,4,Bird,165.14
+PAUJIL,2024,Summer,Creciente,4,Insect,163.43
+PAUJIL,2024,Summer,Creciente,5,Amphibian,2.57
+PAUJIL,2024,Summer,Creciente,5,Anthropogenic,29.86
+PAUJIL,2024,Summer,Creciente,5,Bird,150.0
+PAUJIL,2024,Summer,Creciente,5,Insect,168.0
+PAUJIL,2024,Summer,Creciente,5,Mammal,0.43
+PAUJIL,2024,Summer,Creciente,6,Amphibian,1.86
+PAUJIL,2024,Summer,Creciente,6,Anthropogenic,14.0
+PAUJIL,2024,Summer,Creciente,6,Bird,171.14
+PAUJIL,2024,Summer,Creciente,6,Insect,174.0
+PAUJIL,2024,Summer,Creciente,6,Mammal,0.57
+PAUJIL,2024,Summer,Creciente,7,Amphibian,1.71
+PAUJIL,2024,Summer,Creciente,7,Anthropogenic,10.43
+PAUJIL,2024,Summer,Creciente,7,Bird,196.86
+PAUJIL,2024,Summer,Creciente,7,Insect,145.14
+PAUJIL,2024,Summer,Creciente,7,Mammal,1.29
+PAUJIL,2024,Summer,Creciente,8,Amphibian,0.43
+PAUJIL,2024,Summer,Creciente,8,Anthropogenic,7.43
+PAUJIL,2024,Summer,Creciente,8,Bird,126.86
+PAUJIL,2024,Summer,Creciente,8,Insect,199.29
+PAUJIL,2024,Summer,Creciente,8,Mammal,0.57
+PAUJIL,2024,Summer,Creciente,9,Amphibian,0.86
+PAUJIL,2024,Summer,Creciente,9,Anthropogenic,8.0
+PAUJIL,2024,Summer,Creciente,9,Bird,120.71
+PAUJIL,2024,Summer,Creciente,9,Insect,153.29
+PAUJIL,2024,Summer,Creciente,9,Mammal,1.0
+PAUJIL,2024,Summer,Creciente,10,Amphibian,1.14
+PAUJIL,2024,Summer,Creciente,10,Anthropogenic,26.0
+PAUJIL,2024,Summer,Creciente,10,Bird,186.43
+PAUJIL,2024,Summer,Creciente,10,Insect,290.57
+PAUJIL,2024,Summer,Creciente,10,Mammal,2.0
+PAUJIL,2024,Summer,Creciente,11,Amphibian,4.0
+PAUJIL,2024,Summer,Creciente,11,Anthropogenic,23.29
+PAUJIL,2024,Summer,Creciente,11,Bird,145.0
+PAUJIL,2024,Summer,Creciente,11,Insect,338.29
+PAUJIL,2024,Summer,Creciente,11,Mammal,1.14
+PAUJIL,2024,Summer,Creciente,12,Amphibian,7.43
+PAUJIL,2024,Summer,Creciente,12,Anthropogenic,24.0
+PAUJIL,2024,Summer,Creciente,12,Bird,118.29
+PAUJIL,2024,Summer,Creciente,12,Insect,343.57
+PAUJIL,2024,Summer,Creciente,12,Mammal,0.29
+PAUJIL,2024,Summer,Creciente,13,Amphibian,23.43
+PAUJIL,2024,Summer,Creciente,13,Anthropogenic,13.43
+PAUJIL,2024,Summer,Creciente,13,Bird,145.29
+PAUJIL,2024,Summer,Creciente,13,Insect,282.0
+PAUJIL,2024,Summer,Creciente,13,Mammal,1.0
+PAUJIL,2024,Summer,Creciente,14,Amphibian,9.0
+PAUJIL,2024,Summer,Creciente,14,Anthropogenic,20.0
+PAUJIL,2024,Summer,Creciente,14,Bird,101.86
+PAUJIL,2024,Summer,Creciente,14,Insect,243.57
+PAUJIL,2024,Summer,Creciente,14,Mammal,1.0
+PAUJIL,2024,Summer,Creciente,15,Amphibian,42.57
+PAUJIL,2024,Summer,Creciente,15,Anthropogenic,5.29
+PAUJIL,2024,Summer,Creciente,15,Bird,59.14
+PAUJIL,2024,Summer,Creciente,15,Insect,339.57
+PAUJIL,2024,Summer,Creciente,15,Mammal,0.29
+PAUJIL,2024,Summer,Creciente,16,Amphibian,22.0
+PAUJIL,2024,Summer,Creciente,16,Anthropogenic,2.43
+PAUJIL,2024,Summer,Creciente,16,Bird,0.86
+PAUJIL,2024,Summer,Creciente,16,Insect,310.71
+PAUJIL,2024,Summer,Creciente,17,Amphibian,34.29
+PAUJIL,2024,Summer,Creciente,17,Anthropogenic,48.57
+PAUJIL,2024,Summer,Creciente,17,Bird,1.0
+PAUJIL,2024,Summer,Creciente,17,Insect,186.71
+PAUJIL,2024,Summer,Creciente,18,Amphibian,31.0
+PAUJIL,2024,Summer,Creciente,18,Anthropogenic,75.43
+PAUJIL,2024,Summer,Creciente,18,Bird,1.43
+PAUJIL,2024,Summer,Creciente,18,Insect,177.57
+PAUJIL,2024,Summer,Creciente,19,Amphibian,26.57
+PAUJIL,2024,Summer,Creciente,19,Anthropogenic,39.14
+PAUJIL,2024,Summer,Creciente,19,Bird,2.0
+PAUJIL,2024,Summer,Creciente,19,Insect,252.43
+PAUJIL,2024,Summer,Creciente,20,Amphibian,13.43
+PAUJIL,2024,Summer,Creciente,20,Anthropogenic,76.57
+PAUJIL,2024,Summer,Creciente,20,Bird,0.14
+PAUJIL,2024,Summer,Creciente,20,Insect,234.14
+PAUJIL,2024,Summer,Creciente,21,Amphibian,8.71
+PAUJIL,2024,Summer,Creciente,21,Anthropogenic,54.29
+PAUJIL,2024,Summer,Creciente,21,Bird,0.43
+PAUJIL,2024,Summer,Creciente,21,Insect,276.86
+PAUJIL,2024,Summer,Creciente,22,Amphibian,15.86
+PAUJIL,2024,Summer,Creciente,22,Anthropogenic,30.43
+PAUJIL,2024,Summer,Creciente,22,Bird,0.71
+PAUJIL,2024,Summer,Creciente,22,Insect,289.29
+PAUJIL,2024,Summer,Creciente,23,Amphibian,4.29
+PAUJIL,2024,Summer,Creciente,23,Anthropogenic,18.43
+PAUJIL,2024,Summer,Creciente,23,Bird,0.43
+PAUJIL,2024,Summer,Creciente,23,Insect,336.86
+PAUJIL,2024,Summer,Creciente,23,Mammal,0.14
+PAUJIL,2024,Winter,Vaciante,0,Anthropogenic,5.13
+PAUJIL,2024,Winter,Vaciante,0,Bird,4.88
+PAUJIL,2024,Winter,Vaciante,0,Insect,110.0
+PAUJIL,2024,Winter,Vaciante,0,Mammal,0.75
+PAUJIL,2024,Winter,Vaciante,1,Amphibian,0.25
+PAUJIL,2024,Winter,Vaciante,1,Anthropogenic,2.25
+PAUJIL,2024,Winter,Vaciante,1,Bird,5.13
+PAUJIL,2024,Winter,Vaciante,1,Insect,115.0
+PAUJIL,2024,Winter,Vaciante,1,Mammal,0.13
+PAUJIL,2024,Winter,Vaciante,2,Amphibian,0.5
+PAUJIL,2024,Winter,Vaciante,2,Anthropogenic,3.0
+PAUJIL,2024,Winter,Vaciante,2,Bird,5.25
+PAUJIL,2024,Winter,Vaciante,2,Insect,90.63
+PAUJIL,2024,Winter,Vaciante,2,Mammal,1.5
+PAUJIL,2024,Winter,Vaciante,3,Amphibian,0.13
+PAUJIL,2024,Winter,Vaciante,3,Anthropogenic,5.13
+PAUJIL,2024,Winter,Vaciante,3,Bird,5.25
+PAUJIL,2024,Winter,Vaciante,3,Insect,86.13
+PAUJIL,2024,Winter,Vaciante,4,Amphibian,1.0
+PAUJIL,2024,Winter,Vaciante,4,Anthropogenic,8.0
+PAUJIL,2024,Winter,Vaciante,4,Bird,14.0
+PAUJIL,2024,Winter,Vaciante,4,Insect,83.38
+PAUJIL,2024,Winter,Vaciante,4,Mammal,0.25
+PAUJIL,2024,Winter,Vaciante,5,Amphibian,2.38
+PAUJIL,2024,Winter,Vaciante,5,Anthropogenic,14.38
+PAUJIL,2024,Winter,Vaciante,5,Bird,21.5
+PAUJIL,2024,Winter,Vaciante,5,Insect,52.63
+PAUJIL,2024,Winter,Vaciante,5,Mammal,1.25
+PAUJIL,2024,Winter,Vaciante,6,Amphibian,3.88
+PAUJIL,2024,Winter,Vaciante,6,Anthropogenic,30.13
+PAUJIL,2024,Winter,Vaciante,6,Bird,60.75
+PAUJIL,2024,Winter,Vaciante,6,Insect,27.13
+PAUJIL,2024,Winter,Vaciante,6,Mammal,0.63
+PAUJIL,2024,Winter,Vaciante,7,Amphibian,4.88
+PAUJIL,2024,Winter,Vaciante,7,Anthropogenic,37.0
+PAUJIL,2024,Winter,Vaciante,7,Bird,46.63
+PAUJIL,2024,Winter,Vaciante,7,Insect,40.13
+PAUJIL,2024,Winter,Vaciante,7,Mammal,1.88
+PAUJIL,2024,Winter,Vaciante,8,Amphibian,1.0
+PAUJIL,2024,Winter,Vaciante,8,Anthropogenic,19.13
+PAUJIL,2024,Winter,Vaciante,8,Bird,66.63
+PAUJIL,2024,Winter,Vaciante,8,Insect,39.38
+PAUJIL,2024,Winter,Vaciante,8,Mammal,1.75
+PAUJIL,2024,Winter,Vaciante,9,Amphibian,1.0
+PAUJIL,2024,Winter,Vaciante,9,Anthropogenic,31.0
+PAUJIL,2024,Winter,Vaciante,9,Bird,73.75
+PAUJIL,2024,Winter,Vaciante,9,Insect,44.63
+PAUJIL,2024,Winter,Vaciante,9,Mammal,0.25
+PAUJIL,2024,Winter,Vaciante,10,Amphibian,0.13
+PAUJIL,2024,Winter,Vaciante,10,Anthropogenic,28.25
+PAUJIL,2024,Winter,Vaciante,10,Bird,69.63
+PAUJIL,2024,Winter,Vaciante,10,Insect,43.13
+PAUJIL,2024,Winter,Vaciante,10,Mammal,0.38
+PAUJIL,2024,Winter,Vaciante,11,Amphibian,0.38
+PAUJIL,2024,Winter,Vaciante,11,Anthropogenic,17.0
+PAUJIL,2024,Winter,Vaciante,11,Bird,45.75
+PAUJIL,2024,Winter,Vaciante,11,Insect,77.38
+PAUJIL,2024,Winter,Vaciante,11,Mammal,0.5
+PAUJIL,2024,Winter,Vaciante,12,Amphibian,0.25
+PAUJIL,2024,Winter,Vaciante,12,Anthropogenic,17.13
+PAUJIL,2024,Winter,Vaciante,12,Bird,59.25
+PAUJIL,2024,Winter,Vaciante,12,Insect,62.25
+PAUJIL,2024,Winter,Vaciante,12,Mammal,1.5
+PAUJIL,2024,Winter,Vaciante,13,Amphibian,2.5
+PAUJIL,2024,Winter,Vaciante,13,Anthropogenic,24.0
+PAUJIL,2024,Winter,Vaciante,13,Bird,27.75
+PAUJIL,2024,Winter,Vaciante,13,Insect,73.13
+PAUJIL,2024,Winter,Vaciante,13,Mammal,1.5
+PAUJIL,2024,Winter,Vaciante,14,Amphibian,8.0
+PAUJIL,2024,Winter,Vaciante,14,Anthropogenic,14.88
+PAUJIL,2024,Winter,Vaciante,14,Bird,33.75
+PAUJIL,2024,Winter,Vaciante,14,Insect,86.25
+PAUJIL,2024,Winter,Vaciante,14,Mammal,2.0
+PAUJIL,2024,Winter,Vaciante,15,Amphibian,17.75
+PAUJIL,2024,Winter,Vaciante,15,Anthropogenic,19.25
+PAUJIL,2024,Winter,Vaciante,15,Bird,20.0
+PAUJIL,2024,Winter,Vaciante,15,Insect,85.13
+PAUJIL,2024,Winter,Vaciante,15,Mammal,0.25
+PAUJIL,2024,Winter,Vaciante,16,Amphibian,13.75
+PAUJIL,2024,Winter,Vaciante,16,Anthropogenic,27.13
+PAUJIL,2024,Winter,Vaciante,16,Bird,25.0
+PAUJIL,2024,Winter,Vaciante,16,Insect,71.13
+PAUJIL,2024,Winter,Vaciante,16,Mammal,2.88
+PAUJIL,2024,Winter,Vaciante,17,Amphibian,5.5
+PAUJIL,2024,Winter,Vaciante,17,Anthropogenic,26.0
+PAUJIL,2024,Winter,Vaciante,17,Bird,25.75
+PAUJIL,2024,Winter,Vaciante,17,Insect,83.25
+PAUJIL,2024,Winter,Vaciante,17,Mammal,0.63
+PAUJIL,2024,Winter,Vaciante,18,Amphibian,18.0
+PAUJIL,2024,Winter,Vaciante,18,Anthropogenic,28.63
+PAUJIL,2024,Winter,Vaciante,18,Bird,0.5
+PAUJIL,2024,Winter,Vaciante,18,Insect,68.63
+PAUJIL,2024,Winter,Vaciante,18,Mammal,0.5
+PAUJIL,2024,Winter,Vaciante,19,Amphibian,0.13
+PAUJIL,2024,Winter,Vaciante,19,Anthropogenic,9.5
+PAUJIL,2024,Winter,Vaciante,19,Bird,0.5
+PAUJIL,2024,Winter,Vaciante,19,Insect,125.25
+PAUJIL,2024,Winter,Vaciante,19,Mammal,0.25
+PAUJIL,2024,Winter,Vaciante,20,Anthropogenic,2.5
+PAUJIL,2024,Winter,Vaciante,20,Bird,2.5
+PAUJIL,2024,Winter,Vaciante,20,Insect,127.88
+PAUJIL,2024,Winter,Vaciante,20,Mammal,0.25
+PAUJIL,2024,Winter,Vaciante,21,Amphibian,0.13
+PAUJIL,2024,Winter,Vaciante,21,Anthropogenic,6.63
+PAUJIL,2024,Winter,Vaciante,21,Bird,0.5
+PAUJIL,2024,Winter,Vaciante,21,Insect,125.88
+PAUJIL,2024,Winter,Vaciante,21,Mammal,0.38
+PAUJIL,2024,Winter,Vaciante,22,Anthropogenic,1.25
+PAUJIL,2024,Winter,Vaciante,22,Bird,3.0
+PAUJIL,2024,Winter,Vaciante,22,Insect,133.5
+PAUJIL,2024,Winter,Vaciante,22,Mammal,0.25
+PAUJIL,2024,Winter,Vaciante,23,Anthropogenic,13.5
+PAUJIL,2024,Winter,Vaciante,23,Bird,0.88
+PAUJIL,2024,Winter,Vaciante,23,Insect,133.5
+PAUJIL,2024,Winter,Vaciante,23,Mammal,1.13
+PAUJIL,2025,Autumn,Creciente,0,Amphibian,0.88
+PAUJIL,2025,Autumn,Creciente,0,Anthropogenic,21.5
+PAUJIL,2025,Autumn,Creciente,0,Insect,64.5
+PAUJIL,2025,Autumn,Creciente,1,Amphibian,3.38
+PAUJIL,2025,Autumn,Creciente,1,Anthropogenic,11.63
+PAUJIL,2025,Autumn,Creciente,1,Insect,62.63
+PAUJIL,2025,Autumn,Creciente,2,Amphibian,5.13
+PAUJIL,2025,Autumn,Creciente,2,Anthropogenic,6.5
+PAUJIL,2025,Autumn,Creciente,2,Insect,66.38
+PAUJIL,2025,Autumn,Creciente,3,Amphibian,3.0
+PAUJIL,2025,Autumn,Creciente,3,Anthropogenic,8.0
+PAUJIL,2025,Autumn,Creciente,3,Insect,55.75
+PAUJIL,2025,Autumn,Creciente,4,Amphibian,0.38
+PAUJIL,2025,Autumn,Creciente,4,Anthropogenic,10.5
+PAUJIL,2025,Autumn,Creciente,4,Insect,48.38
+PAUJIL,2025,Autumn,Creciente,5,Amphibian,1.75
+PAUJIL,2025,Autumn,Creciente,5,Anthropogenic,9.88
+PAUJIL,2025,Autumn,Creciente,5,Insect,35.63
+PAUJIL,2025,Autumn,Creciente,6,Amphibian,0.25
+PAUJIL,2025,Autumn,Creciente,6,Anthropogenic,2.13
+PAUJIL,2025,Autumn,Creciente,6,Bird,18.0
+PAUJIL,2025,Autumn,Creciente,6,Insect,23.5
+PAUJIL,2025,Autumn,Creciente,7,Anthropogenic,1.75
+PAUJIL,2025,Autumn,Creciente,7,Bird,15.5
+PAUJIL,2025,Autumn,Creciente,7,Insect,47.5
+PAUJIL,2025,Autumn,Creciente,8,Amphibian,0.13
+PAUJIL,2025,Autumn,Creciente,8,Anthropogenic,1.0
+PAUJIL,2025,Autumn,Creciente,8,Bird,22.5
+PAUJIL,2025,Autumn,Creciente,8,Insect,42.0
+PAUJIL,2025,Autumn,Creciente,9,Anthropogenic,1.5
+PAUJIL,2025,Autumn,Creciente,9,Bird,35.13
+PAUJIL,2025,Autumn,Creciente,9,Insect,16.25
+PAUJIL,2025,Autumn,Creciente,9,Mammal,0.13
+PAUJIL,2025,Autumn,Creciente,10,Amphibian,0.13
+PAUJIL,2025,Autumn,Creciente,10,Anthropogenic,0.5
+PAUJIL,2025,Autumn,Creciente,10,Bird,31.13
+PAUJIL,2025,Autumn,Creciente,10,Insect,13.38
+PAUJIL,2025,Autumn,Creciente,11,Amphibian,0.13
+PAUJIL,2025,Autumn,Creciente,11,Anthropogenic,0.75
+PAUJIL,2025,Autumn,Creciente,11,Bird,45.88
+PAUJIL,2025,Autumn,Creciente,11,Insect,18.75
+PAUJIL,2025,Autumn,Creciente,11,Mammal,0.5
+PAUJIL,2025,Autumn,Creciente,12,Amphibian,0.25
+PAUJIL,2025,Autumn,Creciente,12,Anthropogenic,2.63
+PAUJIL,2025,Autumn,Creciente,12,Bird,38.25
+PAUJIL,2025,Autumn,Creciente,12,Insect,23.0
+PAUJIL,2025,Autumn,Creciente,12,Mammal,0.38
+PAUJIL,2025,Autumn,Creciente,13,Anthropogenic,0.88
+PAUJIL,2025,Autumn,Creciente,13,Bird,33.75
+PAUJIL,2025,Autumn,Creciente,13,Insect,10.5
+PAUJIL,2025,Autumn,Creciente,13,Mammal,0.38
+PAUJIL,2025,Autumn,Creciente,14,Anthropogenic,1.5
+PAUJIL,2025,Autumn,Creciente,14,Bird,34.5
+PAUJIL,2025,Autumn,Creciente,14,Insect,22.88
+PAUJIL,2025,Autumn,Creciente,15,Amphibian,0.13
+PAUJIL,2025,Autumn,Creciente,15,Anthropogenic,0.88
+PAUJIL,2025,Autumn,Creciente,15,Bird,28.38
+PAUJIL,2025,Autumn,Creciente,15,Insect,33.25
+PAUJIL,2025,Autumn,Creciente,16,Anthropogenic,0.75
+PAUJIL,2025,Autumn,Creciente,16,Bird,10.13
+PAUJIL,2025,Autumn,Creciente,16,Insect,33.5
+PAUJIL,2025,Autumn,Creciente,17,Anthropogenic,4.38
+PAUJIL,2025,Autumn,Creciente,17,Bird,14.88
+PAUJIL,2025,Autumn,Creciente,17,Insect,41.75
+PAUJIL,2025,Autumn,Creciente,18,Anthropogenic,1.75
+PAUJIL,2025,Autumn,Creciente,18,Bird,14.5
+PAUJIL,2025,Autumn,Creciente,18,Insect,55.13
+PAUJIL,2025,Autumn,Creciente,19,Amphibian,10.5
+PAUJIL,2025,Autumn,Creciente,19,Anthropogenic,0.38
+PAUJIL,2025,Autumn,Creciente,19,Insect,84.13
+PAUJIL,2025,Autumn,Creciente,20,Amphibian,4.25
+PAUJIL,2025,Autumn,Creciente,20,Anthropogenic,8.5
+PAUJIL,2025,Autumn,Creciente,20,Insect,86.75
+PAUJIL,2025,Autumn,Creciente,20,Mammal,0.13
+PAUJIL,2025,Autumn,Creciente,21,Amphibian,1.13
+PAUJIL,2025,Autumn,Creciente,21,Anthropogenic,14.5
+PAUJIL,2025,Autumn,Creciente,21,Bird,0.13
+PAUJIL,2025,Autumn,Creciente,21,Insect,78.88
+PAUJIL,2025,Autumn,Creciente,22,Amphibian,8.88
+PAUJIL,2025,Autumn,Creciente,22,Anthropogenic,14.63
+PAUJIL,2025,Autumn,Creciente,22,Insect,72.88
+PAUJIL,2025,Autumn,Creciente,23,Amphibian,0.13
+PAUJIL,2025,Autumn,Creciente,23,Anthropogenic,7.25
+PAUJIL,2025,Autumn,Creciente,23,Insect,85.5
+PAUJIL,2025,Spring,Vaciante,0,Amphibian,24.0
+PAUJIL,2025,Spring,Vaciante,0,Anthropogenic,20.0
+PAUJIL,2025,Spring,Vaciante,0,Bird,0.67
+PAUJIL,2025,Spring,Vaciante,0,Insect,71.33
+PAUJIL,2025,Spring,Vaciante,1,Amphibian,2.0
+PAUJIL,2025,Spring,Vaciante,1,Anthropogenic,4.0
+PAUJIL,2025,Spring,Vaciante,1,Insect,73.33
+PAUJIL,2025,Spring,Vaciante,2,Amphibian,2.67
+PAUJIL,2025,Spring,Vaciante,2,Anthropogenic,4.67
+PAUJIL,2025,Spring,Vaciante,2,Insect,70.0
+PAUJIL,2025,Spring,Vaciante,3,Amphibian,4.67
+PAUJIL,2025,Spring,Vaciante,3,Anthropogenic,65.33
+PAUJIL,2025,Spring,Vaciante,3,Insect,42.67
+PAUJIL,2025,Spring,Vaciante,4,Amphibian,1.33
+PAUJIL,2025,Spring,Vaciante,4,Anthropogenic,34.0
+PAUJIL,2025,Spring,Vaciante,4,Insect,80.0
+PAUJIL,2025,Spring,Vaciante,4,Mammal,0.67
+PAUJIL,2025,Spring,Vaciante,5,Bird,0.67
+PAUJIL,2025,Spring,Vaciante,5,Insect,79.33
+PAUJIL,2025,Spring,Vaciante,5,Mammal,2.0
+PAUJIL,2025,Spring,Vaciante,6,Bird,10.0
+PAUJIL,2025,Spring,Vaciante,6,Insect,70.67
+PAUJIL,2025,Spring,Vaciante,7,Anthropogenic,8.0
+PAUJIL,2025,Spring,Vaciante,7,Bird,4.67
+PAUJIL,2025,Spring,Vaciante,7,Insect,67.33
+PAUJIL,2025,Spring,Vaciante,8,Anthropogenic,0.67
+PAUJIL,2025,Spring,Vaciante,8,Bird,8.67
+PAUJIL,2025,Spring,Vaciante,8,Insect,66.67
+PAUJIL,2025,Spring,Vaciante,9,Anthropogenic,16.67
+PAUJIL,2025,Spring,Vaciante,9,Bird,14.67
+PAUJIL,2025,Spring,Vaciante,9,Insect,38.67
+PAUJIL,2025,Spring,Vaciante,10,Anthropogenic,37.33
+PAUJIL,2025,Spring,Vaciante,10,Bird,12.67
+PAUJIL,2025,Spring,Vaciante,10,Insect,50.67
+PAUJIL,2025,Spring,Vaciante,10,Mammal,0.67
+PAUJIL,2025,Spring,Vaciante,11,Anthropogenic,30.67
+PAUJIL,2025,Spring,Vaciante,11,Bird,37.33
+PAUJIL,2025,Spring,Vaciante,11,Insect,24.0
+PAUJIL,2025,Spring,Vaciante,12,Anthropogenic,42.67
+PAUJIL,2025,Spring,Vaciante,12,Bird,18.0
+PAUJIL,2025,Spring,Vaciante,12,Insect,39.33
+PAUJIL,2025,Spring,Vaciante,13,Anthropogenic,4.0
+PAUJIL,2025,Spring,Vaciante,13,Bird,28.0
+PAUJIL,2025,Spring,Vaciante,13,Insect,66.0
+PAUJIL,2025,Spring,Vaciante,14,Anthropogenic,3.33
+PAUJIL,2025,Spring,Vaciante,14,Bird,1.33
+PAUJIL,2025,Spring,Vaciante,14,Insect,108.0
+PAUJIL,2025,Spring,Vaciante,15,Amphibian,15.33
+PAUJIL,2025,Spring,Vaciante,15,Anthropogenic,18.0
+PAUJIL,2025,Spring,Vaciante,15,Bird,3.33
+PAUJIL,2025,Spring,Vaciante,15,Insect,72.67
+PAUJIL,2025,Spring,Vaciante,16,Amphibian,12.0
+PAUJIL,2025,Spring,Vaciante,16,Anthropogenic,3.33
+PAUJIL,2025,Spring,Vaciante,16,Bird,1.33
+PAUJIL,2025,Spring,Vaciante,16,Insect,96.67
+PAUJIL,2025,Spring,Vaciante,17,Amphibian,38.0
+PAUJIL,2025,Spring,Vaciante,17,Anthropogenic,0.67
+PAUJIL,2025,Spring,Vaciante,17,Insect,74.67
+PAUJIL,2025,Spring,Vaciante,18,Amphibian,31.33
+PAUJIL,2025,Spring,Vaciante,18,Anthropogenic,34.0
+PAUJIL,2025,Spring,Vaciante,18,Bird,11.33
+PAUJIL,2025,Spring,Vaciante,18,Insect,37.33
+PAUJIL,2025,Spring,Vaciante,19,Amphibian,56.67
+PAUJIL,2025,Spring,Vaciante,19,Anthropogenic,35.33
+PAUJIL,2025,Spring,Vaciante,19,Insect,28.67
+PAUJIL,2025,Spring,Vaciante,20,Amphibian,64.0
+PAUJIL,2025,Spring,Vaciante,20,Anthropogenic,18.67
+PAUJIL,2025,Spring,Vaciante,20,Insect,37.33
+PAUJIL,2025,Spring,Vaciante,21,Amphibian,28.67
+PAUJIL,2025,Spring,Vaciante,21,Anthropogenic,44.67
+PAUJIL,2025,Spring,Vaciante,21,Insect,32.0
+PAUJIL,2025,Spring,Vaciante,22,Amphibian,64.0
+PAUJIL,2025,Spring,Vaciante,22,Anthropogenic,24.0
+PAUJIL,2025,Spring,Vaciante,22,Insect,25.33
+PAUJIL,2025,Spring,Vaciante,23,Amphibian,50.0
+PAUJIL,2025,Spring,Vaciante,23,Anthropogenic,42.67
+PAUJIL,2025,Spring,Vaciante,23,Insect,24.67
+QUISTOCOCHA,2023,Spring,Creciente,0,Amphibian,4.18
+QUISTOCOCHA,2023,Spring,Creciente,0,Anthropogenic,45.45
+QUISTOCOCHA,2023,Spring,Creciente,0,Bird,10.82
+QUISTOCOCHA,2023,Spring,Creciente,0,Insect,198.0
+QUISTOCOCHA,2023,Spring,Creciente,0,Mammal,0.09
+QUISTOCOCHA,2023,Spring,Creciente,1,Amphibian,0.73
+QUISTOCOCHA,2023,Spring,Creciente,1,Anthropogenic,39.36
+QUISTOCOCHA,2023,Spring,Creciente,1,Bird,19.27
+QUISTOCOCHA,2023,Spring,Creciente,1,Insect,188.73
+QUISTOCOCHA,2023,Spring,Creciente,1,Mammal,6.91
+QUISTOCOCHA,2023,Spring,Creciente,2,Amphibian,1.27
+QUISTOCOCHA,2023,Spring,Creciente,2,Anthropogenic,39.73
+QUISTOCOCHA,2023,Spring,Creciente,2,Bird,12.36
+QUISTOCOCHA,2023,Spring,Creciente,2,Insect,169.36
+QUISTOCOCHA,2023,Spring,Creciente,2,Mammal,0.64
+QUISTOCOCHA,2023,Spring,Creciente,3,Amphibian,6.36
+QUISTOCOCHA,2023,Spring,Creciente,3,Anthropogenic,47.64
+QUISTOCOCHA,2023,Spring,Creciente,3,Bird,11.18
+QUISTOCOCHA,2023,Spring,Creciente,3,Insect,160.36
+QUISTOCOCHA,2023,Spring,Creciente,3,Mammal,4.0
+QUISTOCOCHA,2023,Spring,Creciente,4,Amphibian,7.27
+QUISTOCOCHA,2023,Spring,Creciente,4,Anthropogenic,53.64
+QUISTOCOCHA,2023,Spring,Creciente,4,Bird,11.27
+QUISTOCOCHA,2023,Spring,Creciente,4,Insect,178.27
+QUISTOCOCHA,2023,Spring,Creciente,4,Mammal,0.18
+QUISTOCOCHA,2023,Spring,Creciente,5,Amphibian,2.45
+QUISTOCOCHA,2023,Spring,Creciente,5,Anthropogenic,59.09
+QUISTOCOCHA,2023,Spring,Creciente,5,Bird,55.64
+QUISTOCOCHA,2023,Spring,Creciente,5,Insect,175.55
+QUISTOCOCHA,2023,Spring,Creciente,5,Mammal,3.55
+QUISTOCOCHA,2023,Spring,Creciente,6,Amphibian,0.09
+QUISTOCOCHA,2023,Spring,Creciente,6,Anthropogenic,59.45
+QUISTOCOCHA,2023,Spring,Creciente,6,Bird,99.55
+QUISTOCOCHA,2023,Spring,Creciente,6,Insect,65.0
+QUISTOCOCHA,2023,Spring,Creciente,6,Mammal,0.36
+QUISTOCOCHA,2023,Spring,Creciente,7,Anthropogenic,66.55
+QUISTOCOCHA,2023,Spring,Creciente,7,Bird,94.73
+QUISTOCOCHA,2023,Spring,Creciente,7,Insect,40.0
+QUISTOCOCHA,2023,Spring,Creciente,7,Mammal,1.36
+QUISTOCOCHA,2023,Spring,Creciente,8,Anthropogenic,54.91
+QUISTOCOCHA,2023,Spring,Creciente,8,Bird,65.64
+QUISTOCOCHA,2023,Spring,Creciente,8,Insect,38.82
+QUISTOCOCHA,2023,Spring,Creciente,8,Mammal,0.45
+QUISTOCOCHA,2023,Spring,Creciente,9,Amphibian,0.09
+QUISTOCOCHA,2023,Spring,Creciente,9,Anthropogenic,65.91
+QUISTOCOCHA,2023,Spring,Creciente,9,Bird,61.0
+QUISTOCOCHA,2023,Spring,Creciente,9,Insect,30.64
+QUISTOCOCHA,2023,Spring,Creciente,9,Mammal,0.91
+QUISTOCOCHA,2023,Spring,Creciente,10,Amphibian,0.36
+QUISTOCOCHA,2023,Spring,Creciente,10,Anthropogenic,54.91
+QUISTOCOCHA,2023,Spring,Creciente,10,Bird,54.82
+QUISTOCOCHA,2023,Spring,Creciente,10,Insect,30.55
+QUISTOCOCHA,2023,Spring,Creciente,10,Mammal,1.73
+QUISTOCOCHA,2023,Spring,Creciente,11,Anthropogenic,55.18
+QUISTOCOCHA,2023,Spring,Creciente,11,Bird,51.18
+QUISTOCOCHA,2023,Spring,Creciente,11,Insect,30.0
+QUISTOCOCHA,2023,Spring,Creciente,11,Mammal,0.64
+QUISTOCOCHA,2023,Spring,Creciente,12,Amphibian,0.18
+QUISTOCOCHA,2023,Spring,Creciente,12,Anthropogenic,61.18
+QUISTOCOCHA,2023,Spring,Creciente,12,Bird,52.91
+QUISTOCOCHA,2023,Spring,Creciente,12,Insect,21.0
+QUISTOCOCHA,2023,Spring,Creciente,12,Mammal,0.82
+QUISTOCOCHA,2023,Spring,Creciente,13,Amphibian,0.09
+QUISTOCOCHA,2023,Spring,Creciente,13,Anthropogenic,70.0
+QUISTOCOCHA,2023,Spring,Creciente,13,Bird,62.73
+QUISTOCOCHA,2023,Spring,Creciente,13,Insect,21.55
+QUISTOCOCHA,2023,Spring,Creciente,13,Mammal,3.09
+QUISTOCOCHA,2023,Spring,Creciente,14,Amphibian,0.36
+QUISTOCOCHA,2023,Spring,Creciente,14,Anthropogenic,50.36
+QUISTOCOCHA,2023,Spring,Creciente,14,Bird,56.91
+QUISTOCOCHA,2023,Spring,Creciente,14,Insect,30.45
+QUISTOCOCHA,2023,Spring,Creciente,14,Mammal,1.0
+QUISTOCOCHA,2023,Spring,Creciente,15,Amphibian,0.36
+QUISTOCOCHA,2023,Spring,Creciente,15,Anthropogenic,57.64
+QUISTOCOCHA,2023,Spring,Creciente,15,Bird,57.91
+QUISTOCOCHA,2023,Spring,Creciente,15,Insect,30.55
+QUISTOCOCHA,2023,Spring,Creciente,15,Mammal,1.45
+QUISTOCOCHA,2023,Spring,Creciente,16,Amphibian,2.64
+QUISTOCOCHA,2023,Spring,Creciente,16,Anthropogenic,57.27
+QUISTOCOCHA,2023,Spring,Creciente,16,Bird,67.18
+QUISTOCOCHA,2023,Spring,Creciente,16,Insect,47.73
+QUISTOCOCHA,2023,Spring,Creciente,16,Mammal,1.64
+QUISTOCOCHA,2023,Spring,Creciente,17,Amphibian,5.55
+QUISTOCOCHA,2023,Spring,Creciente,17,Anthropogenic,40.45
+QUISTOCOCHA,2023,Spring,Creciente,17,Bird,63.0
+QUISTOCOCHA,2023,Spring,Creciente,17,Insect,54.45
+QUISTOCOCHA,2023,Spring,Creciente,17,Mammal,0.45
+QUISTOCOCHA,2023,Spring,Creciente,18,Amphibian,7.45
+QUISTOCOCHA,2023,Spring,Creciente,18,Anthropogenic,65.91
+QUISTOCOCHA,2023,Spring,Creciente,18,Bird,40.91
+QUISTOCOCHA,2023,Spring,Creciente,18,Insect,91.36
+QUISTOCOCHA,2023,Spring,Creciente,18,Mammal,0.27
+QUISTOCOCHA,2023,Spring,Creciente,19,Amphibian,3.18
+QUISTOCOCHA,2023,Spring,Creciente,19,Anthropogenic,88.45
+QUISTOCOCHA,2023,Spring,Creciente,19,Bird,6.45
+QUISTOCOCHA,2023,Spring,Creciente,19,Insect,139.91
+QUISTOCOCHA,2023,Spring,Creciente,19,Mammal,0.09
+QUISTOCOCHA,2023,Spring,Creciente,20,Amphibian,3.27
+QUISTOCOCHA,2023,Spring,Creciente,20,Anthropogenic,111.0
+QUISTOCOCHA,2023,Spring,Creciente,20,Bird,9.27
+QUISTOCOCHA,2023,Spring,Creciente,20,Insect,116.45
+QUISTOCOCHA,2023,Spring,Creciente,20,Mammal,0.09
+QUISTOCOCHA,2023,Spring,Creciente,21,Amphibian,1.82
+QUISTOCOCHA,2023,Spring,Creciente,21,Anthropogenic,101.18
+QUISTOCOCHA,2023,Spring,Creciente,21,Bird,13.55
+QUISTOCOCHA,2023,Spring,Creciente,21,Insect,111.18
+QUISTOCOCHA,2023,Spring,Creciente,21,Mammal,0.55
+QUISTOCOCHA,2023,Spring,Creciente,22,Amphibian,1.09
+QUISTOCOCHA,2023,Spring,Creciente,22,Anthropogenic,97.0
+QUISTOCOCHA,2023,Spring,Creciente,22,Bird,15.09
+QUISTOCOCHA,2023,Spring,Creciente,22,Insect,160.82
+QUISTOCOCHA,2023,Spring,Creciente,22,Mammal,1.0
+QUISTOCOCHA,2023,Spring,Creciente,23,Amphibian,2.45
+QUISTOCOCHA,2023,Spring,Creciente,23,Anthropogenic,82.45
+QUISTOCOCHA,2023,Spring,Creciente,23,Bird,15.91
+QUISTOCOCHA,2023,Spring,Creciente,23,Insect,164.55
+QUISTOCOCHA,2023,Spring,Creciente,23,Mammal,3.45
+QUISTOCOCHA,2023,Winter,Vaciante,0,Amphibian,4.0
+QUISTOCOCHA,2023,Winter,Vaciante,0,Anthropogenic,5.29
+QUISTOCOCHA,2023,Winter,Vaciante,0,Bird,4.57
+QUISTOCOCHA,2023,Winter,Vaciante,0,Insect,43.14
+QUISTOCOCHA,2023,Winter,Vaciante,0,Mammal,1.0
+QUISTOCOCHA,2023,Winter,Vaciante,1,Anthropogenic,5.86
+QUISTOCOCHA,2023,Winter,Vaciante,1,Bird,5.43
+QUISTOCOCHA,2023,Winter,Vaciante,1,Insect,53.43
+QUISTOCOCHA,2023,Winter,Vaciante,1,Mammal,0.57
+QUISTOCOCHA,2023,Winter,Vaciante,2,Anthropogenic,15.14
+QUISTOCOCHA,2023,Winter,Vaciante,2,Bird,2.0
+QUISTOCOCHA,2023,Winter,Vaciante,2,Insect,27.71
+QUISTOCOCHA,2023,Winter,Vaciante,2,Mammal,1.29
+QUISTOCOCHA,2023,Winter,Vaciante,3,Anthropogenic,13.57
+QUISTOCOCHA,2023,Winter,Vaciante,3,Bird,6.86
+QUISTOCOCHA,2023,Winter,Vaciante,3,Insect,42.29
+QUISTOCOCHA,2023,Winter,Vaciante,3,Mammal,3.57
+QUISTOCOCHA,2023,Winter,Vaciante,4,Amphibian,1.14
+QUISTOCOCHA,2023,Winter,Vaciante,4,Anthropogenic,17.86
+QUISTOCOCHA,2023,Winter,Vaciante,4,Bird,8.29
+QUISTOCOCHA,2023,Winter,Vaciante,4,Insect,53.43
+QUISTOCOCHA,2023,Winter,Vaciante,4,Mammal,2.14
+QUISTOCOCHA,2023,Winter,Vaciante,5,Amphibian,0.43
+QUISTOCOCHA,2023,Winter,Vaciante,5,Anthropogenic,15.43
+QUISTOCOCHA,2023,Winter,Vaciante,5,Bird,13.57
+QUISTOCOCHA,2023,Winter,Vaciante,5,Insect,69.71
+QUISTOCOCHA,2023,Winter,Vaciante,5,Mammal,2.71
+QUISTOCOCHA,2023,Winter,Vaciante,6,Amphibian,0.14
+QUISTOCOCHA,2023,Winter,Vaciante,6,Anthropogenic,16.71
+QUISTOCOCHA,2023,Winter,Vaciante,6,Bird,48.86
+QUISTOCOCHA,2023,Winter,Vaciante,6,Insect,38.43
+QUISTOCOCHA,2023,Winter,Vaciante,6,Mammal,1.86
+QUISTOCOCHA,2023,Winter,Vaciante,7,Anthropogenic,29.71
+QUISTOCOCHA,2023,Winter,Vaciante,7,Bird,27.0
+QUISTOCOCHA,2023,Winter,Vaciante,7,Insect,50.0
+QUISTOCOCHA,2023,Winter,Vaciante,7,Mammal,1.14
+QUISTOCOCHA,2023,Winter,Vaciante,8,Anthropogenic,34.29
+QUISTOCOCHA,2023,Winter,Vaciante,8,Bird,19.57
+QUISTOCOCHA,2023,Winter,Vaciante,8,Insect,31.0
+QUISTOCOCHA,2023,Winter,Vaciante,8,Mammal,0.43
+QUISTOCOCHA,2023,Winter,Vaciante,9,Anthropogenic,47.14
+QUISTOCOCHA,2023,Winter,Vaciante,9,Bird,15.29
+QUISTOCOCHA,2023,Winter,Vaciante,9,Insect,23.43
+QUISTOCOCHA,2023,Winter,Vaciante,9,Mammal,1.0
+QUISTOCOCHA,2023,Winter,Vaciante,10,Anthropogenic,55.71
+QUISTOCOCHA,2023,Winter,Vaciante,10,Bird,9.0
+QUISTOCOCHA,2023,Winter,Vaciante,10,Insect,12.71
+QUISTOCOCHA,2023,Winter,Vaciante,10,Mammal,1.0
+QUISTOCOCHA,2023,Winter,Vaciante,11,Anthropogenic,52.14
+QUISTOCOCHA,2023,Winter,Vaciante,11,Bird,14.43
+QUISTOCOCHA,2023,Winter,Vaciante,11,Insect,12.14
+QUISTOCOCHA,2023,Winter,Vaciante,11,Mammal,2.14
+QUISTOCOCHA,2023,Winter,Vaciante,12,Anthropogenic,47.14
+QUISTOCOCHA,2023,Winter,Vaciante,12,Bird,17.14
+QUISTOCOCHA,2023,Winter,Vaciante,12,Insect,10.57
+QUISTOCOCHA,2023,Winter,Vaciante,12,Mammal,2.43
+QUISTOCOCHA,2023,Winter,Vaciante,13,Anthropogenic,77.57
+QUISTOCOCHA,2023,Winter,Vaciante,13,Bird,18.43
+QUISTOCOCHA,2023,Winter,Vaciante,13,Insect,15.14
+QUISTOCOCHA,2023,Winter,Vaciante,13,Mammal,0.86
+QUISTOCOCHA,2023,Winter,Vaciante,14,Amphibian,0.14
+QUISTOCOCHA,2023,Winter,Vaciante,14,Anthropogenic,73.0
+QUISTOCOCHA,2023,Winter,Vaciante,14,Bird,12.86
+QUISTOCOCHA,2023,Winter,Vaciante,14,Insect,21.0
+QUISTOCOCHA,2023,Winter,Vaciante,14,Mammal,0.57
+QUISTOCOCHA,2023,Winter,Vaciante,15,Amphibian,0.71
+QUISTOCOCHA,2023,Winter,Vaciante,15,Anthropogenic,37.14
+QUISTOCOCHA,2023,Winter,Vaciante,15,Bird,14.0
+QUISTOCOCHA,2023,Winter,Vaciante,15,Insect,32.71
+QUISTOCOCHA,2023,Winter,Vaciante,15,Mammal,0.14
+QUISTOCOCHA,2023,Winter,Vaciante,16,Amphibian,3.14
+QUISTOCOCHA,2023,Winter,Vaciante,16,Anthropogenic,48.86
+QUISTOCOCHA,2023,Winter,Vaciante,16,Bird,13.14
+QUISTOCOCHA,2023,Winter,Vaciante,16,Insect,20.14
+QUISTOCOCHA,2023,Winter,Vaciante,16,Mammal,0.43
+QUISTOCOCHA,2023,Winter,Vaciante,17,Amphibian,1.0
+QUISTOCOCHA,2023,Winter,Vaciante,17,Anthropogenic,55.14
+QUISTOCOCHA,2023,Winter,Vaciante,17,Bird,16.71
+QUISTOCOCHA,2023,Winter,Vaciante,17,Insect,23.43
+QUISTOCOCHA,2023,Winter,Vaciante,18,Amphibian,0.14
+QUISTOCOCHA,2023,Winter,Vaciante,18,Anthropogenic,84.43
+QUISTOCOCHA,2023,Winter,Vaciante,18,Bird,11.71
+QUISTOCOCHA,2023,Winter,Vaciante,18,Insect,29.0
+QUISTOCOCHA,2023,Winter,Vaciante,18,Mammal,0.14
+QUISTOCOCHA,2023,Winter,Vaciante,19,Amphibian,0.14
+QUISTOCOCHA,2023,Winter,Vaciante,19,Anthropogenic,75.86
+QUISTOCOCHA,2023,Winter,Vaciante,19,Bird,0.43
+QUISTOCOCHA,2023,Winter,Vaciante,19,Insect,63.14
+QUISTOCOCHA,2023,Winter,Vaciante,19,Mammal,3.14
+QUISTOCOCHA,2023,Winter,Vaciante,20,Anthropogenic,93.14
+QUISTOCOCHA,2023,Winter,Vaciante,20,Bird,3.14
+QUISTOCOCHA,2023,Winter,Vaciante,20,Insect,26.57
+QUISTOCOCHA,2023,Winter,Vaciante,20,Mammal,1.86
+QUISTOCOCHA,2023,Winter,Vaciante,21,Anthropogenic,41.57
+QUISTOCOCHA,2023,Winter,Vaciante,21,Bird,4.71
+QUISTOCOCHA,2023,Winter,Vaciante,21,Insect,47.43
+QUISTOCOCHA,2023,Winter,Vaciante,21,Mammal,1.0
+QUISTOCOCHA,2023,Winter,Vaciante,22,Amphibian,0.14
+QUISTOCOCHA,2023,Winter,Vaciante,22,Anthropogenic,24.43
+QUISTOCOCHA,2023,Winter,Vaciante,22,Bird,4.14
+QUISTOCOCHA,2023,Winter,Vaciante,22,Insect,51.86
+QUISTOCOCHA,2023,Winter,Vaciante,22,Mammal,0.86
+QUISTOCOCHA,2023,Winter,Vaciante,23,Amphibian,0.14
+QUISTOCOCHA,2023,Winter,Vaciante,23,Anthropogenic,4.0
+QUISTOCOCHA,2023,Winter,Vaciante,23,Bird,5.86
+QUISTOCOCHA,2023,Winter,Vaciante,23,Insect,45.14
+QUISTOCOCHA,2023,Winter,Vaciante,23,Mammal,0.86
+QUISTOCOCHA,2024,Summer,Creciente,0,Amphibian,1.13
+QUISTOCOCHA,2024,Summer,Creciente,0,Anthropogenic,3.0
+QUISTOCOCHA,2024,Summer,Creciente,0,Bird,9.13
+QUISTOCOCHA,2024,Summer,Creciente,0,Insect,240.25
+QUISTOCOCHA,2024,Summer,Creciente,0,Mammal,0.38
+QUISTOCOCHA,2024,Summer,Creciente,1,Amphibian,0.88
+QUISTOCOCHA,2024,Summer,Creciente,1,Anthropogenic,6.0
+QUISTOCOCHA,2024,Summer,Creciente,1,Bird,9.88
+QUISTOCOCHA,2024,Summer,Creciente,1,Insect,157.75
+QUISTOCOCHA,2024,Summer,Creciente,2,Amphibian,2.0
+QUISTOCOCHA,2024,Summer,Creciente,2,Anthropogenic,13.0
+QUISTOCOCHA,2024,Summer,Creciente,2,Bird,8.38
+QUISTOCOCHA,2024,Summer,Creciente,2,Insect,200.13
+QUISTOCOCHA,2024,Summer,Creciente,2,Mammal,0.5
+QUISTOCOCHA,2024,Summer,Creciente,3,Amphibian,1.0
+QUISTOCOCHA,2024,Summer,Creciente,3,Anthropogenic,3.0
+QUISTOCOCHA,2024,Summer,Creciente,3,Bird,78.88
+QUISTOCOCHA,2024,Summer,Creciente,3,Insect,158.0
+QUISTOCOCHA,2024,Summer,Creciente,4,Amphibian,0.5
+QUISTOCOCHA,2024,Summer,Creciente,4,Anthropogenic,5.88
+QUISTOCOCHA,2024,Summer,Creciente,4,Bird,48.38
+QUISTOCOCHA,2024,Summer,Creciente,4,Insect,160.38
+QUISTOCOCHA,2024,Summer,Creciente,4,Mammal,0.88
+QUISTOCOCHA,2024,Summer,Creciente,5,Amphibian,0.25
+QUISTOCOCHA,2024,Summer,Creciente,5,Anthropogenic,18.63
+QUISTOCOCHA,2024,Summer,Creciente,5,Bird,46.88
+QUISTOCOCHA,2024,Summer,Creciente,5,Insect,128.88
+QUISTOCOCHA,2024,Summer,Creciente,5,Mammal,0.25
+QUISTOCOCHA,2024,Summer,Creciente,6,Amphibian,0.88
+QUISTOCOCHA,2024,Summer,Creciente,6,Anthropogenic,12.38
+QUISTOCOCHA,2024,Summer,Creciente,6,Bird,45.25
+QUISTOCOCHA,2024,Summer,Creciente,6,Insect,92.63
+QUISTOCOCHA,2024,Summer,Creciente,6,Mammal,0.5
+QUISTOCOCHA,2024,Summer,Creciente,7,Amphibian,1.75
+QUISTOCOCHA,2024,Summer,Creciente,7,Anthropogenic,19.13
+QUISTOCOCHA,2024,Summer,Creciente,7,Bird,75.5
+QUISTOCOCHA,2024,Summer,Creciente,7,Insect,78.25
+QUISTOCOCHA,2024,Summer,Creciente,7,Mammal,2.13
+QUISTOCOCHA,2024,Summer,Creciente,8,Amphibian,0.13
+QUISTOCOCHA,2024,Summer,Creciente,8,Anthropogenic,10.25
+QUISTOCOCHA,2024,Summer,Creciente,8,Bird,67.38
+QUISTOCOCHA,2024,Summer,Creciente,8,Insect,40.25
+QUISTOCOCHA,2024,Summer,Creciente,8,Mammal,0.63
+QUISTOCOCHA,2024,Summer,Creciente,9,Amphibian,0.75
+QUISTOCOCHA,2024,Summer,Creciente,9,Anthropogenic,11.13
+QUISTOCOCHA,2024,Summer,Creciente,9,Bird,64.13
+QUISTOCOCHA,2024,Summer,Creciente,9,Insect,44.63
+QUISTOCOCHA,2024,Summer,Creciente,9,Mammal,0.63
+QUISTOCOCHA,2024,Summer,Creciente,10,Amphibian,0.75
+QUISTOCOCHA,2024,Summer,Creciente,10,Anthropogenic,6.88
+QUISTOCOCHA,2024,Summer,Creciente,10,Bird,50.25
+QUISTOCOCHA,2024,Summer,Creciente,10,Insect,26.63
+QUISTOCOCHA,2024,Summer,Creciente,10,Mammal,0.13
+QUISTOCOCHA,2024,Summer,Creciente,11,Amphibian,0.25
+QUISTOCOCHA,2024,Summer,Creciente,11,Anthropogenic,14.75
+QUISTOCOCHA,2024,Summer,Creciente,11,Bird,55.25
+QUISTOCOCHA,2024,Summer,Creciente,11,Insect,26.13
+QUISTOCOCHA,2024,Summer,Creciente,11,Mammal,0.63
+QUISTOCOCHA,2024,Summer,Creciente,12,Amphibian,0.25
+QUISTOCOCHA,2024,Summer,Creciente,12,Anthropogenic,24.63
+QUISTOCOCHA,2024,Summer,Creciente,12,Bird,33.13
+QUISTOCOCHA,2024,Summer,Creciente,12,Insect,41.0
+QUISTOCOCHA,2024,Summer,Creciente,12,Mammal,0.38
+QUISTOCOCHA,2024,Summer,Creciente,13,Amphibian,0.75
+QUISTOCOCHA,2024,Summer,Creciente,13,Anthropogenic,40.13
+QUISTOCOCHA,2024,Summer,Creciente,13,Bird,79.63
+QUISTOCOCHA,2024,Summer,Creciente,13,Insect,63.38
+QUISTOCOCHA,2024,Summer,Creciente,13,Mammal,0.38
+QUISTOCOCHA,2024,Summer,Creciente,14,Amphibian,2.25
+QUISTOCOCHA,2024,Summer,Creciente,14,Anthropogenic,25.75
+QUISTOCOCHA,2024,Summer,Creciente,14,Bird,36.38
+QUISTOCOCHA,2024,Summer,Creciente,14,Insect,60.25
+QUISTOCOCHA,2024,Summer,Creciente,14,Mammal,1.63
+QUISTOCOCHA,2024,Summer,Creciente,15,Amphibian,1.13
+QUISTOCOCHA,2024,Summer,Creciente,15,Anthropogenic,6.0
+QUISTOCOCHA,2024,Summer,Creciente,15,Bird,14.75
+QUISTOCOCHA,2024,Summer,Creciente,15,Insect,98.88
+QUISTOCOCHA,2024,Summer,Creciente,15,Mammal,0.25
+QUISTOCOCHA,2024,Summer,Creciente,16,Amphibian,2.75
+QUISTOCOCHA,2024,Summer,Creciente,16,Anthropogenic,17.75
+QUISTOCOCHA,2024,Summer,Creciente,16,Bird,20.13
+QUISTOCOCHA,2024,Summer,Creciente,16,Insect,155.5
+QUISTOCOCHA,2024,Summer,Creciente,17,Amphibian,0.88
+QUISTOCOCHA,2024,Summer,Creciente,17,Anthropogenic,23.38
+QUISTOCOCHA,2024,Summer,Creciente,17,Bird,19.75
+QUISTOCOCHA,2024,Summer,Creciente,17,Insect,197.0
+QUISTOCOCHA,2024,Summer,Creciente,18,Amphibian,2.38
+QUISTOCOCHA,2024,Summer,Creciente,18,Anthropogenic,18.0
+QUISTOCOCHA,2024,Summer,Creciente,18,Bird,11.88
+QUISTOCOCHA,2024,Summer,Creciente,18,Insect,256.88
+QUISTOCOCHA,2024,Summer,Creciente,18,Mammal,0.63
+QUISTOCOCHA,2024,Summer,Creciente,19,Amphibian,6.5
+QUISTOCOCHA,2024,Summer,Creciente,19,Anthropogenic,11.38
+QUISTOCOCHA,2024,Summer,Creciente,19,Bird,43.38
+QUISTOCOCHA,2024,Summer,Creciente,19,Insect,215.25
+QUISTOCOCHA,2024,Summer,Creciente,19,Mammal,1.38
+QUISTOCOCHA,2024,Summer,Creciente,20,Amphibian,1.0
+QUISTOCOCHA,2024,Summer,Creciente,20,Anthropogenic,3.13
+QUISTOCOCHA,2024,Summer,Creciente,20,Bird,47.38
+QUISTOCOCHA,2024,Summer,Creciente,20,Insect,99.5
+QUISTOCOCHA,2024,Summer,Creciente,20,Mammal,0.13
+QUISTOCOCHA,2024,Summer,Creciente,21,Amphibian,1.13
+QUISTOCOCHA,2024,Summer,Creciente,21,Anthropogenic,2.63
+QUISTOCOCHA,2024,Summer,Creciente,21,Bird,33.5
+QUISTOCOCHA,2024,Summer,Creciente,21,Insect,118.63
+QUISTOCOCHA,2024,Summer,Creciente,21,Mammal,0.13
+QUISTOCOCHA,2024,Summer,Creciente,22,Amphibian,0.25
+QUISTOCOCHA,2024,Summer,Creciente,22,Anthropogenic,9.88
+QUISTOCOCHA,2024,Summer,Creciente,22,Bird,20.38
+QUISTOCOCHA,2024,Summer,Creciente,22,Insect,193.63
+QUISTOCOCHA,2024,Summer,Creciente,22,Mammal,0.75
+QUISTOCOCHA,2024,Summer,Creciente,23,Amphibian,0.5
+QUISTOCOCHA,2024,Summer,Creciente,23,Anthropogenic,11.88
+QUISTOCOCHA,2024,Summer,Creciente,23,Bird,25.0
+QUISTOCOCHA,2024,Summer,Creciente,23,Insect,180.5
+QUISTOCOCHA,2024,Summer,Creciente,23,Mammal,0.13
+QUISTOCOCHA,2024,Winter,Vaciante,0,Anthropogenic,24.82
+QUISTOCOCHA,2024,Winter,Vaciante,0,Bird,1.94
+QUISTOCOCHA,2024,Winter,Vaciante,0,Insect,46.47
+QUISTOCOCHA,2024,Winter,Vaciante,0,Mammal,0.41
+QUISTOCOCHA,2024,Winter,Vaciante,1,Anthropogenic,24.94
+QUISTOCOCHA,2024,Winter,Vaciante,1,Bird,1.18
+QUISTOCOCHA,2024,Winter,Vaciante,1,Insect,40.82
+QUISTOCOCHA,2024,Winter,Vaciante,1,Mammal,1.0
+QUISTOCOCHA,2024,Winter,Vaciante,2,Amphibian,1.0
+QUISTOCOCHA,2024,Winter,Vaciante,2,Anthropogenic,13.76
+QUISTOCOCHA,2024,Winter,Vaciante,2,Bird,0.94
+QUISTOCOCHA,2024,Winter,Vaciante,2,Insect,40.18
+QUISTOCOCHA,2024,Winter,Vaciante,3,Amphibian,3.41
+QUISTOCOCHA,2024,Winter,Vaciante,3,Anthropogenic,15.29
+QUISTOCOCHA,2024,Winter,Vaciante,3,Bird,3.88
+QUISTOCOCHA,2024,Winter,Vaciante,3,Insect,45.76
+QUISTOCOCHA,2024,Winter,Vaciante,3,Mammal,0.24
+QUISTOCOCHA,2024,Winter,Vaciante,4,Amphibian,2.71
+QUISTOCOCHA,2024,Winter,Vaciante,4,Anthropogenic,11.94
+QUISTOCOCHA,2024,Winter,Vaciante,4,Bird,3.82
+QUISTOCOCHA,2024,Winter,Vaciante,4,Insect,38.76
+QUISTOCOCHA,2024,Winter,Vaciante,4,Mammal,0.35
+QUISTOCOCHA,2024,Winter,Vaciante,5,Amphibian,0.76
+QUISTOCOCHA,2024,Winter,Vaciante,5,Anthropogenic,9.47
+QUISTOCOCHA,2024,Winter,Vaciante,5,Bird,4.82
+QUISTOCOCHA,2024,Winter,Vaciante,5,Insect,50.47
+QUISTOCOCHA,2024,Winter,Vaciante,5,Mammal,0.12
+QUISTOCOCHA,2024,Winter,Vaciante,6,Amphibian,0.12
+QUISTOCOCHA,2024,Winter,Vaciante,6,Anthropogenic,13.88
+QUISTOCOCHA,2024,Winter,Vaciante,6,Bird,20.65
+QUISTOCOCHA,2024,Winter,Vaciante,6,Insect,35.29
+QUISTOCOCHA,2024,Winter,Vaciante,6,Mammal,0.47
+QUISTOCOCHA,2024,Winter,Vaciante,7,Anthropogenic,24.71
+QUISTOCOCHA,2024,Winter,Vaciante,7,Bird,15.94
+QUISTOCOCHA,2024,Winter,Vaciante,7,Insect,37.82
+QUISTOCOCHA,2024,Winter,Vaciante,7,Mammal,0.47
+QUISTOCOCHA,2024,Winter,Vaciante,8,Anthropogenic,18.65
+QUISTOCOCHA,2024,Winter,Vaciante,8,Bird,19.88
+QUISTOCOCHA,2024,Winter,Vaciante,8,Insect,30.47
+QUISTOCOCHA,2024,Winter,Vaciante,8,Mammal,1.35
+QUISTOCOCHA,2024,Winter,Vaciante,9,Anthropogenic,26.71
+QUISTOCOCHA,2024,Winter,Vaciante,9,Bird,15.88
+QUISTOCOCHA,2024,Winter,Vaciante,9,Insect,12.06
+QUISTOCOCHA,2024,Winter,Vaciante,9,Mammal,1.18
+QUISTOCOCHA,2024,Winter,Vaciante,10,Amphibian,0.12
+QUISTOCOCHA,2024,Winter,Vaciante,10,Anthropogenic,22.18
+QUISTOCOCHA,2024,Winter,Vaciante,10,Bird,19.24
+QUISTOCOCHA,2024,Winter,Vaciante,10,Insect,10.06
+QUISTOCOCHA,2024,Winter,Vaciante,10,Mammal,0.41
+QUISTOCOCHA,2024,Winter,Vaciante,11,Amphibian,0.12
+QUISTOCOCHA,2024,Winter,Vaciante,11,Anthropogenic,30.12
+QUISTOCOCHA,2024,Winter,Vaciante,11,Bird,21.06
+QUISTOCOCHA,2024,Winter,Vaciante,11,Insect,7.88
+QUISTOCOCHA,2024,Winter,Vaciante,11,Mammal,0.47
+QUISTOCOCHA,2024,Winter,Vaciante,12,Amphibian,0.71
+QUISTOCOCHA,2024,Winter,Vaciante,12,Anthropogenic,25.65
+QUISTOCOCHA,2024,Winter,Vaciante,12,Bird,21.65
+QUISTOCOCHA,2024,Winter,Vaciante,12,Insect,11.71
+QUISTOCOCHA,2024,Winter,Vaciante,12,Mammal,0.65
+QUISTOCOCHA,2024,Winter,Vaciante,13,Amphibian,3.35
+QUISTOCOCHA,2024,Winter,Vaciante,13,Anthropogenic,32.0
+QUISTOCOCHA,2024,Winter,Vaciante,13,Bird,16.41
+QUISTOCOCHA,2024,Winter,Vaciante,13,Insect,11.0
+QUISTOCOCHA,2024,Winter,Vaciante,13,Mammal,1.35
+QUISTOCOCHA,2024,Winter,Vaciante,14,Amphibian,7.06
+QUISTOCOCHA,2024,Winter,Vaciante,14,Anthropogenic,27.12
+QUISTOCOCHA,2024,Winter,Vaciante,14,Bird,13.47
+QUISTOCOCHA,2024,Winter,Vaciante,14,Insect,19.35
+QUISTOCOCHA,2024,Winter,Vaciante,15,Amphibian,10.41
+QUISTOCOCHA,2024,Winter,Vaciante,15,Anthropogenic,20.35
+QUISTOCOCHA,2024,Winter,Vaciante,15,Bird,14.41
+QUISTOCOCHA,2024,Winter,Vaciante,15,Insect,37.18
+QUISTOCOCHA,2024,Winter,Vaciante,15,Mammal,0.41
+QUISTOCOCHA,2024,Winter,Vaciante,16,Amphibian,5.71
+QUISTOCOCHA,2024,Winter,Vaciante,16,Anthropogenic,27.47
+QUISTOCOCHA,2024,Winter,Vaciante,16,Bird,14.94
+QUISTOCOCHA,2024,Winter,Vaciante,16,Insect,31.29
+QUISTOCOCHA,2024,Winter,Vaciante,16,Mammal,0.53
+QUISTOCOCHA,2024,Winter,Vaciante,17,Amphibian,7.94
+QUISTOCOCHA,2024,Winter,Vaciante,17,Anthropogenic,28.82
+QUISTOCOCHA,2024,Winter,Vaciante,17,Bird,11.18
+QUISTOCOCHA,2024,Winter,Vaciante,17,Insect,27.41
+QUISTOCOCHA,2024,Winter,Vaciante,17,Mammal,0.76
+QUISTOCOCHA,2024,Winter,Vaciante,18,Amphibian,20.29
+QUISTOCOCHA,2024,Winter,Vaciante,18,Anthropogenic,28.71
+QUISTOCOCHA,2024,Winter,Vaciante,18,Bird,3.29
+QUISTOCOCHA,2024,Winter,Vaciante,18,Insect,22.29
+QUISTOCOCHA,2024,Winter,Vaciante,18,Mammal,0.24
+QUISTOCOCHA,2024,Winter,Vaciante,19,Amphibian,0.59
+QUISTOCOCHA,2024,Winter,Vaciante,19,Anthropogenic,37.12
+QUISTOCOCHA,2024,Winter,Vaciante,19,Bird,0.82
+QUISTOCOCHA,2024,Winter,Vaciante,19,Insect,54.59
+QUISTOCOCHA,2024,Winter,Vaciante,19,Mammal,0.41
+QUISTOCOCHA,2024,Winter,Vaciante,20,Amphibian,0.71
+QUISTOCOCHA,2024,Winter,Vaciante,20,Anthropogenic,42.29
+QUISTOCOCHA,2024,Winter,Vaciante,20,Bird,0.24
+QUISTOCOCHA,2024,Winter,Vaciante,20,Insect,43.41
+QUISTOCOCHA,2024,Winter,Vaciante,20,Mammal,0.18
+QUISTOCOCHA,2024,Winter,Vaciante,21,Amphibian,1.29
+QUISTOCOCHA,2024,Winter,Vaciante,21,Anthropogenic,43.29
+QUISTOCOCHA,2024,Winter,Vaciante,21,Bird,1.41
+QUISTOCOCHA,2024,Winter,Vaciante,21,Insect,49.94
+QUISTOCOCHA,2024,Winter,Vaciante,21,Mammal,0.24
+QUISTOCOCHA,2024,Winter,Vaciante,22,Anthropogenic,33.47
+QUISTOCOCHA,2024,Winter,Vaciante,22,Bird,0.12
+QUISTOCOCHA,2024,Winter,Vaciante,22,Insect,46.06
+QUISTOCOCHA,2024,Winter,Vaciante,22,Mammal,0.24
+QUISTOCOCHA,2024,Winter,Vaciante,23,Amphibian,0.24
+QUISTOCOCHA,2024,Winter,Vaciante,23,Anthropogenic,25.59
+QUISTOCOCHA,2024,Winter,Vaciante,23,Bird,1.29
+QUISTOCOCHA,2024,Winter,Vaciante,23,Insect,53.53
+QUISTOCOCHA,2024,Winter,Vaciante,23,Mammal,1.35
+QUISTOCOCHA,2025,Spring,Vaciante,0,Anthropogenic,54.0
+QUISTOCOCHA,2025,Spring,Vaciante,0,Bird,8.0
+QUISTOCOCHA,2025,Spring,Vaciante,0,Insect,150.5
+QUISTOCOCHA,2025,Spring,Vaciante,1,Anthropogenic,57.0
+QUISTOCOCHA,2025,Spring,Vaciante,1,Bird,2.0
+QUISTOCOCHA,2025,Spring,Vaciante,1,Insect,201.5
+QUISTOCOCHA,2025,Spring,Vaciante,1,Mammal,1.0
+QUISTOCOCHA,2025,Spring,Vaciante,2,Anthropogenic,31.5
+QUISTOCOCHA,2025,Spring,Vaciante,2,Bird,8.0
+QUISTOCOCHA,2025,Spring,Vaciante,2,Insect,142.5
+QUISTOCOCHA,2025,Spring,Vaciante,2,Mammal,1.0
+QUISTOCOCHA,2025,Spring,Vaciante,3,Anthropogenic,2.5
+QUISTOCOCHA,2025,Spring,Vaciante,3,Bird,3.5
+QUISTOCOCHA,2025,Spring,Vaciante,3,Insect,108.0
+QUISTOCOCHA,2025,Spring,Vaciante,4,Anthropogenic,9.0
+QUISTOCOCHA,2025,Spring,Vaciante,4,Bird,31.5
+QUISTOCOCHA,2025,Spring,Vaciante,4,Insect,79.0
+QUISTOCOCHA,2025,Spring,Vaciante,4,Mammal,0.5
+QUISTOCOCHA,2025,Spring,Vaciante,5,Anthropogenic,23.0
+QUISTOCOCHA,2025,Spring,Vaciante,5,Bird,120.5
+QUISTOCOCHA,2025,Spring,Vaciante,5,Insect,62.0
+QUISTOCOCHA,2025,Spring,Vaciante,5,Mammal,4.0
+QUISTOCOCHA,2025,Spring,Vaciante,6,Anthropogenic,39.5
+QUISTOCOCHA,2025,Spring,Vaciante,6,Bird,167.5
+QUISTOCOCHA,2025,Spring,Vaciante,6,Insect,76.0
+QUISTOCOCHA,2025,Spring,Vaciante,6,Mammal,2.5
+QUISTOCOCHA,2025,Spring,Vaciante,7,Anthropogenic,81.0
+QUISTOCOCHA,2025,Spring,Vaciante,7,Bird,124.5
+QUISTOCOCHA,2025,Spring,Vaciante,7,Insect,76.5
+QUISTOCOCHA,2025,Spring,Vaciante,7,Mammal,2.0
+QUISTOCOCHA,2025,Spring,Vaciante,8,Anthropogenic,75.5
+QUISTOCOCHA,2025,Spring,Vaciante,8,Bird,82.0
+QUISTOCOCHA,2025,Spring,Vaciante,8,Insect,71.0
+QUISTOCOCHA,2025,Spring,Vaciante,8,Mammal,1.5
+QUISTOCOCHA,2025,Spring,Vaciante,9,Anthropogenic,115.5
+QUISTOCOCHA,2025,Spring,Vaciante,9,Bird,65.5
+QUISTOCOCHA,2025,Spring,Vaciante,9,Insect,78.5
+QUISTOCOCHA,2025,Spring,Vaciante,9,Mammal,3.0
+QUISTOCOCHA,2025,Spring,Vaciante,10,Anthropogenic,167.0
+QUISTOCOCHA,2025,Spring,Vaciante,10,Bird,109.0
+QUISTOCOCHA,2025,Spring,Vaciante,10,Insect,45.5
+QUISTOCOCHA,2025,Spring,Vaciante,10,Mammal,3.5
+QUISTOCOCHA,2025,Spring,Vaciante,11,Anthropogenic,172.0
+QUISTOCOCHA,2025,Spring,Vaciante,11,Bird,94.5
+QUISTOCOCHA,2025,Spring,Vaciante,11,Insect,62.5
+QUISTOCOCHA,2025,Spring,Vaciante,11,Mammal,2.5
+QUISTOCOCHA,2025,Spring,Vaciante,12,Anthropogenic,251.5
+QUISTOCOCHA,2025,Spring,Vaciante,12,Bird,48.0
+QUISTOCOCHA,2025,Spring,Vaciante,12,Insect,47.5
+QUISTOCOCHA,2025,Spring,Vaciante,13,Anthropogenic,155.5
+QUISTOCOCHA,2025,Spring,Vaciante,13,Bird,94.0
+QUISTOCOCHA,2025,Spring,Vaciante,13,Insect,104.0
+QUISTOCOCHA,2025,Spring,Vaciante,13,Mammal,3.5
+QUISTOCOCHA,2025,Spring,Vaciante,14,Anthropogenic,132.0
+QUISTOCOCHA,2025,Spring,Vaciante,14,Bird,75.0
+QUISTOCOCHA,2025,Spring,Vaciante,14,Insect,103.5
+QUISTOCOCHA,2025,Spring,Vaciante,14,Mammal,2.5
+QUISTOCOCHA,2025,Spring,Vaciante,15,Anthropogenic,142.0
+QUISTOCOCHA,2025,Spring,Vaciante,15,Bird,103.5
+QUISTOCOCHA,2025,Spring,Vaciante,15,Insect,93.0
+QUISTOCOCHA,2025,Spring,Vaciante,15,Mammal,5.5
+QUISTOCOCHA,2025,Spring,Vaciante,16,Anthropogenic,237.5
+QUISTOCOCHA,2025,Spring,Vaciante,16,Bird,65.0
+QUISTOCOCHA,2025,Spring,Vaciante,16,Insect,87.0
+QUISTOCOCHA,2025,Spring,Vaciante,16,Mammal,4.0
+QUISTOCOCHA,2025,Spring,Vaciante,17,Anthropogenic,191.0
+QUISTOCOCHA,2025,Spring,Vaciante,17,Bird,110.0
+QUISTOCOCHA,2025,Spring,Vaciante,17,Insect,77.0
+QUISTOCOCHA,2025,Spring,Vaciante,17,Mammal,1.5
+QUISTOCOCHA,2025,Spring,Vaciante,18,Amphibian,1.0
+QUISTOCOCHA,2025,Spring,Vaciante,18,Anthropogenic,211.0
+QUISTOCOCHA,2025,Spring,Vaciante,18,Bird,16.5
+QUISTOCOCHA,2025,Spring,Vaciante,18,Insect,80.0
+QUISTOCOCHA,2025,Spring,Vaciante,18,Mammal,0.5
+QUISTOCOCHA,2025,Spring,Vaciante,19,Anthropogenic,165.0
+QUISTOCOCHA,2025,Spring,Vaciante,19,Bird,7.0
+QUISTOCOCHA,2025,Spring,Vaciante,19,Insect,186.5
+QUISTOCOCHA,2025,Spring,Vaciante,19,Mammal,2.0
+QUISTOCOCHA,2025,Spring,Vaciante,20,Anthropogenic,84.5
+QUISTOCOCHA,2025,Spring,Vaciante,20,Bird,4.0
+QUISTOCOCHA,2025,Spring,Vaciante,20,Insect,109.0
+QUISTOCOCHA,2025,Spring,Vaciante,21,Anthropogenic,39.5
+QUISTOCOCHA,2025,Spring,Vaciante,21,Bird,4.5
+QUISTOCOCHA,2025,Spring,Vaciante,21,Insect,132.0
+QUISTOCOCHA,2025,Spring,Vaciante,22,Anthropogenic,32.5
+QUISTOCOCHA,2025,Spring,Vaciante,22,Bird,5.0
+QUISTOCOCHA,2025,Spring,Vaciante,22,Insect,141.5
+QUISTOCOCHA,2025,Spring,Vaciante,22,Mammal,3.5
+QUISTOCOCHA,2025,Spring,Vaciante,23,Anthropogenic,41.5
+QUISTOCOCHA,2025,Spring,Vaciante,23,Bird,5.5
+QUISTOCOCHA,2025,Spring,Vaciante,23,Insect,151.5
+QUISTOCOCHA,2025,Spring,Vaciante,23,Mammal,2.0
+QUISTOCOCHA,2025,Winter,Vaciante,0,Amphibian,0.25
+QUISTOCOCHA,2025,Winter,Vaciante,0,Anthropogenic,0.63
+QUISTOCOCHA,2025,Winter,Vaciante,0,Insect,8.5
+QUISTOCOCHA,2025,Winter,Vaciante,1,Amphibian,0.25
+QUISTOCOCHA,2025,Winter,Vaciante,1,Anthropogenic,2.25
+QUISTOCOCHA,2025,Winter,Vaciante,1,Insect,3.63
+QUISTOCOCHA,2025,Winter,Vaciante,2,Amphibian,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,2,Anthropogenic,2.63
+QUISTOCOCHA,2025,Winter,Vaciante,2,Bird,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,2,Insect,6.63
+QUISTOCOCHA,2025,Winter,Vaciante,3,Amphibian,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,3,Anthropogenic,1.25
+QUISTOCOCHA,2025,Winter,Vaciante,3,Bird,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,3,Insect,7.38
+QUISTOCOCHA,2025,Winter,Vaciante,4,Anthropogenic,0.5
+QUISTOCOCHA,2025,Winter,Vaciante,4,Bird,0.38
+QUISTOCOCHA,2025,Winter,Vaciante,4,Insect,8.75
+QUISTOCOCHA,2025,Winter,Vaciante,4,Mammal,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,5,Anthropogenic,2.5
+QUISTOCOCHA,2025,Winter,Vaciante,5,Bird,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,5,Insect,5.13
+QUISTOCOCHA,2025,Winter,Vaciante,6,Anthropogenic,4.0
+QUISTOCOCHA,2025,Winter,Vaciante,6,Bird,3.13
+QUISTOCOCHA,2025,Winter,Vaciante,6,Insect,1.38
+QUISTOCOCHA,2025,Winter,Vaciante,7,Anthropogenic,6.63
+QUISTOCOCHA,2025,Winter,Vaciante,7,Bird,1.0
+QUISTOCOCHA,2025,Winter,Vaciante,7,Insect,0.88
+QUISTOCOCHA,2025,Winter,Vaciante,8,Amphibian,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,8,Anthropogenic,2.5
+QUISTOCOCHA,2025,Winter,Vaciante,8,Bird,1.25
+QUISTOCOCHA,2025,Winter,Vaciante,8,Insect,1.25
+QUISTOCOCHA,2025,Winter,Vaciante,9,Anthropogenic,1.13
+QUISTOCOCHA,2025,Winter,Vaciante,9,Bird,1.0
+QUISTOCOCHA,2025,Winter,Vaciante,9,Insect,0.88
+QUISTOCOCHA,2025,Winter,Vaciante,10,Anthropogenic,0.75
+QUISTOCOCHA,2025,Winter,Vaciante,10,Insect,0.5
+QUISTOCOCHA,2025,Winter,Vaciante,11,Anthropogenic,0.5
+QUISTOCOCHA,2025,Winter,Vaciante,11,Bird,0.5
+QUISTOCOCHA,2025,Winter,Vaciante,11,Insect,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,12,Anthropogenic,0.25
+QUISTOCOCHA,2025,Winter,Vaciante,12,Bird,0.25
+QUISTOCOCHA,2025,Winter,Vaciante,12,Insect,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,13,Anthropogenic,1.5
+QUISTOCOCHA,2025,Winter,Vaciante,13,Bird,1.13
+QUISTOCOCHA,2025,Winter,Vaciante,13,Insect,1.63
+QUISTOCOCHA,2025,Winter,Vaciante,13,Mammal,0.25
+QUISTOCOCHA,2025,Winter,Vaciante,14,Anthropogenic,2.13
+QUISTOCOCHA,2025,Winter,Vaciante,14,Bird,0.38
+QUISTOCOCHA,2025,Winter,Vaciante,14,Insect,6.38
+QUISTOCOCHA,2025,Winter,Vaciante,14,Mammal,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,15,Amphibian,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,15,Anthropogenic,2.63
+QUISTOCOCHA,2025,Winter,Vaciante,15,Bird,0.38
+QUISTOCOCHA,2025,Winter,Vaciante,15,Insect,2.13
+QUISTOCOCHA,2025,Winter,Vaciante,16,Anthropogenic,1.25
+QUISTOCOCHA,2025,Winter,Vaciante,16,Bird,0.88
+QUISTOCOCHA,2025,Winter,Vaciante,16,Insect,6.5
+QUISTOCOCHA,2025,Winter,Vaciante,17,Amphibian,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,17,Anthropogenic,2.63
+QUISTOCOCHA,2025,Winter,Vaciante,17,Bird,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,17,Insect,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,18,Amphibian,1.25
+QUISTOCOCHA,2025,Winter,Vaciante,18,Anthropogenic,2.25
+QUISTOCOCHA,2025,Winter,Vaciante,18,Bird,0.25
+QUISTOCOCHA,2025,Winter,Vaciante,18,Insect,2.13
+QUISTOCOCHA,2025,Winter,Vaciante,19,Anthropogenic,1.0
+QUISTOCOCHA,2025,Winter,Vaciante,19,Insect,7.13
+QUISTOCOCHA,2025,Winter,Vaciante,19,Mammal,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,20,Anthropogenic,1.25
+QUISTOCOCHA,2025,Winter,Vaciante,20,Bird,0.25
+QUISTOCOCHA,2025,Winter,Vaciante,20,Insect,5.13
+QUISTOCOCHA,2025,Winter,Vaciante,21,Anthropogenic,1.75
+QUISTOCOCHA,2025,Winter,Vaciante,21,Insect,7.5
+QUISTOCOCHA,2025,Winter,Vaciante,22,Anthropogenic,1.13
+QUISTOCOCHA,2025,Winter,Vaciante,22,Bird,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,22,Insect,7.5
+QUISTOCOCHA,2025,Winter,Vaciante,23,Amphibian,0.13
+QUISTOCOCHA,2025,Winter,Vaciante,23,Anthropogenic,3.25
+QUISTOCOCHA,2025,Winter,Vaciante,23,Bird,0.25
+QUISTOCOCHA,2025,Winter,Vaciante,23,Insect,3.88
+SAN LUCAS,2023,Spring,Creciente,11,Anthropogenic,10.0
+SAN LUCAS,2023,Spring,Creciente,11,Bird,2.0
+SAN LUCAS,2023,Spring,Creciente,11,Insect,27.0
+SAN LUCAS,2023,Spring,Creciente,12,Anthropogenic,133.0
+SAN LUCAS,2023,Spring,Creciente,12,Bird,101.0
+SAN LUCAS,2023,Spring,Creciente,12,Insect,74.0
+SAN LUCAS,2023,Spring,Creciente,13,Anthropogenic,223.0
+SAN LUCAS,2023,Spring,Creciente,13,Bird,18.0
+SAN LUCAS,2023,Spring,Creciente,13,Insect,45.0
+SAN LUCAS,2023,Spring,Creciente,14,Amphibian,20.0
+SAN LUCAS,2023,Spring,Creciente,14,Anthropogenic,276.0
+SAN LUCAS,2023,Spring,Creciente,14,Bird,17.0
+SAN LUCAS,2023,Spring,Creciente,14,Insect,49.0
+SAN LUCAS,2023,Spring,Creciente,15,Amphibian,36.0
+SAN LUCAS,2023,Spring,Creciente,15,Anthropogenic,226.0
+SAN LUCAS,2023,Spring,Creciente,15,Bird,8.0
+SAN LUCAS,2023,Spring,Creciente,15,Insect,68.0
+SAN LUCAS,2023,Spring,Creciente,15,Mammal,4.0
+SAN LUCAS,2023,Spring,Creciente,16,Amphibian,19.0
+SAN LUCAS,2023,Spring,Creciente,16,Anthropogenic,156.0
+SAN LUCAS,2023,Spring,Creciente,16,Bird,101.0
+SAN LUCAS,2023,Spring,Creciente,16,Insect,63.0
+SAN LUCAS,2023,Spring,Creciente,16,Mammal,1.0
+SAN LUCAS,2023,Spring,Creciente,17,Amphibian,13.0
+SAN LUCAS,2023,Spring,Creciente,17,Anthropogenic,133.0
+SAN LUCAS,2023,Spring,Creciente,17,Bird,113.0
+SAN LUCAS,2023,Spring,Creciente,17,Insect,109.0
+SAN LUCAS,2023,Spring,Creciente,18,Amphibian,34.0
+SAN LUCAS,2023,Spring,Creciente,18,Anthropogenic,62.0
+SAN LUCAS,2023,Spring,Creciente,18,Bird,21.0
+SAN LUCAS,2023,Spring,Creciente,18,Insect,214.0
+SAN LUCAS,2023,Spring,Creciente,18,Mammal,3.0
+SAN LUCAS,2023,Spring,Creciente,19,Amphibian,1.0
+SAN LUCAS,2023,Spring,Creciente,19,Anthropogenic,65.0
+SAN LUCAS,2023,Spring,Creciente,19,Bird,1.0
+SAN LUCAS,2023,Spring,Creciente,19,Insect,189.0
+SAN LUCAS,2023,Spring,Creciente,20,Amphibian,5.0
+SAN LUCAS,2023,Spring,Creciente,20,Anthropogenic,139.0
+SAN LUCAS,2023,Spring,Creciente,20,Bird,17.0
+SAN LUCAS,2023,Spring,Creciente,20,Insect,180.0
+SAN LUCAS,2023,Spring,Creciente,20,Mammal,3.0
+SAN LUCAS,2023,Spring,Creciente,21,Amphibian,3.0
+SAN LUCAS,2023,Spring,Creciente,21,Anthropogenic,111.0
+SAN LUCAS,2023,Spring,Creciente,21,Bird,13.0
+SAN LUCAS,2023,Spring,Creciente,21,Insect,187.0
+SAN LUCAS,2023,Spring,Creciente,22,Amphibian,7.0
+SAN LUCAS,2023,Spring,Creciente,22,Anthropogenic,86.0
+SAN LUCAS,2023,Spring,Creciente,22,Bird,36.0
+SAN LUCAS,2023,Spring,Creciente,22,Insect,177.0
+SAN LUCAS,2023,Spring,Creciente,22,Mammal,1.0
+SAN LUCAS,2023,Spring,Creciente,23,Amphibian,2.0
+SAN LUCAS,2023,Spring,Creciente,23,Anthropogenic,167.0
+SAN LUCAS,2023,Spring,Creciente,23,Insect,104.0
+SAN LUCAS,2023,Summer,Creciente,0,Amphibian,6.67
+SAN LUCAS,2023,Summer,Creciente,0,Anthropogenic,89.0
+SAN LUCAS,2023,Summer,Creciente,0,Bird,12.5
+SAN LUCAS,2023,Summer,Creciente,0,Insect,158.17
+SAN LUCAS,2023,Summer,Creciente,0,Mammal,0.33
+SAN LUCAS,2023,Summer,Creciente,1,Amphibian,2.17
+SAN LUCAS,2023,Summer,Creciente,1,Anthropogenic,57.0
+SAN LUCAS,2023,Summer,Creciente,1,Bird,14.83
+SAN LUCAS,2023,Summer,Creciente,1,Insect,138.33
+SAN LUCAS,2023,Summer,Creciente,1,Mammal,1.0
+SAN LUCAS,2023,Summer,Creciente,2,Amphibian,0.5
+SAN LUCAS,2023,Summer,Creciente,2,Anthropogenic,61.67
+SAN LUCAS,2023,Summer,Creciente,2,Bird,19.33
+SAN LUCAS,2023,Summer,Creciente,2,Insect,135.5
+SAN LUCAS,2023,Summer,Creciente,2,Mammal,0.83
+SAN LUCAS,2023,Summer,Creciente,3,Amphibian,0.33
+SAN LUCAS,2023,Summer,Creciente,3,Anthropogenic,34.17
+SAN LUCAS,2023,Summer,Creciente,3,Bird,25.83
+SAN LUCAS,2023,Summer,Creciente,3,Insect,148.83
+SAN LUCAS,2023,Summer,Creciente,3,Mammal,0.33
+SAN LUCAS,2023,Summer,Creciente,4,Amphibian,7.67
+SAN LUCAS,2023,Summer,Creciente,4,Anthropogenic,37.33
+SAN LUCAS,2023,Summer,Creciente,4,Bird,26.0
+SAN LUCAS,2023,Summer,Creciente,4,Insect,165.17
+SAN LUCAS,2023,Summer,Creciente,4,Mammal,1.33
+SAN LUCAS,2023,Summer,Creciente,5,Amphibian,30.83
+SAN LUCAS,2023,Summer,Creciente,5,Anthropogenic,58.0
+SAN LUCAS,2023,Summer,Creciente,5,Bird,41.83
+SAN LUCAS,2023,Summer,Creciente,5,Insect,167.83
+SAN LUCAS,2023,Summer,Creciente,5,Mammal,2.0
+SAN LUCAS,2023,Summer,Creciente,6,Amphibian,5.83
+SAN LUCAS,2023,Summer,Creciente,6,Anthropogenic,51.33
+SAN LUCAS,2023,Summer,Creciente,6,Bird,156.5
+SAN LUCAS,2023,Summer,Creciente,6,Insect,81.17
+SAN LUCAS,2023,Summer,Creciente,6,Mammal,1.0
+SAN LUCAS,2023,Summer,Creciente,7,Amphibian,0.67
+SAN LUCAS,2023,Summer,Creciente,7,Anthropogenic,93.33
+SAN LUCAS,2023,Summer,Creciente,7,Bird,117.17
+SAN LUCAS,2023,Summer,Creciente,7,Insect,76.67
+SAN LUCAS,2023,Summer,Creciente,7,Mammal,3.0
+SAN LUCAS,2023,Summer,Creciente,8,Amphibian,1.33
+SAN LUCAS,2023,Summer,Creciente,8,Anthropogenic,95.67
+SAN LUCAS,2023,Summer,Creciente,8,Bird,77.83
+SAN LUCAS,2023,Summer,Creciente,8,Insect,61.5
+SAN LUCAS,2023,Summer,Creciente,8,Mammal,1.17
+SAN LUCAS,2023,Summer,Creciente,9,Anthropogenic,93.0
+SAN LUCAS,2023,Summer,Creciente,9,Bird,50.5
+SAN LUCAS,2023,Summer,Creciente,9,Insect,61.5
+SAN LUCAS,2023,Summer,Creciente,9,Mammal,1.17
+SAN LUCAS,2023,Summer,Creciente,10,Amphibian,0.67
+SAN LUCAS,2023,Summer,Creciente,10,Anthropogenic,83.67
+SAN LUCAS,2023,Summer,Creciente,10,Bird,52.17
+SAN LUCAS,2023,Summer,Creciente,10,Insect,37.83
+SAN LUCAS,2023,Summer,Creciente,10,Mammal,0.83
+SAN LUCAS,2023,Summer,Creciente,11,Amphibian,0.5
+SAN LUCAS,2023,Summer,Creciente,11,Anthropogenic,89.67
+SAN LUCAS,2023,Summer,Creciente,11,Bird,81.83
+SAN LUCAS,2023,Summer,Creciente,11,Insect,59.83
+SAN LUCAS,2023,Summer,Creciente,11,Mammal,1.33
+SAN LUCAS,2023,Summer,Creciente,12,Amphibian,0.17
+SAN LUCAS,2023,Summer,Creciente,12,Anthropogenic,117.83
+SAN LUCAS,2023,Summer,Creciente,12,Bird,63.33
+SAN LUCAS,2023,Summer,Creciente,12,Insect,64.83
+SAN LUCAS,2023,Summer,Creciente,12,Mammal,1.33
+SAN LUCAS,2023,Summer,Creciente,13,Anthropogenic,106.83
+SAN LUCAS,2023,Summer,Creciente,13,Bird,49.33
+SAN LUCAS,2023,Summer,Creciente,13,Insect,42.0
+SAN LUCAS,2023,Summer,Creciente,13,Mammal,4.83
+SAN LUCAS,2023,Summer,Creciente,14,Amphibian,0.33
+SAN LUCAS,2023,Summer,Creciente,14,Anthropogenic,118.33
+SAN LUCAS,2023,Summer,Creciente,14,Bird,43.17
+SAN LUCAS,2023,Summer,Creciente,14,Insect,63.33
+SAN LUCAS,2023,Summer,Creciente,14,Mammal,0.5
+SAN LUCAS,2023,Summer,Creciente,15,Amphibian,7.0
+SAN LUCAS,2023,Summer,Creciente,15,Anthropogenic,93.0
+SAN LUCAS,2023,Summer,Creciente,15,Bird,52.83
+SAN LUCAS,2023,Summer,Creciente,15,Insect,87.5
+SAN LUCAS,2023,Summer,Creciente,15,Mammal,1.67
+SAN LUCAS,2023,Summer,Creciente,16,Amphibian,36.33
+SAN LUCAS,2023,Summer,Creciente,16,Anthropogenic,69.67
+SAN LUCAS,2023,Summer,Creciente,16,Bird,72.0
+SAN LUCAS,2023,Summer,Creciente,16,Insect,75.17
+SAN LUCAS,2023,Summer,Creciente,16,Mammal,0.33
+SAN LUCAS,2023,Summer,Creciente,17,Amphibian,33.0
+SAN LUCAS,2023,Summer,Creciente,17,Anthropogenic,84.83
+SAN LUCAS,2023,Summer,Creciente,17,Bird,66.83
+SAN LUCAS,2023,Summer,Creciente,17,Insect,80.0
+SAN LUCAS,2023,Summer,Creciente,17,Mammal,4.33
+SAN LUCAS,2023,Summer,Creciente,18,Amphibian,22.33
+SAN LUCAS,2023,Summer,Creciente,18,Anthropogenic,100.5
+SAN LUCAS,2023,Summer,Creciente,18,Bird,8.17
+SAN LUCAS,2023,Summer,Creciente,18,Insect,89.0
+SAN LUCAS,2023,Summer,Creciente,18,Mammal,0.83
+SAN LUCAS,2023,Summer,Creciente,19,Amphibian,0.83
+SAN LUCAS,2023,Summer,Creciente,19,Anthropogenic,67.67
+SAN LUCAS,2023,Summer,Creciente,19,Bird,1.0
+SAN LUCAS,2023,Summer,Creciente,19,Insect,175.17
+SAN LUCAS,2023,Summer,Creciente,19,Mammal,0.83
+SAN LUCAS,2023,Summer,Creciente,20,Amphibian,3.17
+SAN LUCAS,2023,Summer,Creciente,20,Anthropogenic,101.67
+SAN LUCAS,2023,Summer,Creciente,20,Bird,3.17
+SAN LUCAS,2023,Summer,Creciente,20,Insect,145.17
+SAN LUCAS,2023,Summer,Creciente,20,Mammal,0.67
+SAN LUCAS,2023,Summer,Creciente,21,Amphibian,8.0
+SAN LUCAS,2023,Summer,Creciente,21,Anthropogenic,94.5
+SAN LUCAS,2023,Summer,Creciente,21,Bird,1.0
+SAN LUCAS,2023,Summer,Creciente,21,Insect,123.17
+SAN LUCAS,2023,Summer,Creciente,22,Amphibian,8.0
+SAN LUCAS,2023,Summer,Creciente,22,Anthropogenic,70.67
+SAN LUCAS,2023,Summer,Creciente,22,Bird,3.5
+SAN LUCAS,2023,Summer,Creciente,22,Insect,133.0
+SAN LUCAS,2023,Summer,Creciente,23,Amphibian,4.17
+SAN LUCAS,2023,Summer,Creciente,23,Anthropogenic,73.0
+SAN LUCAS,2023,Summer,Creciente,23,Bird,7.67
+SAN LUCAS,2023,Summer,Creciente,23,Insect,131.0
+SAN LUCAS,2023,Summer,Creciente,23,Mammal,4.33
+SAN LUCAS,2023,Winter,Vaciante,0,Amphibian,4.91
+SAN LUCAS,2023,Winter,Vaciante,0,Anthropogenic,13.18
+SAN LUCAS,2023,Winter,Vaciante,0,Bird,7.36
+SAN LUCAS,2023,Winter,Vaciante,0,Insect,144.45
+SAN LUCAS,2023,Winter,Vaciante,0,Mammal,0.45
+SAN LUCAS,2023,Winter,Vaciante,1,Amphibian,1.27
+SAN LUCAS,2023,Winter,Vaciante,1,Anthropogenic,18.18
+SAN LUCAS,2023,Winter,Vaciante,1,Bird,9.91
+SAN LUCAS,2023,Winter,Vaciante,1,Insect,126.64
+SAN LUCAS,2023,Winter,Vaciante,1,Mammal,0.18
+SAN LUCAS,2023,Winter,Vaciante,2,Amphibian,1.09
+SAN LUCAS,2023,Winter,Vaciante,2,Anthropogenic,11.0
+SAN LUCAS,2023,Winter,Vaciante,2,Bird,13.09
+SAN LUCAS,2023,Winter,Vaciante,2,Insect,123.91
+SAN LUCAS,2023,Winter,Vaciante,3,Amphibian,2.0
+SAN LUCAS,2023,Winter,Vaciante,3,Anthropogenic,14.45
+SAN LUCAS,2023,Winter,Vaciante,3,Bird,7.64
+SAN LUCAS,2023,Winter,Vaciante,3,Insect,119.73
+SAN LUCAS,2023,Winter,Vaciante,3,Mammal,0.27
+SAN LUCAS,2023,Winter,Vaciante,4,Amphibian,3.27
+SAN LUCAS,2023,Winter,Vaciante,4,Anthropogenic,26.55
+SAN LUCAS,2023,Winter,Vaciante,4,Bird,8.36
+SAN LUCAS,2023,Winter,Vaciante,4,Insect,107.18
+SAN LUCAS,2023,Winter,Vaciante,5,Amphibian,3.09
+SAN LUCAS,2023,Winter,Vaciante,5,Anthropogenic,11.91
+SAN LUCAS,2023,Winter,Vaciante,5,Bird,49.36
+SAN LUCAS,2023,Winter,Vaciante,5,Insect,125.55
+SAN LUCAS,2023,Winter,Vaciante,5,Mammal,0.55
+SAN LUCAS,2023,Winter,Vaciante,6,Amphibian,1.45
+SAN LUCAS,2023,Winter,Vaciante,6,Anthropogenic,9.73
+SAN LUCAS,2023,Winter,Vaciante,6,Bird,118.09
+SAN LUCAS,2023,Winter,Vaciante,6,Insect,71.73
+SAN LUCAS,2023,Winter,Vaciante,6,Mammal,0.36
+SAN LUCAS,2023,Winter,Vaciante,7,Amphibian,1.09
+SAN LUCAS,2023,Winter,Vaciante,7,Anthropogenic,33.45
+SAN LUCAS,2023,Winter,Vaciante,7,Bird,68.91
+SAN LUCAS,2023,Winter,Vaciante,7,Insect,94.0
+SAN LUCAS,2023,Winter,Vaciante,7,Mammal,0.18
+SAN LUCAS,2023,Winter,Vaciante,8,Amphibian,0.36
+SAN LUCAS,2023,Winter,Vaciante,8,Anthropogenic,34.91
+SAN LUCAS,2023,Winter,Vaciante,8,Bird,88.91
+SAN LUCAS,2023,Winter,Vaciante,8,Insect,58.0
+SAN LUCAS,2023,Winter,Vaciante,8,Mammal,0.45
+SAN LUCAS,2023,Winter,Vaciante,9,Amphibian,1.09
+SAN LUCAS,2023,Winter,Vaciante,9,Anthropogenic,40.73
+SAN LUCAS,2023,Winter,Vaciante,9,Bird,74.0
+SAN LUCAS,2023,Winter,Vaciante,9,Insect,44.91
+SAN LUCAS,2023,Winter,Vaciante,9,Mammal,1.36
+SAN LUCAS,2023,Winter,Vaciante,10,Amphibian,0.27
+SAN LUCAS,2023,Winter,Vaciante,10,Anthropogenic,38.55
+SAN LUCAS,2023,Winter,Vaciante,10,Bird,78.73
+SAN LUCAS,2023,Winter,Vaciante,10,Insect,48.64
+SAN LUCAS,2023,Winter,Vaciante,10,Mammal,0.55
+SAN LUCAS,2023,Winter,Vaciante,11,Amphibian,0.09
+SAN LUCAS,2023,Winter,Vaciante,11,Anthropogenic,32.64
+SAN LUCAS,2023,Winter,Vaciante,11,Bird,69.09
+SAN LUCAS,2023,Winter,Vaciante,11,Insect,32.91
+SAN LUCAS,2023,Winter,Vaciante,11,Mammal,0.45
+SAN LUCAS,2023,Winter,Vaciante,12,Amphibian,0.27
+SAN LUCAS,2023,Winter,Vaciante,12,Anthropogenic,24.64
+SAN LUCAS,2023,Winter,Vaciante,12,Bird,72.36
+SAN LUCAS,2023,Winter,Vaciante,12,Insect,34.09
+SAN LUCAS,2023,Winter,Vaciante,12,Mammal,0.73
+SAN LUCAS,2023,Winter,Vaciante,13,Amphibian,1.09
+SAN LUCAS,2023,Winter,Vaciante,13,Anthropogenic,32.45
+SAN LUCAS,2023,Winter,Vaciante,13,Bird,38.36
+SAN LUCAS,2023,Winter,Vaciante,13,Insect,45.0
+SAN LUCAS,2023,Winter,Vaciante,13,Mammal,1.36
+SAN LUCAS,2023,Winter,Vaciante,14,Amphibian,7.09
+SAN LUCAS,2023,Winter,Vaciante,14,Anthropogenic,32.55
+SAN LUCAS,2023,Winter,Vaciante,14,Bird,28.82
+SAN LUCAS,2023,Winter,Vaciante,14,Insect,58.0
+SAN LUCAS,2023,Winter,Vaciante,14,Mammal,0.73
+SAN LUCAS,2023,Winter,Vaciante,15,Amphibian,12.55
+SAN LUCAS,2023,Winter,Vaciante,15,Anthropogenic,32.64
+SAN LUCAS,2023,Winter,Vaciante,15,Bird,37.82
+SAN LUCAS,2023,Winter,Vaciante,15,Insect,83.64
+SAN LUCAS,2023,Winter,Vaciante,15,Mammal,2.0
+SAN LUCAS,2023,Winter,Vaciante,16,Amphibian,10.18
+SAN LUCAS,2023,Winter,Vaciante,16,Anthropogenic,32.27
+SAN LUCAS,2023,Winter,Vaciante,16,Bird,35.27
+SAN LUCAS,2023,Winter,Vaciante,16,Insect,107.82
+SAN LUCAS,2023,Winter,Vaciante,16,Mammal,0.64
+SAN LUCAS,2023,Winter,Vaciante,17,Amphibian,5.64
+SAN LUCAS,2023,Winter,Vaciante,17,Anthropogenic,31.82
+SAN LUCAS,2023,Winter,Vaciante,17,Bird,17.27
+SAN LUCAS,2023,Winter,Vaciante,17,Insect,133.55
+SAN LUCAS,2023,Winter,Vaciante,17,Mammal,1.0
+SAN LUCAS,2023,Winter,Vaciante,18,Amphibian,7.64
+SAN LUCAS,2023,Winter,Vaciante,18,Anthropogenic,32.0
+SAN LUCAS,2023,Winter,Vaciante,18,Bird,2.82
+SAN LUCAS,2023,Winter,Vaciante,18,Insect,165.0
+SAN LUCAS,2023,Winter,Vaciante,19,Amphibian,18.27
+SAN LUCAS,2023,Winter,Vaciante,19,Anthropogenic,27.64
+SAN LUCAS,2023,Winter,Vaciante,19,Bird,0.09
+SAN LUCAS,2023,Winter,Vaciante,19,Insect,181.27
+SAN LUCAS,2023,Winter,Vaciante,19,Mammal,0.45
+SAN LUCAS,2023,Winter,Vaciante,20,Amphibian,33.09
+SAN LUCAS,2023,Winter,Vaciante,20,Anthropogenic,36.36
+SAN LUCAS,2023,Winter,Vaciante,20,Bird,1.45
+SAN LUCAS,2023,Winter,Vaciante,20,Insect,143.27
+SAN LUCAS,2023,Winter,Vaciante,21,Amphibian,33.64
+SAN LUCAS,2023,Winter,Vaciante,21,Anthropogenic,32.91
+SAN LUCAS,2023,Winter,Vaciante,21,Bird,2.45
+SAN LUCAS,2023,Winter,Vaciante,21,Insect,140.36
+SAN LUCAS,2023,Winter,Vaciante,21,Mammal,0.09
+SAN LUCAS,2023,Winter,Vaciante,22,Amphibian,23.91
+SAN LUCAS,2023,Winter,Vaciante,22,Anthropogenic,18.55
+SAN LUCAS,2023,Winter,Vaciante,22,Bird,5.55
+SAN LUCAS,2023,Winter,Vaciante,22,Insect,142.18
+SAN LUCAS,2023,Winter,Vaciante,23,Amphibian,11.36
+SAN LUCAS,2023,Winter,Vaciante,23,Anthropogenic,15.36
+SAN LUCAS,2023,Winter,Vaciante,23,Bird,5.09
+SAN LUCAS,2023,Winter,Vaciante,23,Insect,147.18
+SAN LUCAS,2023,Winter,Vaciante,23,Mammal,0.91
+SAN LUCAS,2024,Summer,Creciente,0,Amphibian,0.25
+SAN LUCAS,2024,Summer,Creciente,0,Anthropogenic,17.88
+SAN LUCAS,2024,Summer,Creciente,0,Bird,2.0
+SAN LUCAS,2024,Summer,Creciente,0,Insect,172.88
+SAN LUCAS,2024,Summer,Creciente,0,Mammal,2.0
+SAN LUCAS,2024,Summer,Creciente,1,Amphibian,0.75
+SAN LUCAS,2024,Summer,Creciente,1,Anthropogenic,17.25
+SAN LUCAS,2024,Summer,Creciente,1,Bird,6.0
+SAN LUCAS,2024,Summer,Creciente,1,Insect,214.63
+SAN LUCAS,2024,Summer,Creciente,1,Mammal,0.88
+SAN LUCAS,2024,Summer,Creciente,2,Amphibian,3.63
+SAN LUCAS,2024,Summer,Creciente,2,Anthropogenic,24.75
+SAN LUCAS,2024,Summer,Creciente,2,Bird,10.38
+SAN LUCAS,2024,Summer,Creciente,2,Insect,143.38
+SAN LUCAS,2024,Summer,Creciente,2,Mammal,2.88
+SAN LUCAS,2024,Summer,Creciente,3,Amphibian,9.88
+SAN LUCAS,2024,Summer,Creciente,3,Anthropogenic,4.63
+SAN LUCAS,2024,Summer,Creciente,3,Bird,92.5
+SAN LUCAS,2024,Summer,Creciente,3,Insect,89.25
+SAN LUCAS,2024,Summer,Creciente,3,Mammal,2.75
+SAN LUCAS,2024,Summer,Creciente,4,Anthropogenic,15.0
+SAN LUCAS,2024,Summer,Creciente,4,Bird,173.38
+SAN LUCAS,2024,Summer,Creciente,4,Insect,52.5
+SAN LUCAS,2024,Summer,Creciente,4,Mammal,5.25
+SAN LUCAS,2024,Summer,Creciente,5,Amphibian,0.25
+SAN LUCAS,2024,Summer,Creciente,5,Anthropogenic,30.38
+SAN LUCAS,2024,Summer,Creciente,5,Bird,277.38
+SAN LUCAS,2024,Summer,Creciente,5,Insect,40.5
+SAN LUCAS,2024,Summer,Creciente,5,Mammal,4.5
+SAN LUCAS,2024,Summer,Creciente,6,Amphibian,0.25
+SAN LUCAS,2024,Summer,Creciente,6,Anthropogenic,33.25
+SAN LUCAS,2024,Summer,Creciente,6,Bird,376.63
+SAN LUCAS,2024,Summer,Creciente,6,Insect,25.13
+SAN LUCAS,2024,Summer,Creciente,6,Mammal,5.25
+SAN LUCAS,2024,Summer,Creciente,7,Anthropogenic,37.75
+SAN LUCAS,2024,Summer,Creciente,7,Bird,362.75
+SAN LUCAS,2024,Summer,Creciente,7,Insect,50.13
+SAN LUCAS,2024,Summer,Creciente,7,Mammal,4.5
+SAN LUCAS,2024,Summer,Creciente,8,Anthropogenic,36.25
+SAN LUCAS,2024,Summer,Creciente,8,Bird,363.63
+SAN LUCAS,2024,Summer,Creciente,8,Insect,56.13
+SAN LUCAS,2024,Summer,Creciente,8,Mammal,3.88
+SAN LUCAS,2024,Summer,Creciente,9,Amphibian,0.13
+SAN LUCAS,2024,Summer,Creciente,9,Anthropogenic,30.0
+SAN LUCAS,2024,Summer,Creciente,9,Bird,359.88
+SAN LUCAS,2024,Summer,Creciente,9,Insect,45.75
+SAN LUCAS,2024,Summer,Creciente,9,Mammal,6.0
+SAN LUCAS,2024,Summer,Creciente,10,Amphibian,2.25
+SAN LUCAS,2024,Summer,Creciente,10,Anthropogenic,30.13
+SAN LUCAS,2024,Summer,Creciente,10,Bird,303.75
+SAN LUCAS,2024,Summer,Creciente,10,Insect,31.25
+SAN LUCAS,2024,Summer,Creciente,10,Mammal,1.0
+SAN LUCAS,2024,Summer,Creciente,11,Amphibian,3.38
+SAN LUCAS,2024,Summer,Creciente,11,Anthropogenic,34.25
+SAN LUCAS,2024,Summer,Creciente,11,Bird,246.63
+SAN LUCAS,2024,Summer,Creciente,11,Insect,50.75
+SAN LUCAS,2024,Summer,Creciente,11,Mammal,1.13
+SAN LUCAS,2024,Summer,Creciente,12,Amphibian,9.75
+SAN LUCAS,2024,Summer,Creciente,12,Anthropogenic,34.0
+SAN LUCAS,2024,Summer,Creciente,12,Bird,220.5
+SAN LUCAS,2024,Summer,Creciente,12,Insect,50.5
+SAN LUCAS,2024,Summer,Creciente,12,Mammal,1.38
+SAN LUCAS,2024,Summer,Creciente,13,Amphibian,13.5
+SAN LUCAS,2024,Summer,Creciente,13,Anthropogenic,49.25
+SAN LUCAS,2024,Summer,Creciente,13,Bird,246.75
+SAN LUCAS,2024,Summer,Creciente,13,Insect,63.75
+SAN LUCAS,2024,Summer,Creciente,13,Mammal,4.63
+SAN LUCAS,2024,Summer,Creciente,14,Amphibian,2.88
+SAN LUCAS,2024,Summer,Creciente,14,Anthropogenic,29.38
+SAN LUCAS,2024,Summer,Creciente,14,Bird,178.38
+SAN LUCAS,2024,Summer,Creciente,14,Insect,121.5
+SAN LUCAS,2024,Summer,Creciente,14,Mammal,2.13
+SAN LUCAS,2024,Summer,Creciente,15,Amphibian,34.0
+SAN LUCAS,2024,Summer,Creciente,15,Anthropogenic,11.5
+SAN LUCAS,2024,Summer,Creciente,15,Bird,119.38
+SAN LUCAS,2024,Summer,Creciente,15,Insect,134.5
+SAN LUCAS,2024,Summer,Creciente,15,Mammal,0.88
+SAN LUCAS,2024,Summer,Creciente,16,Amphibian,14.88
+SAN LUCAS,2024,Summer,Creciente,16,Anthropogenic,98.25
+SAN LUCAS,2024,Summer,Creciente,16,Bird,5.38
+SAN LUCAS,2024,Summer,Creciente,16,Insect,175.38
+SAN LUCAS,2024,Summer,Creciente,16,Mammal,0.25
+SAN LUCAS,2024,Summer,Creciente,17,Amphibian,4.63
+SAN LUCAS,2024,Summer,Creciente,17,Anthropogenic,92.0
+SAN LUCAS,2024,Summer,Creciente,17,Bird,1.0
+SAN LUCAS,2024,Summer,Creciente,17,Insect,237.88
+SAN LUCAS,2024,Summer,Creciente,18,Anthropogenic,102.88
+SAN LUCAS,2024,Summer,Creciente,18,Bird,0.75
+SAN LUCAS,2024,Summer,Creciente,18,Insect,174.13
+SAN LUCAS,2024,Summer,Creciente,19,Amphibian,1.0
+SAN LUCAS,2024,Summer,Creciente,19,Anthropogenic,87.63
+SAN LUCAS,2024,Summer,Creciente,19,Bird,1.75
+SAN LUCAS,2024,Summer,Creciente,19,Insect,124.5
+SAN LUCAS,2024,Summer,Creciente,20,Amphibian,8.38
+SAN LUCAS,2024,Summer,Creciente,20,Anthropogenic,53.13
+SAN LUCAS,2024,Summer,Creciente,20,Bird,1.13
+SAN LUCAS,2024,Summer,Creciente,20,Insect,96.13
+SAN LUCAS,2024,Summer,Creciente,20,Mammal,0.13
+SAN LUCAS,2024,Summer,Creciente,21,Amphibian,14.0
+SAN LUCAS,2024,Summer,Creciente,21,Anthropogenic,62.13
+SAN LUCAS,2024,Summer,Creciente,21,Bird,0.25
+SAN LUCAS,2024,Summer,Creciente,21,Insect,67.0
+SAN LUCAS,2024,Summer,Creciente,22,Amphibian,6.25
+SAN LUCAS,2024,Summer,Creciente,22,Anthropogenic,75.25
+SAN LUCAS,2024,Summer,Creciente,22,Bird,0.88
+SAN LUCAS,2024,Summer,Creciente,22,Insect,107.75
+SAN LUCAS,2024,Summer,Creciente,22,Mammal,8.13
+SAN LUCAS,2024,Summer,Creciente,23,Amphibian,3.5
+SAN LUCAS,2024,Summer,Creciente,23,Anthropogenic,10.75
+SAN LUCAS,2024,Summer,Creciente,23,Bird,13.25
+SAN LUCAS,2024,Summer,Creciente,23,Insect,168.63
+SAN LUCAS,2024,Summer,Creciente,23,Mammal,1.38
+SAN LUCAS,2024,Winter,Vaciante,0,Amphibian,6.19
+SAN LUCAS,2024,Winter,Vaciante,0,Anthropogenic,22.0
+SAN LUCAS,2024,Winter,Vaciante,0,Bird,0.88
+SAN LUCAS,2024,Winter,Vaciante,0,Insect,71.81
+SAN LUCAS,2024,Winter,Vaciante,0,Mammal,0.31
+SAN LUCAS,2024,Winter,Vaciante,1,Amphibian,1.94
+SAN LUCAS,2024,Winter,Vaciante,1,Anthropogenic,20.5
+SAN LUCAS,2024,Winter,Vaciante,1,Insect,75.31
+SAN LUCAS,2024,Winter,Vaciante,2,Amphibian,1.13
+SAN LUCAS,2024,Winter,Vaciante,2,Anthropogenic,20.0
+SAN LUCAS,2024,Winter,Vaciante,2,Insect,58.5
+SAN LUCAS,2024,Winter,Vaciante,3,Amphibian,8.69
+SAN LUCAS,2024,Winter,Vaciante,3,Anthropogenic,22.81
+SAN LUCAS,2024,Winter,Vaciante,3,Bird,0.25
+SAN LUCAS,2024,Winter,Vaciante,3,Insect,42.0
+SAN LUCAS,2024,Winter,Vaciante,4,Amphibian,4.56
+SAN LUCAS,2024,Winter,Vaciante,4,Anthropogenic,26.44
+SAN LUCAS,2024,Winter,Vaciante,4,Bird,1.38
+SAN LUCAS,2024,Winter,Vaciante,4,Insect,35.56
+SAN LUCAS,2024,Winter,Vaciante,5,Amphibian,3.31
+SAN LUCAS,2024,Winter,Vaciante,5,Anthropogenic,34.5
+SAN LUCAS,2024,Winter,Vaciante,5,Bird,1.69
+SAN LUCAS,2024,Winter,Vaciante,5,Insect,33.38
+SAN LUCAS,2024,Winter,Vaciante,5,Mammal,0.31
+SAN LUCAS,2024,Winter,Vaciante,6,Amphibian,0.81
+SAN LUCAS,2024,Winter,Vaciante,6,Anthropogenic,16.13
+SAN LUCAS,2024,Winter,Vaciante,6,Bird,28.81
+SAN LUCAS,2024,Winter,Vaciante,6,Insect,54.13
+SAN LUCAS,2024,Winter,Vaciante,6,Mammal,0.31
+SAN LUCAS,2024,Winter,Vaciante,7,Amphibian,2.13
+SAN LUCAS,2024,Winter,Vaciante,7,Anthropogenic,19.19
+SAN LUCAS,2024,Winter,Vaciante,7,Bird,17.06
+SAN LUCAS,2024,Winter,Vaciante,7,Insect,57.19
+SAN LUCAS,2024,Winter,Vaciante,7,Mammal,0.19
+SAN LUCAS,2024,Winter,Vaciante,8,Amphibian,0.25
+SAN LUCAS,2024,Winter,Vaciante,8,Anthropogenic,19.44
+SAN LUCAS,2024,Winter,Vaciante,8,Bird,26.69
+SAN LUCAS,2024,Winter,Vaciante,8,Insect,52.31
+SAN LUCAS,2024,Winter,Vaciante,8,Mammal,0.06
+SAN LUCAS,2024,Winter,Vaciante,9,Amphibian,0.69
+SAN LUCAS,2024,Winter,Vaciante,9,Anthropogenic,37.88
+SAN LUCAS,2024,Winter,Vaciante,9,Bird,28.25
+SAN LUCAS,2024,Winter,Vaciante,9,Insect,35.31
+SAN LUCAS,2024,Winter,Vaciante,9,Mammal,0.56
+SAN LUCAS,2024,Winter,Vaciante,10,Amphibian,0.31
+SAN LUCAS,2024,Winter,Vaciante,10,Anthropogenic,36.0
+SAN LUCAS,2024,Winter,Vaciante,10,Bird,32.81
+SAN LUCAS,2024,Winter,Vaciante,10,Insect,41.19
+SAN LUCAS,2024,Winter,Vaciante,10,Mammal,2.06
+SAN LUCAS,2024,Winter,Vaciante,11,Amphibian,0.38
+SAN LUCAS,2024,Winter,Vaciante,11,Anthropogenic,42.13
+SAN LUCAS,2024,Winter,Vaciante,11,Bird,30.25
+SAN LUCAS,2024,Winter,Vaciante,11,Insect,31.06
+SAN LUCAS,2024,Winter,Vaciante,11,Mammal,0.69
+SAN LUCAS,2024,Winter,Vaciante,12,Amphibian,0.44
+SAN LUCAS,2024,Winter,Vaciante,12,Anthropogenic,40.94
+SAN LUCAS,2024,Winter,Vaciante,12,Bird,25.44
+SAN LUCAS,2024,Winter,Vaciante,12,Insect,24.38
+SAN LUCAS,2024,Winter,Vaciante,12,Mammal,1.0
+SAN LUCAS,2024,Winter,Vaciante,13,Amphibian,3.38
+SAN LUCAS,2024,Winter,Vaciante,13,Anthropogenic,30.44
+SAN LUCAS,2024,Winter,Vaciante,13,Bird,10.44
+SAN LUCAS,2024,Winter,Vaciante,13,Insect,27.13
+SAN LUCAS,2024,Winter,Vaciante,13,Mammal,0.63
+SAN LUCAS,2024,Winter,Vaciante,14,Amphibian,3.25
+SAN LUCAS,2024,Winter,Vaciante,14,Anthropogenic,33.88
+SAN LUCAS,2024,Winter,Vaciante,14,Bird,12.13
+SAN LUCAS,2024,Winter,Vaciante,14,Insect,36.75
+SAN LUCAS,2024,Winter,Vaciante,14,Mammal,2.0
+SAN LUCAS,2024,Winter,Vaciante,15,Amphibian,9.5
+SAN LUCAS,2024,Winter,Vaciante,15,Anthropogenic,38.5
+SAN LUCAS,2024,Winter,Vaciante,15,Bird,14.56
+SAN LUCAS,2024,Winter,Vaciante,15,Insect,44.5
+SAN LUCAS,2024,Winter,Vaciante,15,Mammal,0.19
+SAN LUCAS,2024,Winter,Vaciante,16,Amphibian,8.31
+SAN LUCAS,2024,Winter,Vaciante,16,Anthropogenic,27.0
+SAN LUCAS,2024,Winter,Vaciante,16,Bird,11.56
+SAN LUCAS,2024,Winter,Vaciante,16,Insect,69.81
+SAN LUCAS,2024,Winter,Vaciante,16,Mammal,0.06
+SAN LUCAS,2024,Winter,Vaciante,17,Amphibian,5.56
+SAN LUCAS,2024,Winter,Vaciante,17,Anthropogenic,29.63
+SAN LUCAS,2024,Winter,Vaciante,17,Bird,17.56
+SAN LUCAS,2024,Winter,Vaciante,17,Insect,51.5
+SAN LUCAS,2024,Winter,Vaciante,18,Amphibian,4.19
+SAN LUCAS,2024,Winter,Vaciante,18,Anthropogenic,23.5
+SAN LUCAS,2024,Winter,Vaciante,18,Bird,2.81
+SAN LUCAS,2024,Winter,Vaciante,18,Insect,47.5
+SAN LUCAS,2024,Winter,Vaciante,19,Amphibian,0.56
+SAN LUCAS,2024,Winter,Vaciante,19,Anthropogenic,15.38
+SAN LUCAS,2024,Winter,Vaciante,19,Insect,74.88
+SAN LUCAS,2024,Winter,Vaciante,19,Mammal,0.56
+SAN LUCAS,2024,Winter,Vaciante,20,Amphibian,0.88
+SAN LUCAS,2024,Winter,Vaciante,20,Anthropogenic,25.38
+SAN LUCAS,2024,Winter,Vaciante,20,Bird,0.13
+SAN LUCAS,2024,Winter,Vaciante,20,Insect,71.94
+SAN LUCAS,2024,Winter,Vaciante,21,Amphibian,9.06
+SAN LUCAS,2024,Winter,Vaciante,21,Anthropogenic,26.81
+SAN LUCAS,2024,Winter,Vaciante,21,Insect,60.56
+SAN LUCAS,2024,Winter,Vaciante,21,Mammal,0.44
+SAN LUCAS,2024,Winter,Vaciante,22,Amphibian,11.19
+SAN LUCAS,2024,Winter,Vaciante,22,Anthropogenic,26.5
+SAN LUCAS,2024,Winter,Vaciante,22,Bird,0.56
+SAN LUCAS,2024,Winter,Vaciante,22,Insect,64.44
+SAN LUCAS,2024,Winter,Vaciante,22,Mammal,0.25
+SAN LUCAS,2024,Winter,Vaciante,23,Amphibian,13.13
+SAN LUCAS,2024,Winter,Vaciante,23,Anthropogenic,29.06
+SAN LUCAS,2024,Winter,Vaciante,23,Bird,0.5
+SAN LUCAS,2024,Winter,Vaciante,23,Insect,57.56
+SAN LUCAS,2025,Autumn,Creciente,0,Anthropogenic,8.71
+SAN LUCAS,2025,Autumn,Creciente,0,Insect,20.43
+SAN LUCAS,2025,Autumn,Creciente,1,Amphibian,0.43
+SAN LUCAS,2025,Autumn,Creciente,1,Anthropogenic,5.14
+SAN LUCAS,2025,Autumn,Creciente,1,Bird,0.57
+SAN LUCAS,2025,Autumn,Creciente,1,Insect,17.71
+SAN LUCAS,2025,Autumn,Creciente,2,Amphibian,0.29
+SAN LUCAS,2025,Autumn,Creciente,2,Anthropogenic,1.29
+SAN LUCAS,2025,Autumn,Creciente,2,Insect,8.71
+SAN LUCAS,2025,Autumn,Creciente,3,Amphibian,0.71
+SAN LUCAS,2025,Autumn,Creciente,3,Anthropogenic,4.71
+SAN LUCAS,2025,Autumn,Creciente,3,Insect,21.71
+SAN LUCAS,2025,Autumn,Creciente,4,Anthropogenic,6.71
+SAN LUCAS,2025,Autumn,Creciente,4,Bird,0.43
+SAN LUCAS,2025,Autumn,Creciente,4,Insect,8.0
+SAN LUCAS,2025,Autumn,Creciente,5,Amphibian,0.14
+SAN LUCAS,2025,Autumn,Creciente,5,Anthropogenic,9.29
+SAN LUCAS,2025,Autumn,Creciente,5,Bird,2.0
+SAN LUCAS,2025,Autumn,Creciente,5,Insect,11.0
+SAN LUCAS,2025,Autumn,Creciente,6,Anthropogenic,8.0
+SAN LUCAS,2025,Autumn,Creciente,6,Bird,9.14
+SAN LUCAS,2025,Autumn,Creciente,6,Insect,28.57
+SAN LUCAS,2025,Autumn,Creciente,7,Amphibian,0.57
+SAN LUCAS,2025,Autumn,Creciente,7,Anthropogenic,4.86
+SAN LUCAS,2025,Autumn,Creciente,7,Bird,5.0
+SAN LUCAS,2025,Autumn,Creciente,7,Insect,18.29
+SAN LUCAS,2025,Autumn,Creciente,8,Amphibian,0.14
+SAN LUCAS,2025,Autumn,Creciente,8,Anthropogenic,2.29
+SAN LUCAS,2025,Autumn,Creciente,8,Bird,1.86
+SAN LUCAS,2025,Autumn,Creciente,8,Insect,18.43
+SAN LUCAS,2025,Autumn,Creciente,9,Anthropogenic,2.0
+SAN LUCAS,2025,Autumn,Creciente,9,Bird,5.71
+SAN LUCAS,2025,Autumn,Creciente,9,Insect,16.57
+SAN LUCAS,2025,Autumn,Creciente,9,Mammal,0.43
+SAN LUCAS,2025,Autumn,Creciente,10,Anthropogenic,0.71
+SAN LUCAS,2025,Autumn,Creciente,10,Bird,10.57
+SAN LUCAS,2025,Autumn,Creciente,10,Insect,14.43
+SAN LUCAS,2025,Autumn,Creciente,11,Anthropogenic,1.0
+SAN LUCAS,2025,Autumn,Creciente,11,Bird,8.57
+SAN LUCAS,2025,Autumn,Creciente,11,Insect,14.57
+SAN LUCAS,2025,Autumn,Creciente,12,Anthropogenic,2.29
+SAN LUCAS,2025,Autumn,Creciente,12,Bird,16.57
+SAN LUCAS,2025,Autumn,Creciente,12,Insect,28.86
+SAN LUCAS,2025,Autumn,Creciente,13,Anthropogenic,1.0
+SAN LUCAS,2025,Autumn,Creciente,13,Bird,8.0
+SAN LUCAS,2025,Autumn,Creciente,13,Insect,28.86
+SAN LUCAS,2025,Autumn,Creciente,14,Anthropogenic,3.0
+SAN LUCAS,2025,Autumn,Creciente,14,Bird,2.71
+SAN LUCAS,2025,Autumn,Creciente,14,Insect,17.86
+SAN LUCAS,2025,Autumn,Creciente,15,Anthropogenic,3.14
+SAN LUCAS,2025,Autumn,Creciente,15,Bird,3.71
+SAN LUCAS,2025,Autumn,Creciente,15,Insect,37.0
+SAN LUCAS,2025,Autumn,Creciente,16,Anthropogenic,8.29
+SAN LUCAS,2025,Autumn,Creciente,16,Bird,1.43
+SAN LUCAS,2025,Autumn,Creciente,16,Insect,28.0
+SAN LUCAS,2025,Autumn,Creciente,17,Anthropogenic,5.43
+SAN LUCAS,2025,Autumn,Creciente,17,Bird,7.43
+SAN LUCAS,2025,Autumn,Creciente,17,Insect,28.86
+SAN LUCAS,2025,Autumn,Creciente,18,Amphibian,0.14
+SAN LUCAS,2025,Autumn,Creciente,18,Anthropogenic,5.14
+SAN LUCAS,2025,Autumn,Creciente,18,Bird,5.29
+SAN LUCAS,2025,Autumn,Creciente,18,Insect,13.86
+SAN LUCAS,2025,Autumn,Creciente,19,Amphibian,0.71
+SAN LUCAS,2025,Autumn,Creciente,19,Anthropogenic,0.14
+SAN LUCAS,2025,Autumn,Creciente,19,Insect,60.57
+SAN LUCAS,2025,Autumn,Creciente,20,Amphibian,4.14
+SAN LUCAS,2025,Autumn,Creciente,20,Anthropogenic,3.86
+SAN LUCAS,2025,Autumn,Creciente,20,Insect,46.43
+SAN LUCAS,2025,Autumn,Creciente,21,Amphibian,1.43
+SAN LUCAS,2025,Autumn,Creciente,21,Anthropogenic,1.0
+SAN LUCAS,2025,Autumn,Creciente,21,Insect,36.29
+SAN LUCAS,2025,Autumn,Creciente,22,Amphibian,4.86
+SAN LUCAS,2025,Autumn,Creciente,22,Anthropogenic,5.14
+SAN LUCAS,2025,Autumn,Creciente,22,Insect,12.29
+SAN LUCAS,2025,Autumn,Creciente,23,Amphibian,1.29
+SAN LUCAS,2025,Autumn,Creciente,23,Anthropogenic,9.14
+SAN LUCAS,2025,Autumn,Creciente,23,Insect,23.14
+SAN LUCAS,2025,Spring,Vaciante,0,Amphibian,22.0
+SAN LUCAS,2025,Spring,Vaciante,0,Anthropogenic,10.5
+SAN LUCAS,2025,Spring,Vaciante,0,Bird,2.0
+SAN LUCAS,2025,Spring,Vaciante,0,Insect,327.0
+SAN LUCAS,2025,Spring,Vaciante,1,Amphibian,0.5
+SAN LUCAS,2025,Spring,Vaciante,1,Anthropogenic,22.0
+SAN LUCAS,2025,Spring,Vaciante,1,Bird,2.5
+SAN LUCAS,2025,Spring,Vaciante,1,Insect,433.5
+SAN LUCAS,2025,Spring,Vaciante,2,Amphibian,5.0
+SAN LUCAS,2025,Spring,Vaciante,2,Anthropogenic,26.0
+SAN LUCAS,2025,Spring,Vaciante,2,Bird,3.0
+SAN LUCAS,2025,Spring,Vaciante,2,Insect,323.0
+SAN LUCAS,2025,Spring,Vaciante,3,Amphibian,4.0
+SAN LUCAS,2025,Spring,Vaciante,3,Anthropogenic,19.0
+SAN LUCAS,2025,Spring,Vaciante,3,Bird,7.0
+SAN LUCAS,2025,Spring,Vaciante,3,Insect,381.5
+SAN LUCAS,2025,Spring,Vaciante,4,Amphibian,12.0
+SAN LUCAS,2025,Spring,Vaciante,4,Anthropogenic,36.0
+SAN LUCAS,2025,Spring,Vaciante,4,Bird,12.5
+SAN LUCAS,2025,Spring,Vaciante,4,Insect,335.0
+SAN LUCAS,2025,Spring,Vaciante,4,Mammal,0.5
+SAN LUCAS,2025,Spring,Vaciante,5,Amphibian,21.5
+SAN LUCAS,2025,Spring,Vaciante,5,Anthropogenic,27.5
+SAN LUCAS,2025,Spring,Vaciante,5,Bird,18.5
+SAN LUCAS,2025,Spring,Vaciante,5,Insect,390.5
+SAN LUCAS,2025,Spring,Vaciante,6,Amphibian,2.5
+SAN LUCAS,2025,Spring,Vaciante,6,Anthropogenic,11.0
+SAN LUCAS,2025,Spring,Vaciante,6,Bird,155.5
+SAN LUCAS,2025,Spring,Vaciante,6,Insect,291.5
+SAN LUCAS,2025,Spring,Vaciante,7,Amphibian,1.5
+SAN LUCAS,2025,Spring,Vaciante,7,Anthropogenic,61.0
+SAN LUCAS,2025,Spring,Vaciante,7,Bird,212.0
+SAN LUCAS,2025,Spring,Vaciante,7,Insect,177.0
+SAN LUCAS,2025,Spring,Vaciante,8,Anthropogenic,29.0
+SAN LUCAS,2025,Spring,Vaciante,8,Bird,189.0
+SAN LUCAS,2025,Spring,Vaciante,8,Insect,274.0
+SAN LUCAS,2025,Spring,Vaciante,9,Amphibian,0.5
+SAN LUCAS,2025,Spring,Vaciante,9,Anthropogenic,51.0
+SAN LUCAS,2025,Spring,Vaciante,9,Bird,225.0
+SAN LUCAS,2025,Spring,Vaciante,9,Insect,251.0
+SAN LUCAS,2025,Spring,Vaciante,10,Amphibian,1.0
+SAN LUCAS,2025,Spring,Vaciante,10,Anthropogenic,61.0
+SAN LUCAS,2025,Spring,Vaciante,10,Bird,180.5
+SAN LUCAS,2025,Spring,Vaciante,10,Insect,192.5
+SAN LUCAS,2025,Spring,Vaciante,10,Mammal,0.5
+SAN LUCAS,2025,Spring,Vaciante,11,Amphibian,1.0
+SAN LUCAS,2025,Spring,Vaciante,11,Anthropogenic,40.5
+SAN LUCAS,2025,Spring,Vaciante,11,Bird,162.5
+SAN LUCAS,2025,Spring,Vaciante,11,Insect,182.5
+SAN LUCAS,2025,Spring,Vaciante,11,Mammal,3.5
+SAN LUCAS,2025,Spring,Vaciante,12,Amphibian,12.5
+SAN LUCAS,2025,Spring,Vaciante,12,Anthropogenic,29.0
+SAN LUCAS,2025,Spring,Vaciante,12,Bird,145.5
+SAN LUCAS,2025,Spring,Vaciante,12,Insect,268.0
+SAN LUCAS,2025,Spring,Vaciante,12,Mammal,0.5
+SAN LUCAS,2025,Spring,Vaciante,13,Amphibian,0.5
+SAN LUCAS,2025,Spring,Vaciante,13,Anthropogenic,85.5
+SAN LUCAS,2025,Spring,Vaciante,13,Bird,105.5
+SAN LUCAS,2025,Spring,Vaciante,13,Insect,258.5
+SAN LUCAS,2025,Spring,Vaciante,13,Mammal,4.0
+SAN LUCAS,2025,Spring,Vaciante,14,Amphibian,15.5
+SAN LUCAS,2025,Spring,Vaciante,14,Anthropogenic,52.5
+SAN LUCAS,2025,Spring,Vaciante,14,Bird,86.0
+SAN LUCAS,2025,Spring,Vaciante,14,Insect,375.5
+SAN LUCAS,2025,Spring,Vaciante,15,Amphibian,40.5
+SAN LUCAS,2025,Spring,Vaciante,15,Anthropogenic,35.0
+SAN LUCAS,2025,Spring,Vaciante,15,Bird,70.5
+SAN LUCAS,2025,Spring,Vaciante,15,Insect,371.0
+SAN LUCAS,2025,Spring,Vaciante,15,Mammal,2.0
+SAN LUCAS,2025,Spring,Vaciante,16,Amphibian,98.5
+SAN LUCAS,2025,Spring,Vaciante,16,Anthropogenic,56.0
+SAN LUCAS,2025,Spring,Vaciante,16,Bird,52.0
+SAN LUCAS,2025,Spring,Vaciante,16,Insect,362.0
+SAN LUCAS,2025,Spring,Vaciante,16,Mammal,0.5
+SAN LUCAS,2025,Spring,Vaciante,17,Amphibian,147.5
+SAN LUCAS,2025,Spring,Vaciante,17,Anthropogenic,28.0
+SAN LUCAS,2025,Spring,Vaciante,17,Bird,37.0
+SAN LUCAS,2025,Spring,Vaciante,17,Insect,310.0
+SAN LUCAS,2025,Spring,Vaciante,17,Mammal,0.5
+SAN LUCAS,2025,Spring,Vaciante,18,Amphibian,29.5
+SAN LUCAS,2025,Spring,Vaciante,18,Anthropogenic,13.5
+SAN LUCAS,2025,Spring,Vaciante,18,Bird,0.5
+SAN LUCAS,2025,Spring,Vaciante,18,Insect,553.0
+SAN LUCAS,2025,Spring,Vaciante,19,Amphibian,3.0
+SAN LUCAS,2025,Spring,Vaciante,19,Anthropogenic,11.5
+SAN LUCAS,2025,Spring,Vaciante,19,Bird,9.5
+SAN LUCAS,2025,Spring,Vaciante,19,Insect,505.5
+SAN LUCAS,2025,Spring,Vaciante,20,Amphibian,16.0
+SAN LUCAS,2025,Spring,Vaciante,20,Anthropogenic,57.5
+SAN LUCAS,2025,Spring,Vaciante,20,Bird,0.5
+SAN LUCAS,2025,Spring,Vaciante,20,Insect,405.0
+SAN LUCAS,2025,Spring,Vaciante,21,Amphibian,23.5
+SAN LUCAS,2025,Spring,Vaciante,21,Anthropogenic,45.0
+SAN LUCAS,2025,Spring,Vaciante,21,Bird,1.0
+SAN LUCAS,2025,Spring,Vaciante,21,Insect,340.5
+SAN LUCAS,2025,Spring,Vaciante,22,Amphibian,27.0
+SAN LUCAS,2025,Spring,Vaciante,22,Anthropogenic,42.0
+SAN LUCAS,2025,Spring,Vaciante,22,Bird,2.5
+SAN LUCAS,2025,Spring,Vaciante,22,Insect,326.0
+SAN LUCAS,2025,Spring,Vaciante,23,Amphibian,20.5
+SAN LUCAS,2025,Spring,Vaciante,23,Anthropogenic,16.0
+SAN LUCAS,2025,Spring,Vaciante,23,Insect,361.0
+VARILLAL,2023,Autumn,Creciente,0,Amphibian,1.75
+VARILLAL,2023,Autumn,Creciente,0,Anthropogenic,101.17
+VARILLAL,2023,Autumn,Creciente,0,Bird,20.42
+VARILLAL,2023,Autumn,Creciente,0,Insect,107.83
+VARILLAL,2023,Autumn,Creciente,0,Mammal,1.5
+VARILLAL,2023,Autumn,Creciente,1,Amphibian,0.25
+VARILLAL,2023,Autumn,Creciente,1,Anthropogenic,97.33
+VARILLAL,2023,Autumn,Creciente,1,Bird,14.0
+VARILLAL,2023,Autumn,Creciente,1,Insect,119.08
+VARILLAL,2023,Autumn,Creciente,1,Mammal,0.17
+VARILLAL,2023,Autumn,Creciente,2,Amphibian,0.75
+VARILLAL,2023,Autumn,Creciente,2,Anthropogenic,116.92
+VARILLAL,2023,Autumn,Creciente,2,Bird,13.08
+VARILLAL,2023,Autumn,Creciente,2,Insect,114.0
+VARILLAL,2023,Autumn,Creciente,2,Mammal,0.67
+VARILLAL,2023,Autumn,Creciente,3,Amphibian,0.25
+VARILLAL,2023,Autumn,Creciente,3,Anthropogenic,118.5
+VARILLAL,2023,Autumn,Creciente,3,Bird,9.08
+VARILLAL,2023,Autumn,Creciente,3,Insect,121.17
+VARILLAL,2023,Autumn,Creciente,3,Mammal,0.08
+VARILLAL,2023,Autumn,Creciente,4,Amphibian,0.58
+VARILLAL,2023,Autumn,Creciente,4,Anthropogenic,115.67
+VARILLAL,2023,Autumn,Creciente,4,Bird,7.58
+VARILLAL,2023,Autumn,Creciente,4,Insect,143.17
+VARILLAL,2023,Autumn,Creciente,4,Mammal,0.08
+VARILLAL,2023,Autumn,Creciente,5,Amphibian,2.17
+VARILLAL,2023,Autumn,Creciente,5,Anthropogenic,70.17
+VARILLAL,2023,Autumn,Creciente,5,Bird,14.42
+VARILLAL,2023,Autumn,Creciente,5,Insect,172.5
+VARILLAL,2023,Autumn,Creciente,5,Mammal,0.67
+VARILLAL,2023,Autumn,Creciente,6,Amphibian,2.25
+VARILLAL,2023,Autumn,Creciente,6,Anthropogenic,31.33
+VARILLAL,2023,Autumn,Creciente,6,Bird,67.75
+VARILLAL,2023,Autumn,Creciente,6,Insect,143.0
+VARILLAL,2023,Autumn,Creciente,6,Mammal,0.58
+VARILLAL,2023,Autumn,Creciente,7,Amphibian,2.0
+VARILLAL,2023,Autumn,Creciente,7,Anthropogenic,31.25
+VARILLAL,2023,Autumn,Creciente,7,Bird,70.92
+VARILLAL,2023,Autumn,Creciente,7,Insect,95.75
+VARILLAL,2023,Autumn,Creciente,7,Mammal,0.17
+VARILLAL,2023,Autumn,Creciente,8,Amphibian,3.25
+VARILLAL,2023,Autumn,Creciente,8,Anthropogenic,46.08
+VARILLAL,2023,Autumn,Creciente,8,Bird,57.25
+VARILLAL,2023,Autumn,Creciente,8,Insect,125.25
+VARILLAL,2023,Autumn,Creciente,8,Mammal,1.33
+VARILLAL,2023,Autumn,Creciente,9,Amphibian,2.5
+VARILLAL,2023,Autumn,Creciente,9,Anthropogenic,50.75
+VARILLAL,2023,Autumn,Creciente,9,Bird,48.5
+VARILLAL,2023,Autumn,Creciente,9,Insect,102.17
+VARILLAL,2023,Autumn,Creciente,9,Mammal,0.92
+VARILLAL,2023,Autumn,Creciente,10,Amphibian,0.67
+VARILLAL,2023,Autumn,Creciente,10,Anthropogenic,53.25
+VARILLAL,2023,Autumn,Creciente,10,Bird,30.25
+VARILLAL,2023,Autumn,Creciente,10,Insect,97.92
+VARILLAL,2023,Autumn,Creciente,10,Mammal,0.42
+VARILLAL,2023,Autumn,Creciente,11,Amphibian,0.67
+VARILLAL,2023,Autumn,Creciente,11,Anthropogenic,51.75
+VARILLAL,2023,Autumn,Creciente,11,Bird,28.92
+VARILLAL,2023,Autumn,Creciente,11,Insect,69.25
+VARILLAL,2023,Autumn,Creciente,11,Mammal,1.0
+VARILLAL,2023,Autumn,Creciente,12,Amphibian,0.33
+VARILLAL,2023,Autumn,Creciente,12,Anthropogenic,37.25
+VARILLAL,2023,Autumn,Creciente,12,Bird,24.17
+VARILLAL,2023,Autumn,Creciente,12,Insect,83.92
+VARILLAL,2023,Autumn,Creciente,12,Mammal,0.25
+VARILLAL,2023,Autumn,Creciente,13,Amphibian,1.0
+VARILLAL,2023,Autumn,Creciente,13,Anthropogenic,50.5
+VARILLAL,2023,Autumn,Creciente,13,Bird,33.0
+VARILLAL,2023,Autumn,Creciente,13,Insect,69.75
+VARILLAL,2023,Autumn,Creciente,13,Mammal,0.33
+VARILLAL,2023,Autumn,Creciente,14,Amphibian,1.0
+VARILLAL,2023,Autumn,Creciente,14,Anthropogenic,52.33
+VARILLAL,2023,Autumn,Creciente,14,Bird,28.67
+VARILLAL,2023,Autumn,Creciente,14,Insect,105.0
+VARILLAL,2023,Autumn,Creciente,14,Mammal,1.17
+VARILLAL,2023,Autumn,Creciente,15,Amphibian,5.33
+VARILLAL,2023,Autumn,Creciente,15,Anthropogenic,45.17
+VARILLAL,2023,Autumn,Creciente,15,Bird,43.25
+VARILLAL,2023,Autumn,Creciente,15,Insect,110.67
+VARILLAL,2023,Autumn,Creciente,15,Mammal,0.17
+VARILLAL,2023,Autumn,Creciente,16,Amphibian,6.0
+VARILLAL,2023,Autumn,Creciente,16,Anthropogenic,43.33
+VARILLAL,2023,Autumn,Creciente,16,Bird,27.42
+VARILLAL,2023,Autumn,Creciente,16,Insect,92.42
+VARILLAL,2023,Autumn,Creciente,16,Mammal,0.67
+VARILLAL,2023,Autumn,Creciente,17,Amphibian,9.17
+VARILLAL,2023,Autumn,Creciente,17,Anthropogenic,51.08
+VARILLAL,2023,Autumn,Creciente,17,Bird,28.5
+VARILLAL,2023,Autumn,Creciente,17,Insect,130.5
+VARILLAL,2023,Autumn,Creciente,17,Mammal,1.08
+VARILLAL,2023,Autumn,Creciente,18,Amphibian,8.75
+VARILLAL,2023,Autumn,Creciente,18,Anthropogenic,64.5
+VARILLAL,2023,Autumn,Creciente,18,Bird,11.67
+VARILLAL,2023,Autumn,Creciente,18,Insect,152.67
+VARILLAL,2023,Autumn,Creciente,19,Amphibian,0.25
+VARILLAL,2023,Autumn,Creciente,19,Anthropogenic,99.17
+VARILLAL,2023,Autumn,Creciente,19,Bird,1.17
+VARILLAL,2023,Autumn,Creciente,19,Insect,107.5
+VARILLAL,2023,Autumn,Creciente,19,Mammal,1.42
+VARILLAL,2023,Autumn,Creciente,20,Amphibian,0.33
+VARILLAL,2023,Autumn,Creciente,20,Anthropogenic,105.25
+VARILLAL,2023,Autumn,Creciente,20,Bird,2.17
+VARILLAL,2023,Autumn,Creciente,20,Insect,105.33
+VARILLAL,2023,Autumn,Creciente,21,Amphibian,0.42
+VARILLAL,2023,Autumn,Creciente,21,Anthropogenic,101.67
+VARILLAL,2023,Autumn,Creciente,21,Bird,7.17
+VARILLAL,2023,Autumn,Creciente,21,Insect,95.5
+VARILLAL,2023,Autumn,Creciente,21,Mammal,0.58
+VARILLAL,2023,Autumn,Creciente,22,Amphibian,0.25
+VARILLAL,2023,Autumn,Creciente,22,Anthropogenic,87.5
+VARILLAL,2023,Autumn,Creciente,22,Bird,9.67
+VARILLAL,2023,Autumn,Creciente,22,Insect,132.58
+VARILLAL,2023,Autumn,Creciente,22,Mammal,1.42
+VARILLAL,2023,Autumn,Creciente,23,Amphibian,0.67
+VARILLAL,2023,Autumn,Creciente,23,Anthropogenic,97.08
+VARILLAL,2023,Autumn,Creciente,23,Bird,7.17
+VARILLAL,2023,Autumn,Creciente,23,Insect,138.67
+VARILLAL,2023,Autumn,Creciente,23,Mammal,0.08
+VARILLAL,2023,Winter,Vaciante,0,Anthropogenic,11.0
+VARILLAL,2024,Summer,Creciente,0,Amphibian,41.25
+VARILLAL,2024,Summer,Creciente,0,Anthropogenic,10.13
+VARILLAL,2024,Summer,Creciente,0,Bird,4.75
+VARILLAL,2024,Summer,Creciente,0,Insect,615.13
+VARILLAL,2024,Summer,Creciente,0,Mammal,0.13
+VARILLAL,2024,Summer,Creciente,1,Amphibian,42.38
+VARILLAL,2024,Summer,Creciente,1,Anthropogenic,38.38
+VARILLAL,2024,Summer,Creciente,1,Bird,9.88
+VARILLAL,2024,Summer,Creciente,1,Insect,468.13
+VARILLAL,2024,Summer,Creciente,1,Mammal,0.5
+VARILLAL,2024,Summer,Creciente,2,Amphibian,75.5
+VARILLAL,2024,Summer,Creciente,2,Anthropogenic,4.13
+VARILLAL,2024,Summer,Creciente,2,Bird,25.63
+VARILLAL,2024,Summer,Creciente,2,Insect,560.5
+VARILLAL,2024,Summer,Creciente,2,Mammal,0.38
+VARILLAL,2024,Summer,Creciente,3,Amphibian,53.88
+VARILLAL,2024,Summer,Creciente,3,Anthropogenic,46.75
+VARILLAL,2024,Summer,Creciente,3,Bird,54.25
+VARILLAL,2024,Summer,Creciente,3,Insect,358.0
+VARILLAL,2024,Summer,Creciente,3,Mammal,1.75
+VARILLAL,2024,Summer,Creciente,4,Amphibian,1.0
+VARILLAL,2024,Summer,Creciente,4,Anthropogenic,93.38
+VARILLAL,2024,Summer,Creciente,4,Bird,152.75
+VARILLAL,2024,Summer,Creciente,4,Insect,304.13
+VARILLAL,2024,Summer,Creciente,4,Mammal,4.5
+VARILLAL,2024,Summer,Creciente,5,Amphibian,1.0
+VARILLAL,2024,Summer,Creciente,5,Anthropogenic,269.13
+VARILLAL,2024,Summer,Creciente,5,Bird,155.63
+VARILLAL,2024,Summer,Creciente,5,Insect,145.75
+VARILLAL,2024,Summer,Creciente,5,Mammal,8.25
+VARILLAL,2024,Summer,Creciente,6,Amphibian,4.25
+VARILLAL,2024,Summer,Creciente,6,Anthropogenic,230.88
+VARILLAL,2024,Summer,Creciente,6,Bird,168.13
+VARILLAL,2024,Summer,Creciente,6,Insect,123.88
+VARILLAL,2024,Summer,Creciente,6,Mammal,6.88
+VARILLAL,2024,Summer,Creciente,7,Amphibian,7.38
+VARILLAL,2024,Summer,Creciente,7,Anthropogenic,241.63
+VARILLAL,2024,Summer,Creciente,7,Bird,167.5
+VARILLAL,2024,Summer,Creciente,7,Insect,160.25
+VARILLAL,2024,Summer,Creciente,7,Mammal,10.5
+VARILLAL,2024,Summer,Creciente,8,Amphibian,3.0
+VARILLAL,2024,Summer,Creciente,8,Anthropogenic,256.38
+VARILLAL,2024,Summer,Creciente,8,Bird,163.0
+VARILLAL,2024,Summer,Creciente,8,Insect,153.25
+VARILLAL,2024,Summer,Creciente,8,Mammal,6.88
+VARILLAL,2024,Summer,Creciente,9,Amphibian,10.38
+VARILLAL,2024,Summer,Creciente,9,Anthropogenic,220.0
+VARILLAL,2024,Summer,Creciente,9,Bird,140.63
+VARILLAL,2024,Summer,Creciente,9,Insect,166.25
+VARILLAL,2024,Summer,Creciente,9,Mammal,4.38
+VARILLAL,2024,Summer,Creciente,10,Amphibian,0.38
+VARILLAL,2024,Summer,Creciente,10,Anthropogenic,205.88
+VARILLAL,2024,Summer,Creciente,10,Bird,143.13
+VARILLAL,2024,Summer,Creciente,10,Insect,191.88
+VARILLAL,2024,Summer,Creciente,10,Mammal,4.38
+VARILLAL,2024,Summer,Creciente,11,Amphibian,3.5
+VARILLAL,2024,Summer,Creciente,11,Anthropogenic,123.13
+VARILLAL,2024,Summer,Creciente,11,Bird,151.0
+VARILLAL,2024,Summer,Creciente,11,Insect,316.0
+VARILLAL,2024,Summer,Creciente,11,Mammal,2.63
+VARILLAL,2024,Summer,Creciente,12,Amphibian,16.38
+VARILLAL,2024,Summer,Creciente,12,Anthropogenic,134.5
+VARILLAL,2024,Summer,Creciente,12,Bird,100.88
+VARILLAL,2024,Summer,Creciente,12,Insect,250.0
+VARILLAL,2024,Summer,Creciente,12,Mammal,3.88
+VARILLAL,2024,Summer,Creciente,13,Amphibian,19.0
+VARILLAL,2024,Summer,Creciente,13,Anthropogenic,139.5
+VARILLAL,2024,Summer,Creciente,13,Bird,146.13
+VARILLAL,2024,Summer,Creciente,13,Insect,381.25
+VARILLAL,2024,Summer,Creciente,13,Mammal,5.13
+VARILLAL,2024,Summer,Creciente,14,Amphibian,44.13
+VARILLAL,2024,Summer,Creciente,14,Anthropogenic,139.25
+VARILLAL,2024,Summer,Creciente,14,Bird,114.0
+VARILLAL,2024,Summer,Creciente,14,Insect,515.5
+VARILLAL,2024,Summer,Creciente,14,Mammal,5.13
+VARILLAL,2024,Summer,Creciente,15,Amphibian,60.63
+VARILLAL,2024,Summer,Creciente,15,Anthropogenic,125.75
+VARILLAL,2024,Summer,Creciente,15,Bird,67.38
+VARILLAL,2024,Summer,Creciente,15,Insect,454.63
+VARILLAL,2024,Summer,Creciente,15,Mammal,5.75
+VARILLAL,2024,Summer,Creciente,16,Amphibian,11.75
+VARILLAL,2024,Summer,Creciente,16,Anthropogenic,104.13
+VARILLAL,2024,Summer,Creciente,16,Bird,8.38
+VARILLAL,2024,Summer,Creciente,16,Insect,442.5
+VARILLAL,2024,Summer,Creciente,16,Mammal,4.5
+VARILLAL,2024,Summer,Creciente,17,Amphibian,1.75
+VARILLAL,2024,Summer,Creciente,17,Anthropogenic,220.75
+VARILLAL,2024,Summer,Creciente,17,Bird,4.13
+VARILLAL,2024,Summer,Creciente,17,Insect,405.13
+VARILLAL,2024,Summer,Creciente,17,Mammal,0.5
+VARILLAL,2024,Summer,Creciente,18,Amphibian,13.0
+VARILLAL,2024,Summer,Creciente,18,Anthropogenic,137.63
+VARILLAL,2024,Summer,Creciente,18,Bird,4.13
+VARILLAL,2024,Summer,Creciente,18,Insect,448.13
+VARILLAL,2024,Summer,Creciente,18,Mammal,2.0
+VARILLAL,2024,Summer,Creciente,19,Amphibian,23.38
+VARILLAL,2024,Summer,Creciente,19,Anthropogenic,24.75
+VARILLAL,2024,Summer,Creciente,19,Bird,12.38
+VARILLAL,2024,Summer,Creciente,19,Insect,523.75
+VARILLAL,2024,Summer,Creciente,19,Mammal,1.13
+VARILLAL,2024,Summer,Creciente,20,Amphibian,9.13
+VARILLAL,2024,Summer,Creciente,20,Anthropogenic,34.75
+VARILLAL,2024,Summer,Creciente,20,Bird,5.5
+VARILLAL,2024,Summer,Creciente,20,Insect,486.25
+VARILLAL,2024,Summer,Creciente,20,Mammal,0.38
+VARILLAL,2024,Summer,Creciente,21,Amphibian,9.38
+VARILLAL,2024,Summer,Creciente,21,Anthropogenic,62.25
+VARILLAL,2024,Summer,Creciente,21,Bird,5.0
+VARILLAL,2024,Summer,Creciente,21,Insect,534.88
+VARILLAL,2024,Summer,Creciente,21,Mammal,0.38
+VARILLAL,2024,Summer,Creciente,22,Amphibian,1.63
+VARILLAL,2024,Summer,Creciente,22,Anthropogenic,30.0
+VARILLAL,2024,Summer,Creciente,22,Bird,6.63
+VARILLAL,2024,Summer,Creciente,22,Insect,636.25
+VARILLAL,2024,Summer,Creciente,22,Mammal,0.5
+VARILLAL,2024,Summer,Creciente,23,Amphibian,26.25
+VARILLAL,2024,Summer,Creciente,23,Anthropogenic,3.63
+VARILLAL,2024,Summer,Creciente,23,Bird,6.13
+VARILLAL,2024,Summer,Creciente,23,Insect,675.75
+VARILLAL,2024,Summer,Creciente,23,Mammal,0.25
+VARILLAL,2024,Winter,Vaciante,0,Amphibian,0.13
+VARILLAL,2024,Winter,Vaciante,0,Anthropogenic,18.83
+VARILLAL,2024,Winter,Vaciante,0,Bird,1.57
+VARILLAL,2024,Winter,Vaciante,0,Insect,45.61
+VARILLAL,2024,Winter,Vaciante,0,Mammal,0.57
+VARILLAL,2024,Winter,Vaciante,1,Amphibian,0.17
+VARILLAL,2024,Winter,Vaciante,1,Anthropogenic,18.13
+VARILLAL,2024,Winter,Vaciante,1,Bird,2.3
+VARILLAL,2024,Winter,Vaciante,1,Insect,40.0
+VARILLAL,2024,Winter,Vaciante,1,Mammal,0.83
+VARILLAL,2024,Winter,Vaciante,2,Amphibian,1.0
+VARILLAL,2024,Winter,Vaciante,2,Anthropogenic,17.43
+VARILLAL,2024,Winter,Vaciante,2,Bird,0.65
+VARILLAL,2024,Winter,Vaciante,2,Insect,42.65
+VARILLAL,2024,Winter,Vaciante,3,Amphibian,3.48
+VARILLAL,2024,Winter,Vaciante,3,Anthropogenic,12.26
+VARILLAL,2024,Winter,Vaciante,3,Bird,2.91
+VARILLAL,2024,Winter,Vaciante,3,Insect,39.48
+VARILLAL,2024,Winter,Vaciante,3,Mammal,0.74
+VARILLAL,2024,Winter,Vaciante,4,Amphibian,2.7
+VARILLAL,2024,Winter,Vaciante,4,Anthropogenic,11.91
+VARILLAL,2024,Winter,Vaciante,4,Bird,4.65
+VARILLAL,2024,Winter,Vaciante,4,Insect,45.3
+VARILLAL,2024,Winter,Vaciante,4,Mammal,1.61
+VARILLAL,2024,Winter,Vaciante,5,Amphibian,3.48
+VARILLAL,2024,Winter,Vaciante,5,Anthropogenic,7.96
+VARILLAL,2024,Winter,Vaciante,5,Bird,9.3
+VARILLAL,2024,Winter,Vaciante,5,Insect,40.35
+VARILLAL,2024,Winter,Vaciante,5,Mammal,1.35
+VARILLAL,2024,Winter,Vaciante,6,Amphibian,0.22
+VARILLAL,2024,Winter,Vaciante,6,Anthropogenic,9.43
+VARILLAL,2024,Winter,Vaciante,6,Bird,27.96
+VARILLAL,2024,Winter,Vaciante,6,Insect,24.61
+VARILLAL,2024,Winter,Vaciante,6,Mammal,0.57
+VARILLAL,2024,Winter,Vaciante,7,Amphibian,0.39
+VARILLAL,2024,Winter,Vaciante,7,Anthropogenic,8.26
+VARILLAL,2024,Winter,Vaciante,7,Bird,22.35
+VARILLAL,2024,Winter,Vaciante,7,Insect,30.83
+VARILLAL,2024,Winter,Vaciante,7,Mammal,0.74
+VARILLAL,2024,Winter,Vaciante,8,Amphibian,2.65
+VARILLAL,2024,Winter,Vaciante,8,Anthropogenic,11.57
+VARILLAL,2024,Winter,Vaciante,8,Bird,19.91
+VARILLAL,2024,Winter,Vaciante,8,Insect,36.22
+VARILLAL,2024,Winter,Vaciante,8,Mammal,0.48
+VARILLAL,2024,Winter,Vaciante,9,Amphibian,0.3
+VARILLAL,2024,Winter,Vaciante,9,Anthropogenic,13.87
+VARILLAL,2024,Winter,Vaciante,9,Bird,20.91
+VARILLAL,2024,Winter,Vaciante,9,Insect,27.22
+VARILLAL,2024,Winter,Vaciante,9,Mammal,0.52
+VARILLAL,2024,Winter,Vaciante,10,Amphibian,0.22
+VARILLAL,2024,Winter,Vaciante,10,Anthropogenic,16.26
+VARILLAL,2024,Winter,Vaciante,10,Bird,26.52
+VARILLAL,2024,Winter,Vaciante,10,Insect,24.09
+VARILLAL,2024,Winter,Vaciante,10,Mammal,0.3
+VARILLAL,2024,Winter,Vaciante,11,Amphibian,0.22
+VARILLAL,2024,Winter,Vaciante,11,Anthropogenic,16.26
+VARILLAL,2024,Winter,Vaciante,11,Bird,29.91
+VARILLAL,2024,Winter,Vaciante,11,Insect,20.43
+VARILLAL,2024,Winter,Vaciante,11,Mammal,1.13
+VARILLAL,2024,Winter,Vaciante,12,Amphibian,0.22
+VARILLAL,2024,Winter,Vaciante,12,Anthropogenic,21.65
+VARILLAL,2024,Winter,Vaciante,12,Bird,27.22
+VARILLAL,2024,Winter,Vaciante,12,Insect,16.48
+VARILLAL,2024,Winter,Vaciante,12,Mammal,0.52
+VARILLAL,2024,Winter,Vaciante,13,Amphibian,0.09
+VARILLAL,2024,Winter,Vaciante,13,Anthropogenic,26.57
+VARILLAL,2024,Winter,Vaciante,13,Bird,29.35
+VARILLAL,2024,Winter,Vaciante,13,Insect,16.7
+VARILLAL,2024,Winter,Vaciante,13,Mammal,1.48
+VARILLAL,2024,Winter,Vaciante,14,Amphibian,1.52
+VARILLAL,2024,Winter,Vaciante,14,Anthropogenic,20.26
+VARILLAL,2024,Winter,Vaciante,14,Bird,21.13
+VARILLAL,2024,Winter,Vaciante,14,Insect,29.13
+VARILLAL,2024,Winter,Vaciante,14,Mammal,0.48
+VARILLAL,2024,Winter,Vaciante,15,Amphibian,2.26
+VARILLAL,2024,Winter,Vaciante,15,Anthropogenic,14.78
+VARILLAL,2024,Winter,Vaciante,15,Bird,20.04
+VARILLAL,2024,Winter,Vaciante,15,Insect,42.43
+VARILLAL,2024,Winter,Vaciante,15,Mammal,0.65
+VARILLAL,2024,Winter,Vaciante,16,Amphibian,5.13
+VARILLAL,2024,Winter,Vaciante,16,Anthropogenic,17.13
+VARILLAL,2024,Winter,Vaciante,16,Bird,23.57
+VARILLAL,2024,Winter,Vaciante,16,Insect,36.3
+VARILLAL,2024,Winter,Vaciante,16,Mammal,0.61
+VARILLAL,2024,Winter,Vaciante,17,Amphibian,4.87
+VARILLAL,2024,Winter,Vaciante,17,Anthropogenic,17.78
+VARILLAL,2024,Winter,Vaciante,17,Bird,23.09
+VARILLAL,2024,Winter,Vaciante,17,Insect,37.83
+VARILLAL,2024,Winter,Vaciante,17,Mammal,0.57
+VARILLAL,2024,Winter,Vaciante,18,Amphibian,6.96
+VARILLAL,2024,Winter,Vaciante,18,Anthropogenic,19.65
+VARILLAL,2024,Winter,Vaciante,18,Bird,11.91
+VARILLAL,2024,Winter,Vaciante,18,Insect,45.52
+VARILLAL,2024,Winter,Vaciante,18,Mammal,0.09
+VARILLAL,2024,Winter,Vaciante,19,Amphibian,1.17
+VARILLAL,2024,Winter,Vaciante,19,Anthropogenic,26.13
+VARILLAL,2024,Winter,Vaciante,19,Bird,9.78
+VARILLAL,2024,Winter,Vaciante,19,Insect,54.78
+VARILLAL,2024,Winter,Vaciante,19,Mammal,0.13
+VARILLAL,2024,Winter,Vaciante,20,Amphibian,0.83
+VARILLAL,2024,Winter,Vaciante,20,Anthropogenic,46.35
+VARILLAL,2024,Winter,Vaciante,20,Bird,5.13
+VARILLAL,2024,Winter,Vaciante,20,Insect,32.78
+VARILLAL,2024,Winter,Vaciante,20,Mammal,0.17
+VARILLAL,2024,Winter,Vaciante,21,Amphibian,1.65
+VARILLAL,2024,Winter,Vaciante,21,Anthropogenic,28.22
+VARILLAL,2024,Winter,Vaciante,21,Bird,3.7
+VARILLAL,2024,Winter,Vaciante,21,Insect,41.0
+VARILLAL,2024,Winter,Vaciante,21,Mammal,0.52
+VARILLAL,2024,Winter,Vaciante,22,Amphibian,1.52
+VARILLAL,2024,Winter,Vaciante,22,Anthropogenic,20.78
+VARILLAL,2024,Winter,Vaciante,22,Bird,5.09
+VARILLAL,2024,Winter,Vaciante,22,Insect,29.83
+VARILLAL,2024,Winter,Vaciante,22,Mammal,0.61
+VARILLAL,2024,Winter,Vaciante,23,Amphibian,1.43
+VARILLAL,2024,Winter,Vaciante,23,Anthropogenic,23.39
+VARILLAL,2024,Winter,Vaciante,23,Bird,2.43
+VARILLAL,2024,Winter,Vaciante,23,Insect,47.65
+VARILLAL,2025,Autumn,Creciente,0,Amphibian,8.63
+VARILLAL,2025,Autumn,Creciente,0,Anthropogenic,19.13
+VARILLAL,2025,Autumn,Creciente,0,Bird,0.38
+VARILLAL,2025,Autumn,Creciente,0,Insect,42.5
+VARILLAL,2025,Autumn,Creciente,0,Mammal,0.38
+VARILLAL,2025,Autumn,Creciente,1,Amphibian,5.5
+VARILLAL,2025,Autumn,Creciente,1,Anthropogenic,23.75
+VARILLAL,2025,Autumn,Creciente,1,Bird,1.25
+VARILLAL,2025,Autumn,Creciente,1,Insect,40.5
+VARILLAL,2025,Autumn,Creciente,1,Mammal,0.63
+VARILLAL,2025,Autumn,Creciente,2,Amphibian,0.13
+VARILLAL,2025,Autumn,Creciente,2,Anthropogenic,25.0
+VARILLAL,2025,Autumn,Creciente,2,Bird,0.5
+VARILLAL,2025,Autumn,Creciente,2,Insect,27.75
+VARILLAL,2025,Autumn,Creciente,3,Amphibian,2.25
+VARILLAL,2025,Autumn,Creciente,3,Anthropogenic,23.0
+VARILLAL,2025,Autumn,Creciente,3,Bird,0.63
+VARILLAL,2025,Autumn,Creciente,3,Insect,8.63
+VARILLAL,2025,Autumn,Creciente,3,Mammal,1.63
+VARILLAL,2025,Autumn,Creciente,4,Amphibian,0.38
+VARILLAL,2025,Autumn,Creciente,4,Anthropogenic,20.25
+VARILLAL,2025,Autumn,Creciente,4,Bird,1.25
+VARILLAL,2025,Autumn,Creciente,4,Insect,27.25
+VARILLAL,2025,Autumn,Creciente,4,Mammal,2.38
+VARILLAL,2025,Autumn,Creciente,5,Amphibian,0.13
+VARILLAL,2025,Autumn,Creciente,5,Anthropogenic,12.13
+VARILLAL,2025,Autumn,Creciente,5,Bird,4.5
+VARILLAL,2025,Autumn,Creciente,5,Insect,28.13
+VARILLAL,2025,Autumn,Creciente,5,Mammal,2.38
+VARILLAL,2025,Autumn,Creciente,6,Anthropogenic,10.38
+VARILLAL,2025,Autumn,Creciente,6,Bird,15.75
+VARILLAL,2025,Autumn,Creciente,6,Insect,32.0
+VARILLAL,2025,Autumn,Creciente,6,Mammal,0.63
+VARILLAL,2025,Autumn,Creciente,7,Amphibian,0.5
+VARILLAL,2025,Autumn,Creciente,7,Anthropogenic,24.38
+VARILLAL,2025,Autumn,Creciente,7,Bird,18.13
+VARILLAL,2025,Autumn,Creciente,7,Insect,32.25
+VARILLAL,2025,Autumn,Creciente,7,Mammal,0.5
+VARILLAL,2025,Autumn,Creciente,8,Anthropogenic,28.0
+VARILLAL,2025,Autumn,Creciente,8,Bird,13.63
+VARILLAL,2025,Autumn,Creciente,8,Insect,34.38
+VARILLAL,2025,Autumn,Creciente,8,Mammal,0.25
+VARILLAL,2025,Autumn,Creciente,9,Amphibian,0.13
+VARILLAL,2025,Autumn,Creciente,9,Anthropogenic,17.25
+VARILLAL,2025,Autumn,Creciente,9,Bird,10.38
+VARILLAL,2025,Autumn,Creciente,9,Insect,19.88
+VARILLAL,2025,Autumn,Creciente,9,Mammal,2.88
+VARILLAL,2025,Autumn,Creciente,10,Anthropogenic,12.0
+VARILLAL,2025,Autumn,Creciente,10,Bird,14.0
+VARILLAL,2025,Autumn,Creciente,10,Insect,26.13
+VARILLAL,2025,Autumn,Creciente,10,Mammal,0.5
+VARILLAL,2025,Autumn,Creciente,11,Amphibian,0.13
+VARILLAL,2025,Autumn,Creciente,11,Anthropogenic,28.38
+VARILLAL,2025,Autumn,Creciente,11,Bird,12.25
+VARILLAL,2025,Autumn,Creciente,11,Insect,23.5
+VARILLAL,2025,Autumn,Creciente,11,Mammal,1.13
+VARILLAL,2025,Autumn,Creciente,12,Anthropogenic,30.5
+VARILLAL,2025,Autumn,Creciente,12,Bird,11.5
+VARILLAL,2025,Autumn,Creciente,12,Insect,16.88
+VARILLAL,2025,Autumn,Creciente,12,Mammal,1.88
+VARILLAL,2025,Autumn,Creciente,13,Anthropogenic,34.88
+VARILLAL,2025,Autumn,Creciente,13,Bird,10.63
+VARILLAL,2025,Autumn,Creciente,13,Insect,16.25
+VARILLAL,2025,Autumn,Creciente,13,Mammal,0.13
+VARILLAL,2025,Autumn,Creciente,14,Amphibian,0.13
+VARILLAL,2025,Autumn,Creciente,14,Anthropogenic,35.38
+VARILLAL,2025,Autumn,Creciente,14,Bird,4.38
+VARILLAL,2025,Autumn,Creciente,14,Insect,19.88
+VARILLAL,2025,Autumn,Creciente,14,Mammal,0.63
+VARILLAL,2025,Autumn,Creciente,15,Amphibian,0.38
+VARILLAL,2025,Autumn,Creciente,15,Anthropogenic,39.13
+VARILLAL,2025,Autumn,Creciente,15,Bird,15.13
+VARILLAL,2025,Autumn,Creciente,15,Insect,33.0
+VARILLAL,2025,Autumn,Creciente,16,Amphibian,2.0
+VARILLAL,2025,Autumn,Creciente,16,Anthropogenic,29.38
+VARILLAL,2025,Autumn,Creciente,16,Bird,9.88
+VARILLAL,2025,Autumn,Creciente,16,Insect,40.38
+VARILLAL,2025,Autumn,Creciente,16,Mammal,1.0
+VARILLAL,2025,Autumn,Creciente,17,Amphibian,7.0
+VARILLAL,2025,Autumn,Creciente,17,Anthropogenic,47.5
+VARILLAL,2025,Autumn,Creciente,17,Bird,19.0
+VARILLAL,2025,Autumn,Creciente,17,Insect,46.63
+VARILLAL,2025,Autumn,Creciente,17,Mammal,0.88
+VARILLAL,2025,Autumn,Creciente,18,Amphibian,0.5
+VARILLAL,2025,Autumn,Creciente,18,Anthropogenic,68.63
+VARILLAL,2025,Autumn,Creciente,18,Bird,3.13
+VARILLAL,2025,Autumn,Creciente,18,Insect,18.13
+VARILLAL,2025,Autumn,Creciente,18,Mammal,0.25
+VARILLAL,2025,Autumn,Creciente,19,Amphibian,3.88
+VARILLAL,2025,Autumn,Creciente,19,Anthropogenic,35.63
+VARILLAL,2025,Autumn,Creciente,19,Bird,0.5
+VARILLAL,2025,Autumn,Creciente,19,Insect,84.88
+VARILLAL,2025,Autumn,Creciente,19,Mammal,0.38
+VARILLAL,2025,Autumn,Creciente,20,Amphibian,6.88
+VARILLAL,2025,Autumn,Creciente,20,Anthropogenic,37.5
+VARILLAL,2025,Autumn,Creciente,20,Insect,41.88
+VARILLAL,2025,Autumn,Creciente,21,Amphibian,6.25
+VARILLAL,2025,Autumn,Creciente,21,Anthropogenic,32.25
+VARILLAL,2025,Autumn,Creciente,21,Bird,0.63
+VARILLAL,2025,Autumn,Creciente,21,Insect,36.25
+VARILLAL,2025,Autumn,Creciente,21,Mammal,1.38
+VARILLAL,2025,Autumn,Creciente,22,Amphibian,10.63
+VARILLAL,2025,Autumn,Creciente,22,Anthropogenic,16.38
+VARILLAL,2025,Autumn,Creciente,22,Bird,0.5
+VARILLAL,2025,Autumn,Creciente,22,Insect,49.75
+VARILLAL,2025,Autumn,Creciente,22,Mammal,0.25
+VARILLAL,2025,Autumn,Creciente,23,Amphibian,11.88
+VARILLAL,2025,Autumn,Creciente,23,Anthropogenic,15.5
+VARILLAL,2025,Autumn,Creciente,23,Bird,0.38
+VARILLAL,2025,Autumn,Creciente,23,Insect,51.5
+VARILLAL,2025,Autumn,Creciente,23,Mammal,2.38
+VARILLAL,2025,Spring,Creciente,0,Amphibian,0.5
+VARILLAL,2025,Spring,Creciente,0,Anthropogenic,34.0
+VARILLAL,2025,Spring,Creciente,0,Bird,3.0
+VARILLAL,2025,Spring,Creciente,0,Insect,136.0
+VARILLAL,2025,Spring,Creciente,1,Amphibian,1.0
+VARILLAL,2025,Spring,Creciente,1,Anthropogenic,55.0
+VARILLAL,2025,Spring,Creciente,1,Bird,13.5
+VARILLAL,2025,Spring,Creciente,1,Insect,128.5
+VARILLAL,2025,Spring,Creciente,1,Mammal,7.0
+VARILLAL,2025,Spring,Creciente,2,Anthropogenic,49.5
+VARILLAL,2025,Spring,Creciente,2,Bird,15.0
+VARILLAL,2025,Spring,Creciente,2,Insect,143.0
+VARILLAL,2025,Spring,Creciente,2,Mammal,10.5
+VARILLAL,2025,Spring,Creciente,3,Amphibian,0.5
+VARILLAL,2025,Spring,Creciente,3,Anthropogenic,86.5
+VARILLAL,2025,Spring,Creciente,3,Bird,13.0
+VARILLAL,2025,Spring,Creciente,3,Insect,180.5
+VARILLAL,2025,Spring,Creciente,4,Amphibian,5.0
+VARILLAL,2025,Spring,Creciente,4,Anthropogenic,36.0
+VARILLAL,2025,Spring,Creciente,4,Bird,46.0
+VARILLAL,2025,Spring,Creciente,4,Insect,177.0
+VARILLAL,2025,Spring,Creciente,4,Mammal,0.5
+VARILLAL,2025,Spring,Creciente,5,Amphibian,24.0
+VARILLAL,2025,Spring,Creciente,5,Anthropogenic,11.0
+VARILLAL,2025,Spring,Creciente,5,Bird,51.0
+VARILLAL,2025,Spring,Creciente,5,Insect,132.0
+VARILLAL,2025,Spring,Creciente,5,Mammal,1.0
+VARILLAL,2025,Spring,Creciente,6,Amphibian,0.5
+VARILLAL,2025,Spring,Creciente,6,Anthropogenic,27.0
+VARILLAL,2025,Spring,Creciente,6,Bird,132.5
+VARILLAL,2025,Spring,Creciente,6,Insect,82.0
+VARILLAL,2025,Spring,Creciente,7,Anthropogenic,88.5
+VARILLAL,2025,Spring,Creciente,7,Bird,111.0
+VARILLAL,2025,Spring,Creciente,7,Insect,41.0
+VARILLAL,2025,Spring,Creciente,7,Mammal,0.5
+VARILLAL,2025,Spring,Creciente,8,Anthropogenic,52.5
+VARILLAL,2025,Spring,Creciente,8,Bird,126.0
+VARILLAL,2025,Spring,Creciente,8,Insect,32.5
+VARILLAL,2025,Spring,Creciente,8,Mammal,1.0
+VARILLAL,2025,Spring,Creciente,9,Anthropogenic,37.5
+VARILLAL,2025,Spring,Creciente,9,Bird,115.0
+VARILLAL,2025,Spring,Creciente,9,Insect,16.5
+VARILLAL,2025,Spring,Creciente,10,Anthropogenic,31.0
+VARILLAL,2025,Spring,Creciente,10,Bird,104.0
+VARILLAL,2025,Spring,Creciente,10,Insect,24.5
+VARILLAL,2025,Spring,Creciente,10,Mammal,1.0
+VARILLAL,2025,Spring,Creciente,11,Amphibian,0.5
+VARILLAL,2025,Spring,Creciente,11,Anthropogenic,22.5
+VARILLAL,2025,Spring,Creciente,11,Bird,167.5
+VARILLAL,2025,Spring,Creciente,11,Insect,21.0
+VARILLAL,2025,Spring,Creciente,11,Mammal,3.0
+VARILLAL,2025,Spring,Creciente,12,Anthropogenic,40.0
+VARILLAL,2025,Spring,Creciente,12,Bird,143.5
+VARILLAL,2025,Spring,Creciente,12,Insect,30.5
+VARILLAL,2025,Spring,Creciente,12,Mammal,1.5
+VARILLAL,2025,Spring,Creciente,13,Anthropogenic,32.0
+VARILLAL,2025,Spring,Creciente,13,Bird,111.0
+VARILLAL,2025,Spring,Creciente,13,Insect,72.5
+VARILLAL,2025,Spring,Creciente,14,Anthropogenic,45.0
+VARILLAL,2025,Spring,Creciente,14,Bird,148.5
+VARILLAL,2025,Spring,Creciente,14,Insect,59.5
+VARILLAL,2025,Spring,Creciente,14,Mammal,0.5
+VARILLAL,2025,Spring,Creciente,15,Amphibian,0.5
+VARILLAL,2025,Spring,Creciente,15,Anthropogenic,56.0
+VARILLAL,2025,Spring,Creciente,15,Bird,159.0
+VARILLAL,2025,Spring,Creciente,15,Insect,112.5
+VARILLAL,2025,Spring,Creciente,15,Mammal,4.5
+VARILLAL,2025,Spring,Creciente,16,Amphibian,2.5
+VARILLAL,2025,Spring,Creciente,16,Anthropogenic,38.5
+VARILLAL,2025,Spring,Creciente,16,Bird,148.0
+VARILLAL,2025,Spring,Creciente,16,Insect,125.0
+VARILLAL,2025,Spring,Creciente,16,Mammal,2.5
+VARILLAL,2025,Spring,Creciente,17,Amphibian,3.0
+VARILLAL,2025,Spring,Creciente,17,Anthropogenic,22.0
+VARILLAL,2025,Spring,Creciente,17,Bird,176.5
+VARILLAL,2025,Spring,Creciente,17,Insect,70.5
+VARILLAL,2025,Spring,Creciente,17,Mammal,0.5
+VARILLAL,2025,Spring,Creciente,18,Amphibian,6.5
+VARILLAL,2025,Spring,Creciente,18,Anthropogenic,67.0
+VARILLAL,2025,Spring,Creciente,18,Bird,28.5
+VARILLAL,2025,Spring,Creciente,18,Insect,120.5
+VARILLAL,2025,Spring,Creciente,19,Anthropogenic,25.0
+VARILLAL,2025,Spring,Creciente,19,Bird,0.5
+VARILLAL,2025,Spring,Creciente,19,Insect,252.5
+VARILLAL,2025,Spring,Creciente,19,Mammal,2.5
+VARILLAL,2025,Spring,Creciente,20,Anthropogenic,66.0
+VARILLAL,2025,Spring,Creciente,20,Bird,1.5
+VARILLAL,2025,Spring,Creciente,20,Insect,139.0
+VARILLAL,2025,Spring,Creciente,20,Mammal,0.5
+VARILLAL,2025,Spring,Creciente,21,Anthropogenic,102.0
+VARILLAL,2025,Spring,Creciente,21,Bird,1.0
+VARILLAL,2025,Spring,Creciente,21,Insect,127.0
+VARILLAL,2025,Spring,Creciente,21,Mammal,1.5
+VARILLAL,2025,Spring,Creciente,22,Amphibian,1.5
+VARILLAL,2025,Spring,Creciente,22,Anthropogenic,91.5
+VARILLAL,2025,Spring,Creciente,22,Bird,0.5
+VARILLAL,2025,Spring,Creciente,22,Insect,109.5
+VARILLAL,2025,Spring,Creciente,22,Mammal,0.5
+VARILLAL,2025,Spring,Creciente,23,Amphibian,2.5
+VARILLAL,2025,Spring,Creciente,23,Anthropogenic,86.0
+VARILLAL,2025,Spring,Creciente,23,Bird,5.0
+VARILLAL,2025,Spring,Creciente,23,Insect,127.0
+VARILLAL,2025,Spring,Creciente,23,Mammal,2.0

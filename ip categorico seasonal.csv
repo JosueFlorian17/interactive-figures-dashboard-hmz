@@ -1,0 +1,321 @@
+anio,estacion,periodo_analisis,categoria,comunidad,porcentaje_promedio,porcentaje_min,porcentaje_max,dias_muestreados
+2023,Summer,Amanecer Crítico,Anfibio,12 DE abril,2.91,1.15,6.31,5
+2023,Summer,Amanecer Crítico,Anfibio,SAN LUCAS,8.13,0.6,31.67,6
+2023,Summer,Amanecer Crítico,Antropogénico,12 DE abril,5.57,2.71,8.75,6
+2023,Summer,Amanecer Crítico,Antropogénico,SAN LUCAS,14.26,10.42,16.55,6
+2023,Summer,Amanecer Crítico,Ave,12 DE abril,8.52,4.9,11.67,6
+2023,Summer,Amanecer Crítico,Ave,SAN LUCAS,27.23,20.95,33.21,6
+2023,Summer,Amanecer Crítico,Insecto,12 DE abril,18.25,7.38,24.79,6
+2023,Summer,Amanecer Crítico,Insecto,SAN LUCAS,32.27,22.08,43.69,6
+2023,Summer,Amanecer Crítico,Mamífero,12 DE abril,0.19,0.1,0.24,3
+2023,Summer,Amanecer Crítico,Mamífero,SAN LUCAS,0.41,0.12,0.71,6
+2023,Summer,Amanecer Crítico,Ruido ambiental,12 DE abril,65.14,60.21,79.05,6
+2023,Summer,Amanecer Crítico,Ruido ambiental,SAN LUCAS,17.07,5.0,27.86,6
+2023,Summer,Anochecer Crítico,Anfibio,12 DE abril,2.88,0.52,5.52,5
+2023,Summer,Anochecer Crítico,Anfibio,SAN LUCAS,11.0,2.38,21.67,5
+2023,Summer,Anochecer Crítico,Antropogénico,12 DE abril,6.95,2.4,13.33,5
+2023,Summer,Anochecer Crítico,Antropogénico,SAN LUCAS,29.45,20.83,35.71,5
+2023,Summer,Anochecer Crítico,Ave,12 DE abril,09.02,06.04,15.0,5
+2023,Summer,Anochecer Crítico,Ave,SAN LUCAS,11.07,2.5,16.43,5
+2023,Summer,Anochecer Crítico,Insecto,12 DE abril,21.05,13.23,31.35,5
+2023,Summer,Anochecer Crítico,Insecto,SAN LUCAS,29.2,25.0,35.42,5
+2023,Summer,Anochecer Crítico,Mamífero,SAN LUCAS,1.23,0.48,2.26,3
+2023,Summer,Anochecer Crítico,Ruido ambiental,12 DE abril,60.1,55.83,66.35,5
+2023,Summer,Anochecer Crítico,Ruido ambiental,SAN LUCAS,18.54,16.19,22.26,5
+2023,Autumn,Amanecer Crítico,Anfibio,VARILLAL,0.63,0.12,1.55,10
+2023,Autumn,Amanecer Crítico,Antropogénico,VARILLAL,13.18,5.95,21.9,11
+2023,Autumn,Amanecer Crítico,Ave,VARILLAL,10.67,7.26,16.55,11
+2023,Autumn,Amanecer Crítico,Insecto,VARILLAL,40.97,30.83,50.6,11
+2023,Autumn,Amanecer Crítico,Mamífero,VARILLAL,0.6,0.12,1.31,3
+2023,Autumn,Amanecer Crítico,Ruido ambiental,VARILLAL,34.44,22.5,42.14,11
+2023,Autumn,Anochecer Crítico,Anfibio,VARILLAL,2.37,0.12,6.79,11
+2023,Autumn,Anochecer Crítico,Antropogénico,VARILLAL,15.33,7.26,26.07,11
+2023,Autumn,Anochecer Crítico,Ave,VARILLAL,5.3,1.31,9.52,11
+2023,Autumn,Anochecer Crítico,Insecto,VARILLAL,37.36,25.83,46.9,11
+2023,Autumn,Anochecer Crítico,Mamífero,VARILLAL,0.39,0.12,0.83,4
+2023,Autumn,Anochecer Crítico,Ruido ambiental,VARILLAL,39.5,20.83,47.86,11
+2023,Winter,Amanecer Crítico,Anfibio,12 DE abril,0.38,0.3,0.79,6
+2023,Winter,Amanecer Crítico,Anfibio,PAUJIL,0.75,0.2,02.08,5
+2023,Winter,Amanecer Crítico,Anfibio,QUISTOCOCHA,0.56,0.56,0.56,1
+2023,Winter,Amanecer Crítico,Anfibio,SAN LUCAS,0.53,0.1,1.39,9
+2023,Winter,Amanecer Crítico,Antropogénico,12 DE abril,7.66,03.08,19.54,6
+2023,Winter,Amanecer Crítico,Antropogénico,PAUJIL,7.36,5.75,9.52,6
+2023,Winter,Amanecer Crítico,Antropogénico,QUISTOCOCHA,6.35,1.25,12.22,6
+2023,Winter,Amanecer Crítico,Antropogénico,SAN LUCAS,2.32,1.29,3.47,10
+2023,Winter,Amanecer Crítico,Ave,12 DE abril,13.66,6.15,23.71,6
+2023,Winter,Amanecer Crítico,Ave,PAUJIL,13.54,11.61,16.07,6
+2023,Winter,Amanecer Crítico,Ave,QUISTOCOCHA,13.08,4.17,19.33,6
+2023,Winter,Amanecer Crítico,Ave,SAN LUCAS,18.01,13.79,21.83,10
+2023,Winter,Amanecer Crítico,Insecto,12 DE abril,38.38,30.26,44.64,6
+2023,Winter,Amanecer Crítico,Insecto,PAUJIL,26.31,22.52,31.05,6
+2023,Winter,Amanecer Crítico,Insecto,QUISTOCOCHA,22.15,15.83,34.03,6
+2023,Winter,Amanecer Crítico,Insecto,SAN LUCAS,21.17,15.58,24.91,10
+2023,Winter,Amanecer Crítico,Mamífero,12.4,0.5,0.3,0.89,3
+2023,Winter,Amanecer Crítico,Mamífero,PAUJIL,0.1,0.1,0.1,1
+2023,Winter,Amanecer Crítico,Mamífero,QUISTOCOCHA,1.16,0.5,02.04,5
+2023,Winter,Amanecer Crítico,Mamífero,SAN LUCAS,0.23,0.1,0.43,4
+2023,Winter,Amanecer Crítico,Ruido ambiental,12 DE abril,39.68,36.11,45.83,6
+2023,Winter,Amanecer Crítico,Ruido ambiental,PAUJIL,52.15,47.12,55.85,6
+2023,Winter,Amanecer Crítico,Ruido ambiental,QUISTOCOCHA,63.46,39.58,100.0,7
+2023,Winter,Amanecer Crítico,Ruido ambiental,SAN LUCAS,57.93,52.08,62.0,10
+2023,Winter,Amanecer Crítico,Ruido ambiental,VARILLAL,100.0,100.0,100.0,6
+2023,Winter,Anochecer Crítico,Anfibio,12 DE abril,0.35,0.1,0.6,4
+2023,Winter,Anochecer Crítico,Anfibio,PAUJIL,3.41,0.79,6.25,6
+2023,Winter,Anochecer Crítico,Anfibio,QUISTOCOCHA,0.69,0.21,1.17,2
+2023,Winter,Anochecer Crítico,Anfibio,SAN LUCAS,1.42,0.1,3.17,10
+2023,Winter,Anochecer Crítico,Antropogénico,12 DE abril,15.41,7.14,25.0,6
+2023,Winter,Anochecer Crítico,Antropogénico,PAUJIL,11.08,4.56,24.11,6
+2023,Winter,Anochecer Crítico,Antropogénico,QUISTOCOCHA,27.96,0.83,40.0,7
+2023,Winter,Anochecer Crítico,Antropogénico,SAN LUCAS,6.86,3.27,10.22,10
+2023,Winter,Anochecer Crítico,Ave,12 DE abril,2.91,0.79,4.66,6
+2023,Winter,Anochecer Crítico,Ave,PAUJIL,3.52,1.39,8.33,6
+2023,Winter,Anochecer Crítico,Ave,QUISTOCOCHA,6.57,0.63,9.38,6
+2023,Winter,Anochecer Crítico,Ave,SAN LUCAS,2.18,0.89,3.97,10
+2023,Winter,Anochecer Crítico,Insecto,12 DE abril,38.56,25.4,47.22,6
+2023,Winter,Anochecer Crítico,Insecto,PAUJIL,33.32,27.18,39.78,6
+2023,Winter,Anochecer Crítico,Insecto,QUISTOCOCHA,14.32,5.83,20.42,5
+2023,Winter,Anochecer Crítico,Insecto,SAN LUCAS,32.0,15.18,40.45,10
+2023,Winter,Anochecer Crítico,Mamífero,12 DE abril,0.3,0.3,0.3,1
+2023,Winter,Anochecer Crítico,Mamífero,PAUJIL,0.69,0.69,0.69,1
+2023,Winter,Anochecer Crítico,Mamífero,QUISTOCOCHA,0.17,0.17,0.17,1
+2023,Winter,Anochecer Crítico,Mamífero,SAN LUCAS,0.27,0.09,0.6,4
+2023,Winter,Anochecer Crítico,Ruido ambiental,12 DE abril,42.84,36.81,47.52,6
+2023,Winter,Anochecer Crítico,Ruido ambiental,PAUJIL,48.56,41.37,54.27,6
+2023,Winter,Anochecer Crítico,Ruido ambiental,QUISTOCOCHA,55.95,37.5,99.17,7
+2023,Winter,Anochecer Crítico,Ruido ambiental,SAN LUCAS,57.43,49.13,70.93,10
+2023,Winter,Anochecer Crítico,Ruido ambiental,VARILLAL,100.0,100.0,100.0,6
+2023,Spring,Amanecer Crítico,Anfibio,12 DE abril,0.1,0.1,0.1,1
+2023,Spring,Amanecer Crítico,Anfibio,PAUJIL,2.2,0.31,7.19,8
+2023,Spring,Amanecer Crítico,Anfibio,QUISTOCOCHA,0.48,0.12,0.83,7
+2023,Spring,Amanecer Crítico,Antropogénico,12 DE abril,7.19,4.48,9.9,2
+2023,Spring,Amanecer Crítico,Antropogénico,PAUJIL,3.43,0.31,8.54,8
+2023,Spring,Amanecer Crítico,Antropogénico,QUISTOCOCHA,15.52,10.0,22.74,10
+2023,Spring,Amanecer Crítico,Ave,12 DE abril,5.63,3.33,7.92,2
+2023,Spring,Amanecer Crítico,Ave,PAUJIL,10.19,6.56,15.83,8
+2023,Spring,Amanecer Crítico,Ave,QUISTOCOCHA,20.32,15.12,28.21,10
+2023,Spring,Amanecer Crítico,Insecto,12 DE abril,16.2,10.94,21.46,2
+2023,Spring,Amanecer Crítico,Insecto,PAUJIL,23.7,15.1,29.9,8
+2023,Spring,Amanecer Crítico,Insecto,QUISTOCOCHA,31.5,25.0,43.21,10
+2023,Spring,Amanecer Crítico,Mamífero,12 DE abril,0.36,0.1,0.63,2
+2023,Spring,Amanecer Crítico,Mamífero,PAUJIL,0.31,0.31,0.31,1
+2023,Spring,Amanecer Crítico,Mamífero,QUISTOCOCHA,0.64,0.12,1.55,8
+2023,Spring,Amanecer Crítico,Ruido ambiental,12 DE abril,70.57,60.63,80.52,2
+2023,Spring,Amanecer Crítico,Ruido ambiental,PAUJIL,60.44,45.31,75.52,8
+2023,Spring,Amanecer Crítico,Ruido ambiental,QUISTOCOCHA,31.81,25.48,40.83,10
+2023,Spring,Anochecer Crítico,Anfibio,12 DE abril,1.64,0.31,3.23,4
+2023,Spring,Anochecer Crítico,Anfibio,PAUJIL,02.04,0.52,8.75,7
+2023,Spring,Anochecer Crítico,Anfibio,QUISTOCOCHA,1.89,0.71,4.52,9
+2023,Spring,Anochecer Crítico,Anfibio,SAN LUCAS,5.6,5.6,5.6,1
+2023,Spring,Anochecer Crítico,Antropogénico,12 DE abril,03.02,1.67,5.21,4
+2023,Spring,Anochecer Crítico,Antropogénico,PAUJIL,5.7,0.73,15.0,8
+2023,Spring,Anochecer Crítico,Antropogénico,QUISTOCOCHA,13.84,0.36,23.45,10
+2023,Spring,Anochecer Crítico,Antropogénico,SAN LUCAS,23.21,23.21,23.21,1
+2023,Spring,Anochecer Crítico,Ave,12 DE abril,7.11,2.5,12.08,4
+2023,Spring,Anochecer Crítico,Ave,PAUJIL,8.37,3.13,10.63,8
+2023,Spring,Anochecer Crítico,Ave,QUISTOCOCHA,15.07,2.74,25.12,9
+2023,Spring,Anochecer Crítico,Ave,SAN LUCAS,15.95,15.95,15.95,1
+2023,Spring,Anochecer Crítico,Insecto,12 DE abril,44.01,29.9,77.5,4
+2023,Spring,Anochecer Crítico,Insecto,PAUJIL,17.71,2.81,36.46,8
+2023,Spring,Anochecer Crítico,Insecto,QUISTOCOCHA,21.15,1.79,35.24,9
+2023,Spring,Anochecer Crítico,Insecto,SAN LUCAS,38.45,38.45,38.45,1
+2023,Spring,Anochecer Crítico,Mamífero,12 DE abril,0.1,0.1,0.1,1
+2023,Spring,Anochecer Crítico,Mamífero,PAUJIL,0.34,0.1,0.52,4
+2023,Spring,Anochecer Crítico,Mamífero,QUISTOCOCHA,0.19,0.12,0.36,5
+2023,Spring,Anochecer Crítico,Mamífero,SAN LUCAS,0.36,0.36,0.36,1
+2023,Spring,Anochecer Crítico,Ruido ambiental,12 DE abril,44.19,15.83,58.23,4
+2023,Spring,Anochecer Crítico,Ruido ambiental,PAUJIL,66.26,51.15,84.38,8
+2023,Spring,Anochecer Crítico,Ruido ambiental,QUISTOCOCHA,51.76,28.57,99.64,10
+2023,Spring,Anochecer Crítico,Ruido ambiental,SAN LUCAS,16.43,16.43,16.43,1
+2024,Summer,Amanecer Crítico,Anfibio,12 DE abril,0.11,0.08,0.15,2
+2024,Summer,Amanecer Crítico,Anfibio,PAUJIL,0.45,0.22,0.83,4
+2024,Summer,Amanecer Crítico,Anfibio,QUISTOCOCHA,0.26,0.07,0.44,2
+2024,Summer,Amanecer Crítico,Anfibio,SAN LUCAS,0.06,0.04,0.08,3
+2024,Summer,Amanecer Crítico,Anfibio,VARILLAL,0.94,0.04,2.71,3
+2024,Summer,Amanecer Crítico,Antropogénico,12 DE abril,5.19,0.38,10.0,2
+2024,Summer,Amanecer Crítico,Antropogénico,PAUJIL,12.9,01.05,40.0,6
+2024,Summer,Amanecer Crítico,Antropogénico,QUISTOCOCHA,3.69,0.88,7.69,4
+2024,Summer,Amanecer Crítico,Antropogénico,SAN LUCAS,21.9,1.85,66.67,8
+2024,Summer,Amanecer Crítico,Antropogénico,VARILLAL,20.88,3.63,41.58,6
+2024,Summer,Amanecer Crítico,Ave,12 DE abril,0.19,0.15,0.23,2
+2024,Summer,Amanecer Crítico,Ave,PAUJIL,32.93,30.37,36.7,4
+2024,Summer,Amanecer Crítico,Ave,QUISTOCOCHA,11.23,7.64,15.38,5
+2024,Summer,Amanecer Crítico,Ave,SAN LUCAS,51.47,27.01,85.4,6
+2024,Summer,Amanecer Crítico,Ave,VARILLAL,14.21,08.03,29.64,6
+2024,Summer,Amanecer Crítico,Insecto,12 DE abril,0.15,0.15,0.15,1
+2024,Summer,Amanecer Crítico,Insecto,PAUJIL,39.54,15.42,54.94,4
+2024,Summer,Amanecer Crítico,Insecto,QUISTOCOCHA,22.39,5.88,38.83,4
+2024,Summer,Amanecer Crítico,Insecto,SAN LUCAS,4.43,1.77,7.39,5
+2024,Summer,Amanecer Crítico,Insecto,VARILLAL,11.3,4.4,16.11,5
+2024,Summer,Amanecer Crítico,Mamífero,PAUJIL,0.11,0.07,0.19,3
+2024,Summer,Amanecer Crítico,Mamífero,QUISTOCOCHA,0.14,0.14,0.14,1
+2024,Summer,Amanecer Crítico,Mamífero,SAN LUCAS,0.8,0.35,1.31,5
+2024,Summer,Amanecer Crítico,Mamífero,VARILLAL,2.21,0.33,9.52,6
+2024,Summer,Amanecer Crítico,Ruido ambiental,12 DE abril,98.41,90.0,100.0,7
+2024,Summer,Amanecer Crítico,Ruido ambiental,PAUJIL,38.43,08.06,83.33,6
+2024,Summer,Amanecer Crítico,Ruido ambiental,QUISTOCOCHA,76.99,52.62,100.0,7
+2024,Summer,Amanecer Crítico,Ruido ambiental,SAN LUCAS,41.37,5.98,68.41,7
+2024,Summer,Amanecer Crítico,Ruido ambiental,VARILLAL,64.61,23.76,100.0,8
+2024,Summer,Anochecer Crítico,Anfibio,12 DE abril,0.08,0.08,0.08,2
+2024,Summer,Anochecer Crítico,Anfibio,PAUJIL,10.8,1.1,26.37,5
+2024,Summer,Anochecer Crítico,Anfibio,QUISTOCOCHA,0.53,0.21,0.86,2
+2024,Summer,Anochecer Crítico,Anfibio,SAN LUCAS,15.26,0.15,33.33,4
+2024,Summer,Anochecer Crítico,Anfibio,VARILLAL,2.21,0.15,6.98,4
+2024,Summer,Anochecer Crítico,Antropogénico,12 DE abril,46.75,12.05,100.0,7
+2024,Summer,Anochecer Crítico,Antropogénico,PAUJIL,15.92,0.08,43.17,6
+2024,Summer,Anochecer Crítico,Antropogénico,QUISTOCOCHA,20.67,1.5,58.82,7
+2024,Summer,Anochecer Crítico,Antropogénico,SAN LUCAS,18.62,0.77,33.33,5
+2024,Summer,Anochecer Crítico,Antropogénico,VARILLAL,16.78,0.26,42.86,7
+2024,Summer,Anochecer Crítico,Ave,PAUJIL,0.6,0.08,2.2,5
+2024,Summer,Anochecer Crítico,Ave,QUISTOCOCHA,03.01,1.76,4.35,4
+2024,Summer,Anochecer Crítico,Ave,SAN LUCAS,0.2,0.02,0.38,4
+2024,Summer,Anochecer Crítico,Ave,VARILLAL,03.07,0.04,14.29,5
+2024,Summer,Anochecer Crítico,Insecto,12 DE abril,46.89,3.41,69.39,3
+2024,Summer,Anochecer Crítico,Insecto,PAUJIL,29.74,5.43,48.35,5
+2024,Summer,Anochecer Crítico,Insecto,QUISTOCOCHA,34.11,14.05,53.4,4
+2024,Summer,Anochecer Crítico,Insecto,SAN LUCAS,54.3,5.22,100.0,7
+2024,Summer,Anochecer Crítico,Insecto,VARILLAL,20.29,4.35,40.68,6
+2024,Summer,Anochecer Crítico,Mamífero,QUISTOCOCHA,0.12,0.03,0.21,2
+2024,Summer,Anochecer Crítico,Mamífero,VARILLAL,0.11,0.05,0.14,3
+2024,Summer,Anochecer Crítico,Ruido ambiental,12 DE abril,46.39,18.48,71.43,5
+2024,Summer,Anochecer Crítico,Ruido ambiental,PAUJIL,56.96,15.38,100.0,7
+2024,Summer,Anochecer Crítico,Ruido ambiental,QUISTOCOCHA,62.29,28.57,100.0,8
+2024,Summer,Anochecer Crítico,Ruido ambiental,SAN LUCAS,44.16,1.96,76.0,6
+2024,Summer,Anochecer Crítico,Ruido ambiental,VARILLAL,67.03,45.04,91.3,8
+2024,Summer,Anochecer Crítico,Silencio,QUISTOCOCHA,7.14,7.14,7.14,1
+2024,Autumn,Amanecer Crítico,Anfibio,12 DE abril,1.18,0.21,3.13,3
+2024,Autumn,Amanecer Crítico,Anfibio,PAUJIL,0.63,0.21,1.67,4
+2024,Autumn,Amanecer Crítico,Antropogénico,12 DE abril,2.65,0.21,6.25,7
+2024,Autumn,Amanecer Crítico,Antropogénico,PAUJIL,3.18,0.83,5.83,7
+2024,Autumn,Amanecer Crítico,Ave,12 DE abril,2.37,01.04,5.21,8
+2024,Autumn,Amanecer Crítico,Ave,PAUJIL,5.34,0.42,11.46,8
+2024,Autumn,Amanecer Crítico,Insecto,12 DE abril,33.67,19.79,43.96,8
+2024,Autumn,Amanecer Crítico,Insecto,PAUJIL,22.4,9.17,43.54,8
+2024,Autumn,Amanecer Crítico,Mamífero,PAUJIL,0.31,0.21,0.42,4
+2024,Autumn,Amanecer Crítico,Ruido ambiental,12 DE abril,61.2,52.29,70.0,8
+2024,Autumn,Amanecer Crítico,Ruido ambiental,PAUJIL,69.01,39.38,87.92,8
+2024,Autumn,Anochecer Crítico,Anfibio,12 DE abril,3.36,0.63,5.21,8
+2024,Autumn,Anochecer Crítico,Anfibio,PAUJIL,0.66,0.21,1.25,6
+2024,Autumn,Anochecer Crítico,Antropogénico,12 DE abril,4.22,0.83,10.83,8
+2024,Autumn,Anochecer Crítico,Antropogénico,PAUJIL,11.92,3.96,22.71,9
+2024,Autumn,Anochecer Crítico,Ave,12 DE abril,01.06,0.21,2.92,9
+2024,Autumn,Anochecer Crítico,Ave,PAUJIL,1.74,0.21,5.0,9
+2024,Autumn,Anochecer Crítico,Insecto,12 DE abril,33.68,22.08,46.46,9
+2024,Autumn,Anochecer Crítico,Insecto,PAUJIL,27.82,5.0,43.75,9
+2024,Autumn,Anochecer Crítico,Mamífero,PAUJIL,0.21,0.21,0.21,2
+2024,Autumn,Anochecer Crítico,Ruido ambiental,12 DE abril,58.52,50.42,76.25,9
+2024,Autumn,Anochecer Crítico,Ruido ambiental,PAUJIL,58.03,43.96,69.79,9
+2024,Winter,Amanecer Crítico,Anfibio,12 DE abril,3.58,0.67,11.88,5
+2024,Winter,Amanecer Crítico,Anfibio,PAUJIL,1.82,0.63,4.44,7
+2024,Winter,Amanecer Crítico,Anfibio,QUISTOCOCHA,0.63,0.21,01.04,5
+2024,Winter,Amanecer Crítico,Anfibio,SAN LUCAS,1.43,0.21,6.5,8
+2024,Winter,Amanecer Crítico,Anfibio,VARILLAL,1.99,0.14,10.66,9
+2024,Winter,Amanecer Crítico,Antropogénico,12 DE abril,4.35,0.21,14.5,7
+2024,Winter,Amanecer Crítico,Antropogénico,PAUJIL,12.81,9.44,18.63,7
+2024,Winter,Amanecer Crítico,Antropogénico,QUISTOCOCHA,8.66,1.25,30.42,12
+2024,Winter,Amanecer Crítico,Antropogénico,SAN LUCAS,12.36,0.83,23.06,12
+2024,Winter,Amanecer Crítico,Antropogénico,VARILLAL,5.73,0.14,28.87,17
+2024,Winter,Amanecer Crítico,Ave,12 DE abril,16.4,12.71,18.75,7
+2024,Winter,Amanecer Crítico,Ave,PAUJIL,23.67,19.34,27.27,7
+2024,Winter,Amanecer Crítico,Ave,QUISTOCOCHA,6.89,0.42,13.75,14
+2024,Winter,Amanecer Crítico,Ave,SAN LUCAS,8.5,4.17,13.5,10
+2024,Winter,Amanecer Crítico,Ave,VARILLAL,18.54,0.98,57.5,21
+2024,Winter,Amanecer Crítico,Insecto,12 DE abril,15.7,0.21,26.67,7
+2024,Winter,Amanecer Crítico,Insecto,PAUJIL,23.8,12.29,33.33,7
+2024,Winter,Amanecer Crítico,Insecto,QUISTOCOCHA,28.6,7.71,49.17,14
+2024,Winter,Amanecer Crítico,Insecto,SAN LUCAS,24.02,7.5,38.0,10
+2024,Winter,Amanecer Crítico,Insecto,VARILLAL,15.55,1.67,34.17,21
+2024,Winter,Amanecer Crítico,Mamífero,12 DE abril,7.0,7.0,7.0,1
+2024,Winter,Amanecer Crítico,Mamífero,PAUJIL,0.74,0.21,1.64,5
+2024,Winter,Amanecer Crítico,Mamífero,QUISTOCOCHA,0.63,0.21,0.83,4
+2024,Winter,Amanecer Crítico,Mamífero,SAN LUCAS,0.83,0.83,0.83,2
+2024,Winter,Amanecer Crítico,Mamífero,VARILLAL,2.15,0.28,5.83,11
+2024,Winter,Amanecer Crítico,Ruido ambiental,12 DE abril,59.99,54.0,73.13,7
+2024,Winter,Amanecer Crítico,Ruido ambiental,PAUJIL,68.68,29.72,100.0,14
+2024,Winter,Amanecer Crítico,Ruido ambiental,QUISTOCOCHA,56.68,47.08,73.33,14
+2024,Winter,Amanecer Crítico,Ruido ambiental,SAN LUCAS,65.23,36.67,100.0,14
+2024,Winter,Amanecer Crítico,Ruido ambiental,VARILLAL,59.3,11.67,83.4,21
+2024,Winter,Anochecer Crítico,Anfibio,12 DE abril,2.39,0.21,6.0,8
+2024,Winter,Anochecer Crítico,Anfibio,PAUJIL,5.86,1.25,12.77,8
+2024,Winter,Anochecer Crítico,Anfibio,QUISTOCOCHA,13.72,01.04,34.58,12
+2024,Winter,Anochecer Crítico,Anfibio,SAN LUCAS,2.63,0.21,9.5,10
+2024,Winter,Anochecer Crítico,Anfibio,VARILLAL,5.14,0.42,25.83,17
+2024,Winter,Anochecer Crítico,Antropogénico,12 DE abril,4.86,0.67,9.58,8
+2024,Winter,Anochecer Crítico,Antropogénico,PAUJIL,13.72,3.33,23.97,8
+2024,Winter,Anochecer Crítico,Antropogénico,QUISTOCOCHA,20.87,2.29,59.58,13
+2024,Winter,Anochecer Crítico,Antropogénico,SAN LUCAS,11.02,0.28,26.5,14
+2024,Winter,Anochecer Crítico,Antropogénico,VARILLAL,10.26,1.86,44.17,21
+2024,Winter,Anochecer Crítico,Ave,12 DE abril,5.54,0.63,12.67,8
+2024,Winter,Anochecer Crítico,Ave,PAUJIL,6.7,0.55,20.94,8
+2024,Winter,Anochecer Crítico,Ave,QUISTOCOCHA,4.79,0.21,11.46,12
+2024,Winter,Anochecer Crítico,Ave,SAN LUCAS,5.21,0.56,10.5,11
+2024,Winter,Anochecer Crítico,Ave,VARILLAL,19.4,0.41,71.67,20
+2024,Winter,Anochecer Crítico,Insecto,12 DE abril,35.53,26.46,46.33,8
+2024,Winter,Anochecer Crítico,Insecto,PAUJIL,37.9,28.54,53.72,8
+2024,Winter,Anochecer Crítico,Insecto,QUISTOCOCHA,17.83,2.92,33.33,12
+2024,Winter,Anochecer Crítico,Insecto,SAN LUCAS,26.5,16.11,37.17,11
+2024,Winter,Anochecer Crítico,Insecto,VARILLAL,23.6,0.69,63.64,19
+2024,Winter,Anochecer Crítico,Mamífero,12 DE abril,0.58,0.33,1.0,3
+2024,Winter,Anochecer Crítico,Mamífero,PAUJIL,01.09,0.83,1.36,2
+2024,Winter,Anochecer Crítico,Mamífero,QUISTOCOCHA,0.94,0.42,1.46,4
+2024,Winter,Anochecer Crítico,Mamífero,VARILLAL,1.59,0.14,4.17,7
+2024,Winter,Anochecer Crítico,Ruido ambiental,12 DE abril,51.47,35.5,66.04,8
+2024,Winter,Anochecer Crítico,Ruido ambiental,PAUJIL,65.63,10.74,100.0,15
+2024,Winter,Anochecer Crítico,Ruido ambiental,QUISTOCOCHA,49.21,10.83,99.79,14
+2024,Winter,Anochecer Crítico,Ruido ambiental,SAN LUCAS,64.71,35.83,100.0,15
+2024,Winter,Anochecer Crítico,Ruido ambiental,VARILLAL,45.23,0.83,88.33,21
+2024,Spring,Anochecer Crítico,Anfibio,12 DE abril,0.3,0.3,0.3,1
+2024,Spring,Anochecer Crítico,Antropogénico,12 DE abril,22.12,22.12,22.12,1
+2024,Spring,Anochecer Crítico,Insecto,12 DE abril,1.14,1.14,1.14,1
+2024,Spring,Anochecer Crítico,Ruido ambiental,12 DE abril,76.44,76.44,76.44,1
+2025,Autumn,Amanecer Crítico,Anfibio,12 DE abril,0.2,0.19,0.21,2
+2025,Autumn,Amanecer Crítico,Anfibio,PAUJIL,2.13,0.28,5.83,3
+2025,Autumn,Amanecer Crítico,Anfibio,SAN LUCAS,0.42,0.42,0.42,1
+2025,Autumn,Amanecer Crítico,Anfibio,VARILLAL,0.17,0.17,0.17,1
+2025,Autumn,Amanecer Crítico,Antropogénico,12 DE abril,0.97,0.21,3.0,6
+2025,Autumn,Amanecer Crítico,Antropogénico,PAUJIL,4.61,0.33,17.22,6
+2025,Autumn,Amanecer Crítico,Antropogénico,SAN LUCAS,10.29,0.42,40.83,5
+2025,Autumn,Amanecer Crítico,Antropogénico,VARILLAL,6.3,2.67,9.0,5
+2025,Autumn,Amanecer Crítico,Ave,12 DE abril,4.76,1.5,6.17,4
+2025,Autumn,Amanecer Crítico,Ave,PAUJIL,09.04,3.0,14.17,5
+2025,Autumn,Amanecer Crítico,Ave,SAN LUCAS,5.7,0.83,18.33,6
+2025,Autumn,Amanecer Crítico,Ave,VARILLAL,5.52,1.48,11.0,5
+2025,Autumn,Amanecer Crítico,Insecto,12 DE abril,6.5,0.21,12.5,5
+2025,Autumn,Amanecer Crítico,Insecto,PAUJIL,25.25,0.33,41.67,6
+2025,Autumn,Amanecer Crítico,Insecto,SAN LUCAS,24.94,2.92,68.5,6
+2025,Autumn,Amanecer Crítico,Insecto,VARILLAL,16.8,10.83,27.04,5
+2025,Autumn,Amanecer Crítico,Mamífero,12 DE abril,0.17,0.17,0.17,1
+2025,Autumn,Amanecer Crítico,Mamífero,VARILLAL,0.81,0.19,2.33,5
+2025,Autumn,Amanecer Crítico,Ruido ambiental,12 DE abril,90.35,83.17,99.76,6
+2025,Autumn,Amanecer Crítico,Ruido ambiental,PAUJIL,67.03,36.67,100.0,7
+2025,Autumn,Amanecer Crítico,Ruido ambiental,SAN LUCAS,60.72,28.35,91.25,6
+2025,Autumn,Amanecer Crítico,Ruido ambiental,VARILLAL,78.95,64.81,100.0,7
+2025,Autumn,Anochecer Crítico,Anfibio,12 DE abril,0.58,0.17,1.0,2
+2025,Autumn,Anochecer Crítico,Anfibio,SAN LUCAS,0.42,0.42,0.42,1
+2025,Autumn,Anochecer Crítico,Anfibio,VARILLAL,1.68,0.17,7.33,6
+2025,Autumn,Anochecer Crítico,Antropogénico,12 DE abril,01.08,0.83,1.33,2
+2025,Autumn,Anochecer Crítico,Antropogénico,PAUJIL,1.98,0.28,6.39,7
+2025,Autumn,Anochecer Crítico,Antropogénico,SAN LUCAS,7.36,3.33,13.33,5
+2025,Autumn,Anochecer Crítico,Antropogénico,VARILLAL,22.78,17.33,33.33,7
+2025,Autumn,Anochecer Crítico,Ave,12 DE abril,5.61,3.83,8.33,3
+2025,Autumn,Anochecer Crítico,Ave,PAUJIL,9.47,4.17,19.17,7
+2025,Autumn,Anochecer Crítico,Ave,SAN LUCAS,6.75,2.92,14.58,6
+2025,Autumn,Anochecer Crítico,Ave,VARILLAL,4.3,2.0,11.33,7
+2025,Autumn,Anochecer Crítico,Insecto,12 DE abril,10.44,6.33,14.0,3
+2025,Autumn,Anochecer Crítico,Insecto,PAUJIL,31.63,17.5,45.0,7
+2025,Autumn,Anochecer Crítico,Insecto,SAN LUCAS,21.61,7.59,44.17,6
+2025,Autumn,Anochecer Crítico,Insecto,VARILLAL,12.8,8.83,20.19,7
+2025,Autumn,Anochecer Crítico,Mamífero,12 DE abril,0.17,0.17,0.17,1
+2025,Autumn,Anochecer Crítico,Mamífero,VARILLAL,0.75,0.67,0.83,2
+2025,Autumn,Anochecer Crítico,Ruido ambiental,12 DE abril,91.39,80.5,100.0,6
+2025,Autumn,Anochecer Crítico,Ruido ambiental,PAUJIL,56.93,38.89,68.89,7
+2025,Autumn,Anochecer Crítico,Ruido ambiental,SAN LUCAS,65.44,46.25,78.48,6
+2025,Autumn,Anochecer Crítico,Ruido ambiental,VARILLAL,58.47,52.22,63.17,7
+2025,Winter,Amanecer Crítico,Antropogénico,QUISTOCOCHA,3.46,0.4,10.28,5
+2025,Winter,Amanecer Crítico,Ave,QUISTOCOCHA,2.58,0.41,6.11,3
+2025,Winter,Amanecer Crítico,Insecto,QUISTOCOCHA,3.1,0.41,12.22,5
+2025,Winter,Amanecer Crítico,Ruido ambiental,QUISTOCOCHA,94.21,71.39,100.0,7
+2025,Winter,Anochecer Crítico,Anfibio,QUISTOCOCHA,1.38,0.41,3.33,3
+2025,Winter,Anochecer Crítico,Antropogénico,QUISTOCOCHA,2.35,0.41,8.61,5
+2025,Winter,Anochecer Crítico,Ave,QUISTOCOCHA,0.4,0.37,0.41,3
+2025,Winter,Anochecer Crítico,Insecto,QUISTOCOCHA,1.88,0.82,3.33,3
+2025,Winter,Anochecer Crítico,Ruido ambiental,QUISTOCOCHA,96.76,88.06,100.0,7
