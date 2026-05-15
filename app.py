@@ -19,11 +19,11 @@ COLORS_STACK = ["#E67161", "#E69C55", "#63B0E6", "#F2D04E", "#61D28F"]
 # --- CARGA DE DATOS ---
 @st.cache_data
 def load_all_data():
-    # 1. Relevo 24h Estacional
+
     df_24h = pd.read_csv('data_24h_combined_seasons.csv')
     
-    # 2. IPH Estacional (Nuevo archivo)
-    with open(r'C:\Users\Florian\Documents\innovalab\graficas\ip-final-final.json', 'r', encoding='utf-8') as f:
+
+    with open('ip-final-final.json', 'r', encoding='utf-8') as f:
         data_json = json.load(f)
     df_iph = pd.DataFrame(data_json['rows'])
     
@@ -31,24 +31,24 @@ def load_all_data():
     df_iph['categoria'] = df_iph['categoria'].map(CAT_TRANS).fillna(df_iph['categoria'])
     df_iph['periodo_analisis'] = df_iph['periodo_analisis'].map(PERIOD_TRANS).fillna(df_iph['periodo_analisis'])
     
-    # Filter only Vaciante and Creciente for all dataframes
+
     target_cycles = ["Vaciante", "Creciente"]
     df_24h = df_24h[df_24h['ciclo_hidrologico'].isin(target_cycles)]
     
-    # Filter out 2022 data from IPH
+
     year_col = 'anio' if 'anio' in df_iph.columns else 'temporada_base'
     df_iph = df_iph[df_iph[year_col] != 2022]
 
-    # Filter specific communities for IPH
+
     allowed_coms = ["SAN LUCAS", "PAUJIL", "VARILLAL", "12 DE ABRIL", "QUISTOCOCHA"]
     df_iph = df_iph[df_iph['comunidad'].isin(allowed_coms)]
     
-    # 3. FTA (Logging)
+
     df_fta = pd.read_csv('output_fta/data_fta.csv')
     df_fta = df_fta[df_fta['ciclo_hidrologico'].isin(target_cycles)]
     
-    # 4. Mapa de Riesgo (Burbujas)
-    df_risk = pd.read_csv(r'C:\Users\Florian\Documents\innovalab\graficas\seasonal_risk_data.csv')
+
+    df_risk = pd.read_csv('seasonal_risk_data.csv')
     
     return df_24h, df_iph, df_fta, df_risk
 
